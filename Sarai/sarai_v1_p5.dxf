@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
--22
+-20
  20
--94
+-79
  30
 0
   9
 $EXTMAX
  10
-146
+155.5
  20
-54
+53.80000000000016
  30
 0
   9
@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-96.83428571428571
+92.96000000000011
  22
-28.47238095238095
+28.20419047619051
  13
 0
  23
@@ -1149,7 +1149,7 @@ AcDbViewportTableRecord
  37
 0
  40
-153.6380952380952
+137.8590476190478
  41
 1.711926605504587
  42
@@ -2811,7 +2811,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D18
+*D17
  70
     0
 280
@@ -2829,7 +2829,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D30
+*D4
  70
     0
 280
@@ -2847,7 +2847,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D14
+*D12
  70
     0
 280
@@ -2865,7 +2865,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D16
+*D26
  70
     0
 280
@@ -2883,7 +2883,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D23
+*D10
  70
     0
 280
@@ -2901,7 +2901,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D7
+*D20
  70
     0
 280
@@ -2919,7 +2919,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D32
+*D23
  70
     0
 280
@@ -2937,7 +2937,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D6
+*D2
  70
     0
 280
@@ -2955,7 +2955,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D5
+*D8
  70
     0
 280
@@ -2973,7 +2973,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D20
+*D24
  70
     0
 280
@@ -2991,7 +2991,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D29
+*D31
  70
     0
 280
@@ -3009,7 +3009,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D13
+*D1
  70
     0
 280
@@ -3027,7 +3027,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D34
+*D9
  70
     0
 280
@@ -3045,7 +3045,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D1
+*D27
  70
     0
 280
@@ -3063,7 +3063,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D12
+*D25
  70
     0
 280
@@ -3081,7 +3081,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D22
+*D11
  70
     0
 280
@@ -3099,7 +3099,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D27
+*D29
  70
     0
 280
@@ -3117,7 +3117,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D2
+*D32
  70
     0
 280
@@ -3135,7 +3135,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D24
+*D5
  70
     0
 280
@@ -3153,7 +3153,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D4
+*D16
  70
     0
 280
@@ -3171,7 +3171,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D21
+*D14
  70
     0
 280
@@ -3189,7 +3189,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D28
+*D13
  70
     0
 280
@@ -3207,7 +3207,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D17
+*D30
  70
     0
 280
@@ -3225,7 +3225,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D9
+*D28
  70
     0
 280
@@ -3243,7 +3243,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D33
+*D15
  70
     0
 280
@@ -3261,7 +3261,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D35
+*D22
  70
     0
 280
@@ -3279,7 +3279,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D25
+*D6
  70
     0
 280
@@ -3297,7 +3297,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D26
+*D7
  70
     0
 280
@@ -3315,7 +3315,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D10
+*D18
  70
     0
 280
@@ -3333,7 +3333,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D8
+*D19
  70
     0
 280
@@ -3351,7 +3351,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D3
+*D21
  70
     0
 280
@@ -3369,61 +3369,7 @@ AcDbSymbolTableRecord
 100
 AcDbBlockTableRecord
   2
-*D11
- 70
-    0
-280
-    1
-281
-    0
-  0
-BLOCK_RECORD
-  5
-B7
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-*D19
- 70
-    0
-280
-    1
-281
-    0
-  0
-BLOCK_RECORD
-  5
-BA
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-*D31
- 70
-    0
-280
-    1
-281
-    0
-  0
-BLOCK_RECORD
-  5
-BD
-330
-1
-100
-AcDbSymbolTableRecord
-100
-AcDbBlockTableRecord
-  2
-*D15
+*D3
  70
     0
 280
@@ -3527,7 +3473,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D18
+*D17
  70
     1
  10
@@ -3535,13 +3481,13 @@ AcDbBlockBegin
  20
 0
   3
-*D18
+*D17
   1
 
   0
 LINE
   5
-C0
+B7
 100
 AcDbEntity
   8
@@ -3557,15 +3503,15 @@ AcDbLine
  10
 -10
  20
--37
+-57
  11
 -10
  21
--58
+-41
   0
 LINE
   5
-C1
+B8
 100
 AcDbEntity
   8
@@ -3581,15 +3527,15 @@ AcDbLine
  10
 -10.70710678118655
  20
--46.29289321881345
+-56.29289321881345
  11
 -9.292893218813452
  21
--47.70710678118655
+-57.70710678118655
   0
 LINE
   5
-C2
+B9
 100
 AcDbEntity
   8
@@ -3605,15 +3551,15 @@ AcDbLine
  10
 -10.70710678118655
  20
--47.29289321881345
+-40.29289321881345
  11
 -9.292893218813452
  21
--48.70710678118655
+-41.70710678118655
   0
 MTEXT
   5
-C3
+BA
 100
 AcDbEntity
   8
@@ -3629,19 +3575,19 @@ AcDbMText
  10
 -12.5
  20
--44.5
+-49
  30
 0
  40
 3
  41
-3
+5.333333333333519
  71
     5
  72
     1
   1
-10
+160
   7
 standard
 210
@@ -3659,7 +3605,7 @@ standard
   0
 LINE
   5
-C4
+BB
 100
 AcDbEntity
   8
@@ -3673,17 +3619,17 @@ ByBlock
 100
 AcDbLine
  10
-4
+10.70000000000002
  20
--47
+-57
  11
 -12
  21
--47
+-57
   0
 LINE
   5
-C5
+BC
 100
 AcDbEntity
   8
@@ -3697,13 +3643,13 @@ ByBlock
 100
 AcDbLine
  10
-4
+10.70000000000002
  20
--48
+-41
  11
 -12
  21
--48
+-41
   0
 ENDBLK
   5
@@ -3729,7 +3675,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D30
+*D4
  70
     1
  10
@@ -3737,13 +3683,13 @@ AcDbBlockBegin
  20
 0
   3
-*D30
+*D4
   1
 
   0
 LINE
   5
-C6
+BD
 100
 AcDbEntity
   8
@@ -3757,17 +3703,17 @@ ByBlock
 100
 AcDbLine
  10
-131
+1.69999999999996
  20
--74
+-6.999999999999999
  11
-131
+23.00000000000003
  21
--56
+-7.000000000000001
   0
 LINE
   5
-C7
+BE
 100
 AcDbEntity
   8
@@ -3781,17 +3727,17 @@ ByBlock
 100
 AcDbLine
  10
-130.2928932188134
+10.99289321881341
  20
--73.29289321881345
+-7.707106781186548
  11
-131.7071067811866
+12.40710678118651
  21
--74.70710678118655
+-6.292893218813452
   0
 LINE
   5
-C8
+BF
 100
 AcDbEntity
   8
@@ -3805,17 +3751,17 @@ ByBlock
 100
 AcDbLine
  10
-130.2928932188134
+12.29289321881348
  20
--55.29289321881345
+-7.707106781186548
  11
-131.7071067811866
+13.70710678118658
  21
--56.70710678118655
+-6.292893218813452
   0
 MTEXT
   5
-C9
+C0
 100
 AcDbEntity
   8
@@ -3829,1243 +3775,9 @@ CONTINUOUS
 100
 AcDbMText
  10
-128.5
+15.50000000000012
  20
--65
- 30
-0
- 40
-3
- 41
-5.333333333333332
- 71
-    5
- 72
-    1
-  1
-180
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-90
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-CA
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-127
- 20
--74
- 11
-133
- 21
--74
-  0
-LINE
-  5
-CB
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-127
- 20
--56
- 11
-133
- 21
--56
-  0
-ENDBLK
-  5
-5C
-330
-5A
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-5E
-330
-5D
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D14
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D14
-  1
-
-  0
-LINE
-  5
-CC
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-75
- 20
-18
- 11
-75
- 21
-40.50000000000001
-  0
-LINE
-  5
-CD
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-75.70710678118655
- 20
-27.29289321881345
- 11
-74.29289321881345
- 21
-28.70710678118655
-  0
-LINE
-  5
-CE
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-75.70710678118655
- 20
-29.79289321881346
- 11
-74.29289321881345
- 21
-31.20710678118656
-  0
-MTEXT
-  5
-CF
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
-72
- 20
-36.08333333333343
- 30
-0
- 40
-3
- 41
-3.666666666666853
- 71
-    5
- 72
-    1
-  1
-25
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-90
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-D0
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-56
- 20
-28
- 11
-77
- 21
-28
-  0
-LINE
-  5
-D1
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-58.49999999999903
- 20
-30.50000000000001
- 11
-77
- 21
-30.50000000000001
-  0
-ENDBLK
-  5
-5F
-330
-5D
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-61
-330
-60
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D16
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D16
-  1
-
-  0
-LINE
-  5
-D2
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--10
- 20
--74
- 11
--10
- 21
--54
-  0
-LINE
-  5
-D3
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--10.70710678118655
- 20
--73.29289321881345
- 11
--9.292893218813454
- 21
--74.70710678118655
-  0
-LINE
-  5
-D4
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--10.70710678118655
- 20
--53.29289321881345
- 11
--9.292893218813452
- 21
--54.70710678118655
-  0
-MTEXT
-  5
-D5
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
--12.5
- 20
--64
- 30
-0
- 40
-3
- 41
-6
- 71
-    5
- 72
-    1
-  1
-200
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-90
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-D6
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-9.5
- 20
--74
- 11
--12
- 21
--74
-  0
-LINE
-  5
-D7
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-9.5
- 20
--54
- 11
--12
- 21
--54
-  0
-ENDBLK
-  5
-62
-330
-60
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-64
-330
-63
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D23
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D23
-  1
-
-  0
-LINE
-  5
-D8
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    7
-370
-    0
-100
-AcDbLine
- 10
-17
- 20
--30
- 11
-8
- 21
--30
-  0
-SOLID
-  5
-D9
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    7
-370
-    0
-100
-AcDbTrace
- 10
-17
- 20
--30
- 30
-0
- 11
-12
- 21
--30.83256931554568
- 31
-0
- 12
-12
- 22
--29.16743068445432
- 32
-0
- 13
-12
- 23
--29.16743068445432
- 33
-0
-  0
-ENDBLK
-  5
-65
-330
-63
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-67
-330
-66
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D7
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D7
-  1
-
-  0
-LINE
-  5
-DA
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-10.49999999999904
- 20
-50
- 11
-57.49999999999903
- 21
-50
-  0
-LINE
-  5
-DB
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-11.20710678118559
- 20
-50.70710678118655
- 11
-9.792893218812493
- 21
-49.29289321881345
-  0
-LINE
-  5
-DC
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-58.20710678118557
- 20
-50.70710678118655
- 11
-56.79289321881248
- 21
-49.29289321881345
-  0
-MTEXT
-  5
-DD
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
-33.99999999999903
- 20
-52.5
- 30
-0
- 40
-3
- 41
-6.333333333333332
- 71
-    5
- 72
-    1
-  1
-470
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-DE
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-10.49999999999904
- 20
-31.31578947368421
- 11
-10.49999999999904
- 21
-52
-  0
-LINE
-  5
-DF
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-57.49999999999903
- 20
-31.50000000000001
- 11
-57.49999999999903
- 21
-52
-  0
-ENDBLK
-  5
-68
-330
-66
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-6A
-330
-69
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D32
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D32
-  1
-
-  0
-LINE
-  5
-E0
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    7
-370
-    0
-100
-AcDbLine
- 10
-117
- 20
--44
- 11
-112
- 21
--37
-  0
-LINE
-  5
-E1
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    7
-370
-    0
-100
-AcDbLine
- 10
-112
- 20
--37
- 11
-100
- 21
--37
-  0
-SOLID
-  5
-E2
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    7
-370
-    0
-100
-AcDbTrace
- 10
-117
- 20
--44
- 30
-0
- 11
-113.4163195122453
- 21
--40.41525372908004
- 31
-0
- 12
-114.7712985505637
- 22
--39.44741155885261
- 32
-0
- 13
-114.7712985505637
- 23
--39.44741155885261
- 33
-0
-  0
-ENDBLK
-  5
-6B
-330
-69
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-6D
-330
-6C
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D6
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D6
-  1
-
-  0
-LINE
-  5
-E3
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--5.000000000000282
- 20
-50
- 11
-20.49999999999904
- 21
-50
-  0
-LINE
-  5
-E4
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-4.29289321881317
- 20
-49.29289321881345
- 11
-5.707106781186265
- 21
-50.70710678118655
-  0
-LINE
-  5
-E5
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-9.792893218812493
- 20
-49.29289321881345
- 11
-11.20710678118559
- 21
-50.70710678118655
-  0
-MTEXT
-  5
-E6
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
-7.749999999999379
- 20
-52.5
- 30
-0
- 40
-3
- 41
-3.666666666667038
- 71
-    5
- 72
-    1
-  1
-55
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-E7
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-4.999999999999718
- 20
-34
- 11
-4.999999999999718
- 21
-52
-  0
-LINE
-  5
-E8
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-10.49999999999904
- 20
-31.31578947368421
- 11
-10.49999999999904
- 21
-52
-  0
-ENDBLK
-  5
-6E
-330
-6C
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-70
-330
-6F
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D5
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D5
-  1
-
-  0
-LINE
-  5
-E9
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-23.29999999999905
- 20
-40
- 11
-44.59999999999903
- 21
-40
-  0
-LINE
-  5
-EA
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-32.59289321881251
- 20
-39.29289321881345
- 11
-34.0071067811856
- 21
-40.70710678118655
-  0
-LINE
-  5
-EB
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-33.89289321881248
- 20
-39.29289321881345
- 11
-35.30710678118557
- 21
-40.70710678118655
-  0
-MTEXT
-  5
-EC
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
-37.09999999999912
- 20
-42.5
+-4.5
  30
 0
  40
@@ -5095,7 +3807,7 @@ standard
   0
 LINE
   5
-ED
+C1
 100
 AcDbEntity
   8
@@ -5109,17 +3821,17 @@ ByBlock
 100
 AcDbLine
  10
-33.29999999999905
+11.69999999999996
  20
-29.00000000000002
+16
  11
-33.29999999999905
+11.69999999999996
  21
-42
+-9
   0
 LINE
   5
-EE
+C2
 100
 AcDbEntity
   8
@@ -5133,19 +3845,19 @@ ByBlock
 100
 AcDbLine
  10
-34.59999999999903
+13.00000000000003
  20
-29.00000000000002
+18.5
  11
-34.59999999999903
+13.00000000000003
  21
-42
+-9
   0
 ENDBLK
   5
-71
+5C
 330
-6F
+5A
 100
 AcDbEntity
   8
@@ -5155,9 +3867,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-73
+5E
 330
-72
+5D
 100
 AcDbEntity
   8
@@ -5165,7 +3877,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D20
+*D12
  70
     1
  10
@@ -5173,13 +3885,13 @@ AcDbBlockBegin
  20
 0
   3
-*D20
+*D12
   1
 
   0
 LINE
   5
-EF
+C3
 100
 AcDbEntity
   8
@@ -5193,17 +3905,17 @@ ByBlock
 100
 AcDbLine
  10
-80
+-5.000000000000001
  20
--63.00000000000001
+31
  11
-80
+-5
  21
--38
+43.5
   0
 LINE
   5
-F0
+C4
 100
 AcDbEntity
   8
@@ -5217,17 +3929,17 @@ ByBlock
 100
 AcDbLine
  10
-80.70710678118655
+-5.707106781186548
  20
--53.70710678118655
+31.70710678118654
  11
-79.29289321881345
+-4.292893218813454
  21
--52.29289321881346
+30.29289321881345
   0
 LINE
   5
-F1
+C5
 100
 AcDbEntity
   8
@@ -5241,17 +3953,219 @@ ByBlock
 100
 AcDbLine
  10
-80.70710678118655
+-5.707106781186547
  20
--48.70710678118655
+44.20710678118655
  11
-79.29289321881345
+-4.292893218813453
  21
--47.29289321881345
+42.79289321881345
   0
 MTEXT
   5
-F2
+C6
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    0
+370
+   -2
+100
+AcDbMText
+ 10
+-7.5
+ 20
+37.25
+ 30
+0
+ 40
+3
+ 41
+5.333333333333519
+ 71
+    5
+ 72
+    1
+  1
+125
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+90
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+C7
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+10.69999999999996
+ 20
+31
+ 11
+-7.000000000000001
+ 21
+31
+  0
+LINE
+  5
+C8
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+3.999999999999773
+ 20
+43.5
+ 11
+-7
+ 21
+43.5
+  0
+ENDBLK
+  5
+5F
+330
+5D
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+61
+330
+60
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D26
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D26
+  1
+
+  0
+LINE
+  5
+C9
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+80
+ 20
+-55.00000000000001
+ 11
+80
+ 21
+-31.00000000000003
+  0
+LINE
+  5
+CA
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+80.70710678118655
+ 20
+-45.70710678118655
+ 11
+79.29289321881345
+ 21
+-44.29289321881346
+  0
+LINE
+  5
+CB
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+80.70710678118655
+ 20
+-41.70710678118657
+ 11
+79.29289321881345
+ 21
+-40.29289321881348
+  0
+MTEXT
+  5
+CC
 100
 AcDbEntity
   8
@@ -5267,19 +4181,19 @@ AcDbMText
  10
 77.5
  20
--50.5
+-38.00000000000003
  30
 0
  40
 3
  41
-3.666666666666852
+4
  71
     5
  72
     1
   1
-50
+40
   7
 standard
 210
@@ -5297,31 +4211,7 @@ standard
   0
 LINE
   5
-F3
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-58.5
- 20
--53.00000000000001
- 11
-82
- 21
--53.00000000000001
-  0
-LINE
-  5
-F4
+CD
 100
 AcDbEntity
   8
@@ -5337,17 +4227,41 @@ AcDbLine
  10
 64
  20
--48
+-45.00000000000001
  11
 82
  21
--48
+-45.00000000000001
+  0
+LINE
+  5
+CE
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+64
+ 20
+-41.00000000000003
+ 11
+82
+ 21
+-41.00000000000003
   0
 ENDBLK
   5
-74
+62
 330
-72
+60
 100
 AcDbEntity
   8
@@ -5357,9 +4271,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-76
+64
 330
-75
+63
 100
 AcDbEntity
   8
@@ -5367,7 +4281,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D29
+*D10
  70
     1
  10
@@ -5375,13 +4289,13 @@ AcDbBlockBegin
  20
 0
   3
-*D29
+*D10
   1
 
   0
 LINE
   5
-F5
+CF
 100
 AcDbEntity
   8
@@ -5395,17 +4309,17 @@ ByBlock
 100
 AcDbLine
  10
-109
+-5.000000000000003
  20
--70
+-5
  11
-136
+-4.999999999999998
  21
--70
+27
   0
 LINE
   5
-F6
+D0
 100
 AcDbEntity
   8
@@ -5419,17 +4333,17 @@ ByBlock
 100
 AcDbLine
  10
-118.2928932188134
+-4.292893218813454
  20
--70.70710678118655
+4.292893218813452
  11
-119.7071067811866
+-5.707106781186548
  21
--69.29289321881345
+5.707106781186548
   0
 LINE
   5
-F7
+D1
 100
 AcDbEntity
   8
@@ -5443,17 +4357,17 @@ ByBlock
 100
 AcDbLine
  10
-125.2928932188134
+-4.292893218813452
  20
--70.70710678118655
+16.29289321881345
  11
-126.7071067811866
+-5.707106781186548
  21
--69.29289321881345
+17.70710678118655
   0
 MTEXT
   5
-F8
+D2
 100
 AcDbEntity
   8
@@ -5467,9 +4381,413 @@ CONTINUOUS
 100
 AcDbMText
  10
-122.5
+-7.5
  20
--67.5
+11
+ 30
+0
+ 40
+3
+ 41
+5.333333333333332
+ 71
+    5
+ 72
+    1
+  1
+120
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+90
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+D3
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+3.999999999999773
+ 20
+4.999999999999999
+ 11
+-7.000000000000001
+ 21
+5
+  0
+LINE
+  5
+D4
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+10.69999999999996
+ 20
+17
+ 11
+-7
+ 21
+17
+  0
+ENDBLK
+  5
+65
+330
+63
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+67
+330
+66
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D20
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D20
+  1
+
+  0
+LINE
+  5
+D5
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+-16
+ 20
+-58.00000000000001
+ 11
+-16
+ 21
+-39.99999520000003
+  0
+LINE
+  5
+D6
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+-16.70710678118655
+ 20
+-57.29289321881346
+ 11
+-15.29289321881345
+ 21
+-58.70710678118655
+  0
+LINE
+  5
+D7
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+-16.70710678118655
+ 20
+-39.29288841881348
+ 11
+-15.29289321881345
+ 21
+-40.70710198118658
+  0
+MTEXT
+  5
+D8
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    0
+370
+   -2
+100
+AcDbMText
+ 10
+-18.5
+ 20
+-48.99999760000001
+ 30
+0
+ 40
+3
+ 41
+5.333333333333332
+ 71
+    5
+ 72
+    1
+  1
+180
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+90
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+D9
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+10.70000000000002
+ 20
+-58.00000000000001
+ 11
+-18
+ 21
+-58.00000000000001
+  0
+LINE
+  5
+DA
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+4
+ 20
+-39.99999520000003
+ 11
+-18
+ 21
+-39.99999520000003
+  0
+ENDBLK
+  5
+68
+330
+66
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+6A
+330
+69
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D23
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D23
+  1
+
+  0
+LINE
+  5
+DB
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+20
+ 20
+-54
+ 11
+48
+ 21
+-54
+  0
+LINE
+  5
+DC
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+29.29289321881345
+ 20
+-54.70710678118655
+ 11
+30.70710678118655
+ 21
+-53.29289321881345
+  0
+LINE
+  5
+DD
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+37.29289321881345
+ 20
+-54.70710678118655
+ 11
+38.70710678118655
+ 21
+-53.29289321881345
+  0
+MTEXT
+  5
+DE
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    0
+370
+   -2
+100
+AcDbMText
+ 10
+34
+ 20
+-51.5
  30
 0
  40
@@ -5481,7 +4799,7 @@ AcDbMText
  72
     1
   1
-70
+80
   7
 standard
 210
@@ -5499,7 +4817,7 @@ standard
   0
 LINE
   5
-F9
+DF
 100
 AcDbEntity
   8
@@ -5513,17 +4831,17 @@ ByBlock
 100
 AcDbLine
  10
-119
+30
  20
--73
+-48
  11
-119
+30
  21
--68
+-56
   0
 LINE
   5
-FA
+E0
 100
 AcDbEntity
   8
@@ -5537,19 +4855,19 @@ ByBlock
 100
 AcDbLine
  10
-126
+38
  20
--73
+-48
  11
-126
+38
  21
--68
+-56
   0
 ENDBLK
   5
-77
+6B
 330
-75
+69
 100
 AcDbEntity
   8
@@ -5559,9 +4877,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-79
+6D
 330
-78
+6C
 100
 AcDbEntity
   8
@@ -5569,7 +4887,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D13
+*D2
  70
     1
  10
@@ -5577,215 +4895,13 @@ AcDbBlockBegin
  20
 0
   3
-*D13
+*D2
   1
 
   0
 LINE
   5
-FB
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-84
- 20
-20.50000000000001
- 11
-84
- 21
-43
-  0
-LINE
-  5
-FC
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-84.70710678118655
- 20
-29.79289321881346
- 11
-83.29289321881345
- 21
-31.20710678118656
-  0
-LINE
-  5
-FD
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-84.70710678118655
- 20
-32.29289321881345
- 11
-83.29289321881345
- 21
-33.70710678118655
-  0
-MTEXT
-  5
-FE
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
-81.5
- 20
-35.83333333333343
- 30
-0
- 40
-3
- 41
-3.666666666666853
- 71
-    5
- 72
-    1
-  1
-25
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-90
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-FF
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-58.49999999999903
- 20
-30.50000000000001
- 11
-86
- 21
-30.50000000000001
-  0
-LINE
-  5
-100
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-64
- 20
-33
- 11
-86
- 21
-33
-  0
-ENDBLK
-  5
-7A
-330
-78
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-7C
-330
-7B
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D34
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D34
-  1
-
-  0
-LINE
-  5
-101
+E1
 100
 AcDbEntity
   8
@@ -5809,7 +4925,7 @@ AcDbLine
   0
 LINE
   5
-102
+E2
 100
 AcDbEntity
   8
@@ -5833,7 +4949,7 @@ AcDbLine
   0
 LINE
   5
-103
+E3
 100
 AcDbEntity
   8
@@ -5857,7 +4973,7 @@ AcDbLine
   0
 MTEXT
   5
-104
+E4
 100
 AcDbEntity
   8
@@ -5903,7 +5019,7 @@ standard
   0
 LINE
   5
-105
+E5
 100
 AcDbEntity
   8
@@ -5927,7 +5043,7 @@ AcDbLine
   0
 LINE
   5
-106
+E6
 100
 AcDbEntity
   8
@@ -5948,6 +5064,914 @@ AcDbLine
 132.8694195
  21
 39.99999999999994
+  0
+ENDBLK
+  5
+6E
+330
+6C
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+70
+330
+6F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D8
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D8
+  1
+
+  0
+LINE
+  5
+E7
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+11.69999999999997
+ 20
+37
+ 11
+54.29999999999998
+ 21
+37
+  0
+LINE
+  5
+E8
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+12.40710678118652
+ 20
+37.70710678118655
+ 11
+10.99289321881342
+ 21
+36.29289321881345
+  0
+LINE
+  5
+E9
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+55.00710678118653
+ 20
+37.70710678118655
+ 11
+53.59289321881344
+ 21
+36.29289321881345
+  0
+MTEXT
+  5
+EA
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    0
+370
+   -2
+100
+AcDbMText
+ 10
+32.99999999999997
+ 20
+39.5
+ 30
+0
+ 40
+3
+ 41
+6.333333333333519
+ 71
+    5
+ 72
+    1
+  1
+426
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+EB
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+11.69999999999996
+ 20
+32
+ 11
+11.69999999999997
+ 21
+39
+  0
+LINE
+  5
+EC
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+54.29999999999998
+ 20
+31.99999999999999
+ 11
+54.29999999999998
+ 21
+39
+  0
+ENDBLK
+  5
+71
+330
+6F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+73
+330
+72
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D24
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D24
+  1
+
+  0
+LINE
+  5
+ED
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+28
+ 20
+-54
+ 11
+49.29999999999998
+ 21
+-54
+  0
+LINE
+  5
+EE
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+37.29289321881345
+ 20
+-54.70710678118655
+ 11
+38.70710678118655
+ 21
+-53.29289321881345
+  0
+LINE
+  5
+EF
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+38.59289321881344
+ 20
+-54.70710678118655
+ 11
+40.00710678118653
+ 21
+-53.29289321881345
+  0
+MTEXT
+  5
+F0
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    0
+370
+   -2
+100
+AcDbMText
+ 10
+41.80000000000006
+ 20
+-51.5
+ 30
+0
+ 40
+3
+ 41
+3.000000000000186
+ 71
+    5
+ 72
+    1
+  1
+13
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+F1
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+38
+ 20
+-48
+ 11
+38
+ 21
+-56
+  0
+LINE
+  5
+F2
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+39.29999999999998
+ 20
+-48.00000000000001
+ 11
+39.29999999999998
+ 21
+-56
+  0
+ENDBLK
+  5
+74
+330
+72
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+76
+330
+75
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D31
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D31
+  1
+
+  0
+LINE
+  5
+F3
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbLine
+ 10
+34
+ 20
+-32
+ 11
+25
+ 21
+-32
+  0
+SOLID
+  5
+F4
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbTrace
+ 10
+34
+ 20
+-32
+ 30
+0
+ 11
+29
+ 21
+-32.83256931554568
+ 31
+0
+ 12
+29
+ 22
+-31.16743068445432
+ 32
+0
+ 13
+29
+ 23
+-31.16743068445432
+ 33
+0
+  0
+ENDBLK
+  5
+77
+330
+75
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+79
+330
+78
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D1
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D1
+  1
+
+  0
+LINE
+  5
+F5
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+122.8694195
+ 20
+19.99999999999984
+ 11
+122.8694195
+ 21
+41.49999999999971
+  0
+LINE
+  5
+F6
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+123.5765262811866
+ 20
+29.29289321881329
+ 11
+122.1623127188135
+ 21
+30.70710678118639
+  0
+LINE
+  5
+F7
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+123.5765262811866
+ 20
+30.79289321881316
+ 11
+122.1623127188135
+ 21
+32.20710678118625
+  0
+MTEXT
+  5
+F8
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    0
+370
+   -2
+100
+AcDbMText
+ 10
+120.3694195
+ 20
+30.74999999999977
+ 30
+0
+ 40
+3
+ 41
+1.333333333333519
+ 71
+    5
+ 72
+    1
+  1
+3
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+90
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+F9
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+129.3694195
+ 20
+29.99999999999984
+ 11
+120.8694195
+ 21
+29.99999999999984
+  0
+LINE
+  5
+FA
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+129.3694195
+ 20
+31.49999999999971
+ 11
+120.8694195
+ 21
+31.49999999999971
+  0
+ENDBLK
+  5
+7A
+330
+78
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+7C
+330
+7B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D9
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D9
+  1
+
+  0
+LINE
+  5
+FB
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+44.29999999999998
+ 20
+37
+ 11
+72.99999999999932
+ 21
+37
+  0
+LINE
+  5
+FC
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+53.59289321881344
+ 20
+36.29289321881345
+ 11
+55.00710678118653
+ 21
+37.70710678118655
+  0
+LINE
+  5
+FD
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+62.29289321881277
+ 20
+36.29289321881345
+ 11
+63.70710678118586
+ 21
+37.70710678118655
+  0
+MTEXT
+  5
+FE
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    0
+370
+   -2
+100
+AcDbMText
+ 10
+58.64999999999964
+ 20
+39.5
+ 30
+0
+ 40
+3
+ 41
+3.666666666666667
+ 71
+    5
+ 72
+    1
+  1
+87
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+FF
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+54.29999999999998
+ 20
+31.99999999999999
+ 11
+54.29999999999998
+ 21
+39
+  0
+LINE
+  5
+100
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+62.99999999999932
+ 20
+42.49999999999999
+ 11
+62.99999999999932
+ 21
+35
   0
 ENDBLK
   5
@@ -5973,7 +5997,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D1
+*D27
  70
     1
  10
@@ -5981,37 +6005,85 @@ AcDbBlockBegin
  20
 0
   3
-*D1
+*D27
   1
 
   0
 LINE
   5
-107
+101
 100
 AcDbEntity
   8
 dimensions
   6
-CONTINUOUS
+ByBlock
  62
-    7
-370
     0
+370
+   -2
 100
 AcDbLine
  10
--8
- 20
-19
- 11
--8
- 21
-10
-  0
-SOLID
-  5
 108
+ 20
+-37
+ 11
+133
+ 21
+-37
+  0
+LINE
+  5
+102
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+117.2928932188134
+ 20
+-37.70710678118655
+ 11
+118.7071067811866
+ 21
+-36.29289321881345
+  0
+LINE
+  5
+103
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+122.2928932188134
+ 20
+-37.70710678118655
+ 11
+123.7071067811866
+ 21
+-36.29289321881345
+  0
+MTEXT
+  5
+104
 100
 AcDbEntity
   8
@@ -6019,35 +6091,89 @@ dimensions
   6
 CONTINUOUS
  62
-    7
-370
     0
+370
+   -2
 100
-AcDbTrace
+AcDbMText
  10
--8
+120.5
  20
-19
+-34.5
  30
 0
+ 40
+3
+ 41
+3.666666666666852
+ 71
+    5
+ 72
+    1
+  1
+50
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+105
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+118
+ 20
+-40
  11
--7.167430684454319
+118
  21
-14
- 31
-0
- 12
--8.832569315545681
- 22
-14
- 32
-0
- 13
--8.832569315545681
- 23
-14
- 33
-0
+-35
+  0
+LINE
+  5
+106
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+123
+ 20
+-39.99999999999999
+ 11
+123
+ 21
+-35
   0
 ENDBLK
   5
@@ -6073,7 +6199,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D12
+*D25
  70
     1
  10
@@ -6081,9 +6207,57 @@ AcDbBlockBegin
  20
 0
   3
-*D12
+*D25
   1
 
+  0
+LINE
+  5
+107
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+18.70000000000002
+ 20
+-54
+ 11
+40
+ 21
+-54
+  0
+LINE
+  5
+108
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+27.99289321881347
+ 20
+-54.70710678118655
+ 11
+29.40710678118656
+ 21
+-53.29289321881345
   0
 LINE
   5
@@ -6101,15 +6275,15 @@ ByBlock
 100
 AcDbLine
  10
-84
+29.29289321881345
  20
-6.500000000000011
+-54.70710678118655
  11
-84
+30.70710678118655
  21
-30.50000000000001
+-53.29289321881345
   0
-LINE
+MTEXT
   5
 10A
 100
@@ -6117,21 +6291,43 @@ AcDbEntity
   8
 dimensions
   6
-ByBlock
+CONTINUOUS
  62
     0
 370
    -2
 100
-AcDbLine
+AcDbMText
  10
-83.29289321881345
+25.15000000000008
  20
-7.207106781186559
- 11
-84.70710678118655
- 21
-5.792893218813463
+-51.5
+ 30
+0
+ 40
+3
+ 41
+3.000000000000186
+ 71
+    5
+ 72
+    1
+  1
+13
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
   0
 LINE
   5
@@ -6149,15 +6345,15 @@ ByBlock
 100
 AcDbLine
  10
-83.29289321881345
+28.70000000000002
  20
-31.20710678118656
+-48.00000000000001
  11
-84.70710678118655
+28.70000000000002
  21
-29.79289321881346
+-56
   0
-MTEXT
+LINE
   5
 10C
 100
@@ -6165,52 +6361,6 @@ AcDbEntity
   8
 dimensions
   6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
-81.5
- 20
-18.50000000000001
- 30
-0
- 40
-3
- 41
-6.333333333333332
- 71
-    5
- 72
-    1
-  1
-240
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-90
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-10D
-100
-AcDbEntity
-  8
-dimensions
-  6
 ByBlock
  62
     0
@@ -6219,37 +6369,13 @@ ByBlock
 100
 AcDbLine
  10
-58.49999999999903
+30
  20
-6.500000000000012
+-48
  11
-86
+30
  21
-6.500000000000011
-  0
-LINE
-  5
-10E
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-58.49999999999903
- 20
-30.50000000000001
- 11
-86
- 21
-30.50000000000001
+-56
   0
 ENDBLK
   5
@@ -6275,7 +6401,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D22
+*D11
  70
     1
  10
@@ -6283,9 +6409,57 @@ AcDbBlockBegin
  20
 0
   3
-*D22
+*D11
   1
 
+  0
+LINE
+  5
+10D
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+-5.000000000000001
+ 20
+17
+ 11
+-5
+ 21
+31
+  0
+LINE
+  5
+10E
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+-5.707106781186548
+ 20
+17.70710678118655
+ 11
+-4.292893218813454
+ 21
+16.29289321881345
   0
 LINE
   5
@@ -6303,15 +6477,15 @@ ByBlock
 100
 AcDbLine
  10
-3
+-5.707106781186547
  20
--60
+31.70710678118655
  11
-31
+-4.292893218813453
  21
--60
+30.29289321881345
   0
-LINE
+MTEXT
   5
 110
 100
@@ -6319,21 +6493,43 @@ AcDbEntity
   8
 dimensions
   6
-ByBlock
+CONTINUOUS
  62
     0
 370
    -2
 100
-AcDbLine
+AcDbMText
  10
-12.29289321881345
+-7.5
  20
--60.70710678118655
- 11
-13.70710678118655
- 21
--59.29289321881345
+24
+ 30
+0
+ 40
+3
+ 41
+5.666666666666666
+ 71
+    5
+ 72
+    1
+  1
+140
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+90
+ 73
+    2
+ 44
+1
   0
 LINE
   5
@@ -6351,15 +6547,15 @@ ByBlock
 100
 AcDbLine
  10
-20.29289321881345
+10.69999999999996
  20
--60.70710678118655
+17
  11
-21.70710678118655
+-7.000000000000001
  21
--59.29289321881345
+17
   0
-MTEXT
+LINE
   5
 112
 100
@@ -6367,52 +6563,6 @@ AcDbEntity
   8
 dimensions
   6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
-17
- 20
--57.5
- 30
-0
- 40
-3
- 41
-3.666666666666666
- 71
-    5
- 72
-    1
-  1
-80
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-113
-100
-AcDbEntity
-  8
-dimensions
-  6
 ByBlock
  62
     0
@@ -6421,37 +6571,13 @@ ByBlock
 100
 AcDbLine
  10
-13
+10.69999999999996
  20
--55.0000054
+31
  11
-13
+-7
  21
--62
-  0
-LINE
-  5
-114
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-21
- 20
--55
- 11
-21
- 21
--62
+31
   0
 ENDBLK
   5
@@ -6477,7 +6603,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D27
+*D29
  70
     1
  10
@@ -6485,9 +6611,57 @@ AcDbBlockBegin
  20
 0
   3
-*D27
+*D29
   1
 
+  0
+LINE
+  5
+113
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+129
+ 20
+-57.50000000000001
+ 11
+129
+ 21
+-37
+  0
+LINE
+  5
+114
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+129.7071067811866
+ 20
+-48.20710678118655
+ 11
+128.2928932188134
+ 21
+-46.79289321881346
   0
 LINE
   5
@@ -6505,15 +6679,15 @@ ByBlock
 100
 AcDbLine
  10
-110
+129.7071067811866
  20
--42
+-47.70710678118655
  11
-141.999999999999
+128.2928932188134
  21
--42
+-46.29289321881345
   0
-LINE
+MTEXT
   5
 116
 100
@@ -6521,21 +6695,43 @@ AcDbEntity
   8
 dimensions
   6
-ByBlock
+CONTINUOUS
  62
     0
 370
    -2
 100
-AcDbLine
+AcDbMText
  10
-119.2928932188134
+126.5
  20
--42.70710678118655
- 11
-120.7071067811866
- 21
--41.29289321881345
+-45.33333333333324
+ 30
+0
+ 40
+3
+ 41
+1.333333333333519
+ 71
+    5
+ 72
+    1
+  1
+5
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+90
+ 73
+    2
+ 44
+1
   0
 LINE
   5
@@ -6553,15 +6749,15 @@ ByBlock
 100
 AcDbLine
  10
-131.2928932188125
+124.0000000000001
  20
--42.70710678118655
+-47.50000000000001
  11
-132.7071067811856
+131
  21
--41.29289321881345
+-47.50000000000001
   0
-MTEXT
+LINE
   5
 118
 100
@@ -6569,52 +6765,6 @@ AcDbEntity
   8
 dimensions
   6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
-125.9999999999995
- 20
--39.5
- 30
-0
- 40
-3
- 41
-5.333333333333332
- 71
-    5
- 72
-    1
-  1
-120
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-119
-100
-AcDbEntity
-  8
-dimensions
-  6
 ByBlock
  62
     0
@@ -6623,37 +6773,13 @@ ByBlock
 100
 AcDbLine
  10
-120
+124.0000000000002
  20
--46.20000000000006
+-47
  11
-120
+131
  21
--40
-  0
-LINE
-  5
-11A
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-131.999999999999
- 20
--46.15000000000006
- 11
-131.999999999999
- 21
--40
+-47
   0
 ENDBLK
   5
@@ -6679,7 +6805,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D2
+*D32
  70
     1
  10
@@ -6687,13 +6813,13 @@ AcDbBlockBegin
  20
 0
   3
-*D2
+*D32
   1
 
   0
 LINE
   5
-11B
+119
 100
 AcDbEntity
   8
@@ -6707,17 +6833,17 @@ CONTINUOUS
 100
 AcDbLine
  10
-16.99999999999999
+34
  20
--88
+-73
  11
-7.999999999999986
+25
  21
--88
+-73
   0
 SOLID
   5
-11C
+11A
 100
 AcDbEntity
   8
@@ -6731,27 +6857,27 @@ CONTINUOUS
 100
 AcDbTrace
  10
-16.99999999999999
+34
  20
--88
+-73
  30
 0
  11
-11.99999999999999
+29
  21
--88.83256931554568
+-73.83256931554568
  31
 0
  12
-11.99999999999999
+29
  22
--87.16743068445432
+-72.16743068445432
  32
 0
  13
-11.99999999999999
+29
  23
--87.16743068445432
+-72.16743068445432
  33
 0
   0
@@ -6779,7 +6905,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D24
+*D5
  70
     1
  10
@@ -6787,9 +6913,57 @@ AcDbBlockBegin
  20
 0
   3
-*D24
+*D5
   1
 
+  0
+LINE
+  5
+11B
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+13.00000000000003
+ 20
+-6.999999999999996
+ 11
+53.00000000000003
+ 21
+-6.999999999999996
+  0
+LINE
+  5
+11C
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+13.70710678118658
+ 20
+-6.292893218813449
+ 11
+12.29289321881348
+ 21
+-7.707106781186544
   0
 LINE
   5
@@ -6807,65 +6981,17 @@ ByBlock
 100
 AcDbLine
  10
-1.699999999999998
+53.70710678118657
  20
--42
+-6.292893218813449
  11
-32.3
+52.29289321881348
  21
--42
-  0
-LINE
-  5
-11E
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-10.99289321881345
- 20
--42.70710678118655
- 11
-12.40710678118655
- 21
--41.29289321881345
-  0
-LINE
-  5
-11F
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-21.59289321881345
- 20
--42.70710678118655
- 11
-23.00710678118655
- 21
--41.29289321881345
+-7.707106781186544
   0
 MTEXT
   5
-120
+11E
 100
 AcDbEntity
   8
@@ -6879,21 +7005,21 @@ CONTINUOUS
 100
 AcDbMText
  10
-17
+33.00000000000003
  20
--39.5
+-4.499999999999996
  30
 0
  40
 3
  41
-5.333333333333519
+6.333333333333332
  71
     5
  72
     1
   1
-106
+400
   7
 standard
 210
@@ -6911,7 +7037,7 @@ standard
   0
 LINE
   5
-121
+11F
 100
 AcDbEntity
   8
@@ -6925,17 +7051,17 @@ ByBlock
 100
 AcDbLine
  10
-11.7
+13.00000000000003
  20
--47
+18.5
  11
-11.7
+13.00000000000003
  21
--40
+-8.999999999999996
   0
 LINE
   5
-122
+120
 100
 AcDbEntity
   8
@@ -6949,13 +7075,13 @@ ByBlock
 100
 AcDbLine
  10
-22.3
+53.00000000000003
  20
--47
+18.49999999999999
  11
-22.3
+53.00000000000003
  21
--40
+-8.999999999999996
   0
 ENDBLK
   5
@@ -6981,7 +7107,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D4
+*D16
  70
     1
  10
@@ -6989,85 +7115,13 @@ AcDbBlockBegin
  20
 0
   3
-*D4
+*D16
   1
 
   0
 LINE
   5
-123
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-44.99999999999903
- 20
-40
- 11
-67.49999999999903
- 21
-40
-  0
-LINE
-  5
-124
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-54.29289321881248
- 20
-39.29289321881345
- 11
-55.70710678118557
- 21
-40.70710678118655
-  0
-LINE
-  5
-125
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-56.79289321881248
- 20
-39.29289321881345
- 11
-58.20710678118557
- 21
-40.70710678118655
-  0
-MTEXT
-  5
-126
+121
 100
 AcDbEntity
   8
@@ -7075,89 +7129,59 @@ dimensions
   6
 CONTINUOUS
  62
-    0
+    7
 370
-   -2
+    0
 100
-AcDbMText
+AcDbLine
  10
-60.33333333333245
+-15
  20
-42.5
+24
+ 11
+-15
+ 21
+15
+  0
+SOLID
+  5
+122
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbTrace
+ 10
+-15
+ 20
+24
  30
 0
- 40
-3
- 41
-3.666666666666853
- 71
-    5
- 72
-    1
-  1
-25
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-127
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-54.99999999999903
- 20
-29.00000000000002
  11
-54.99999999999903
+-14.16743068445432
  21
-42
-  0
-LINE
-  5
-128
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-57.49999999999903
- 20
-31.50000000000001
- 11
-57.49999999999903
- 21
-42
+19
+ 31
+0
+ 12
+-15.83256931554568
+ 22
+19
+ 32
+0
+ 13
+-15.83256931554568
+ 23
+19
+ 33
+0
   0
 ENDBLK
   5
@@ -7183,7 +7207,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D21
+*D14
  70
     1
  10
@@ -7191,7 +7215,209 @@ AcDbBlockBegin
  20
 0
   3
-*D21
+*D14
+  1
+
+  0
+LINE
+  5
+123
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+74
+ 20
+18.49999999999999
+ 11
+74
+ 21
+40.99999999999999
+  0
+LINE
+  5
+124
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+74.70710678118655
+ 20
+27.79289321881345
+ 11
+73.29289321881345
+ 21
+29.20710678118654
+  0
+LINE
+  5
+125
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+74.70710678118655
+ 20
+30.29289321881345
+ 11
+73.29289321881345
+ 21
+31.70710678118654
+  0
+MTEXT
+  5
+126
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    0
+370
+   -2
+100
+AcDbMText
+ 10
+71.5
+ 20
+33.83333333333342
+ 30
+0
+ 40
+3
+ 41
+3.666666666666853
+ 71
+    5
+ 72
+    1
+  1
+25
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+90
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+127
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+54.00000000000003
+ 20
+28.49999999999999
+ 11
+76
+ 21
+28.49999999999999
+  0
+LINE
+  5
+128
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+55.29999999999998
+ 20
+30.99999999999999
+ 11
+76
+ 21
+30.99999999999999
+  0
+ENDBLK
+  5
+95
+330
+93
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+97
+330
+96
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D13
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D13
   1
 
   0
@@ -7211,13 +7437,13 @@ ByBlock
 100
 AcDbLine
  10
-80
+74
  20
--64
+9.499999999999993
  11
-80
+74
  21
--43.00000000000001
+38.49999999999999
   0
 LINE
   5
@@ -7235,13 +7461,13 @@ ByBlock
 100
 AcDbLine
  10
-80.70710678118655
+74.70710678118655
  20
--54.70710678118655
+18.79289321881345
  11
-79.29289321881345
+73.29289321881345
  21
--53.29289321881345
+20.20710678118654
   0
 LINE
   5
@@ -7259,13 +7485,13 @@ ByBlock
 100
 AcDbLine
  10
-80.70710678118655
+74.70710678118655
  20
--53.70710678118655
+27.79289321881345
  11
-79.29289321881345
+73.29289321881345
  21
--52.29289321881346
+29.20710678118654
   0
 MTEXT
   5
@@ -7283,21 +7509,21 @@ CONTINUOUS
 100
 AcDbMText
  10
-77
+71.5
  20
--57
+23.99999999999999
  30
 0
  40
 3
  41
-3
+3.666666666666853
  71
     5
  72
     1
   1
-10
+90
   7
 standard
 210
@@ -7329,13 +7555,13 @@ ByBlock
 100
 AcDbLine
  10
-58.5
+54.00000000000003
  20
--54
+19.49999999999999
  11
-82
+76
  21
--54
+19.49999999999999
   0
 LINE
   5
@@ -7353,215 +7579,13 @@ ByBlock
 100
 AcDbLine
  10
-58.5
+54.00000000000003
  20
--53.00000000000001
+28.49999999999999
  11
-82
+76
  21
--53.00000000000001
-  0
-ENDBLK
-  5
-95
-330
-93
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-97
-330
-96
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D28
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D28
-  1
-
-  0
-LINE
-  5
-12F
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-118.7
- 20
--35
- 11
-133.3
- 21
--35
-  0
-LINE
-  5
-130
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-119.4071067811866
- 20
--34.29289321881345
- 11
-117.9928932188134
- 21
--35.70710678118655
-  0
-LINE
-  5
-131
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-134.0071067811866
- 20
--34.29289321881345
- 11
-132.5928932188135
- 21
--35.70710678118655
-  0
-MTEXT
-  5
-132
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
-126
- 20
--32.5
- 30
-0
- 40
-3
- 41
-5.666666666666853
- 71
-    5
- 72
-    1
-  1
-146
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-133
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-118.7
- 20
--47.00000000000003
- 11
-118.7
- 21
--33
-  0
-LINE
-  5
-134
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-133.3
- 20
--47.00000000000003
- 11
-133.3
- 21
--33
+28.49999999999999
   0
 ENDBLK
   5
@@ -7587,7 +7611,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D17
+*D30
  70
     1
  10
@@ -7595,85 +7619,13 @@ AcDbBlockBegin
  20
 0
   3
-*D17
+*D30
   1
 
   0
 LINE
   5
-135
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--10
- 20
--64
- 11
--9.999999999999996
- 21
--38
-  0
-LINE
-  5
-136
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--9.29289321881345
- 20
--54.70710678118655
- 11
--10.70710678118655
- 21
--53.29289321881345
-  0
-LINE
-  5
-137
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--9.29289321881345
- 20
--48.70710678118655
- 11
--10.70710678118655
- 21
--47.29289321881345
-  0
-MTEXT
-  5
-138
+12F
 100
 AcDbEntity
   8
@@ -7681,89 +7633,83 @@ dimensions
   6
 CONTINUOUS
  62
-    0
+    7
 370
-   -2
+    0
 100
-AcDbMText
+AcDbLine
  10
--12.5
+10.00000000000006
  20
--51
+-36.9999952
+ 11
+5.000000000000057
+ 21
+-29.9999952
+  0
+LINE
+  5
+130
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbLine
+ 10
+5.000000000000057
+ 20
+-29.9999952
+ 11
+-6.999999999999943
+ 21
+-29.9999952
+  0
+SOLID
+  5
+131
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbTrace
+ 10
+10.00000000000006
+ 20
+-36.9999952
  30
 0
- 40
-3
- 41
-3.666666666666852
- 71
-    5
- 72
-    1
-  1
-60
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-90
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-139
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-10.7
- 20
--54
  11
--12
+6.416319512245373
  21
--54
-  0
-LINE
-  5
-13A
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-10.7
- 20
--48
- 11
--12
- 21
--48
+-33.41524892908004
+ 31
+0
+ 12
+7.771298550563778
+ 22
+-32.44740675885261
+ 32
+0
+ 13
+7.771298550563778
+ 23
+-32.44740675885261
+ 33
+0
   0
 ENDBLK
   5
@@ -7789,7 +7735,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D9
+*D28
  70
     1
  10
@@ -7797,9 +7743,335 @@ AcDbBlockBegin
  20
 0
   3
-*D9
+*D28
   1
 
+  0
+LINE
+  5
+132
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+106.7
+ 20
+-37
+ 11
+128
+ 21
+-37
+  0
+LINE
+  5
+133
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+115.9928932188134
+ 20
+-37.70710678118655
+ 11
+117.4071067811865
+ 21
+-36.29289321881345
+  0
+LINE
+  5
+134
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+117.2928932188134
+ 20
+-37.70710678118655
+ 11
+118.7071067811866
+ 21
+-36.29289321881345
+  0
+MTEXT
+  5
+135
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    0
+370
+   -2
+100
+AcDbMText
+ 10
+113.1500000000001
+ 20
+-34.5
+ 30
+0
+ 40
+3
+ 41
+3.000000000000186
+ 71
+    5
+ 72
+    1
+  1
+13
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+136
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+116.7
+ 20
+-40.00000000000001
+ 11
+116.7
+ 21
+-35
+  0
+LINE
+  5
+137
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+118
+ 20
+-40
+ 11
+118
+ 21
+-35
+  0
+ENDBLK
+  5
+9E
+330
+9C
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+A0
+330
+9F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D15
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D15
+  1
+
+  0
+LINE
+  5
+138
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbLine
+ 10
+81
+ 20
+24
+ 11
+81
+ 21
+15
+  0
+SOLID
+  5
+139
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    7
+370
+    0
+100
+AcDbTrace
+ 10
+81
+ 20
+24
+ 30
+0
+ 11
+81.83256931554568
+ 21
+19
+ 31
+0
+ 12
+80.16743068445432
+ 22
+19
+ 32
+0
+ 13
+80.16743068445432
+ 23
+19
+ 33
+0
+  0
+ENDBLK
+  5
+A1
+330
+9F
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+A3
+330
+A2
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D22
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D22
+  1
+
+  0
+LINE
+  5
+13A
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+74
+ 20
+6.999999999999993
+ 11
+74
+ 21
+29.49999999999999
   0
 LINE
   5
@@ -7817,13 +8089,13 @@ ByBlock
 100
 AcDbLine
  10
-75
+74.70710678118655
  20
--3.499999999999988
+16.29289321881345
  11
-75
+73.29289321881345
  21
-19.00000000000002
+17.70710678118654
   0
 LINE
   5
@@ -7841,41 +8113,17 @@ ByBlock
 100
 AcDbLine
  10
-75.70710678118655
+74.70710678118655
  20
-5.792893218813465
+18.79289321881345
  11
-74.29289321881345
+73.29289321881345
  21
-7.20710678118656
-  0
-LINE
-  5
-13D
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-75.70710678118655
- 20
-8.292893218813477
- 11
-74.29289321881345
- 21
-9.707106781186573
+20.20710678118654
   0
 MTEXT
   5
-13E
+13D
 100
 AcDbEntity
   8
@@ -7889,9 +8137,9 @@ CONTINUOUS
 100
 AcDbMText
  10
-72.5
+71.5
  20
-11.83333333333345
+12.08333333333343
  30
 0
  40
@@ -7921,6 +8169,30 @@ standard
   0
 LINE
   5
+13E
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+55.29999999999998
+ 20
+16.99999999999999
+ 11
+76
+ 21
+16.99999999999999
+  0
+LINE
+  5
 13F
 100
 AcDbEntity
@@ -7935,13 +8207,49 @@ ByBlock
 100
 AcDbLine
  10
-58.49999999999903
+54.00000000000003
  20
-6.500000000000012
+19.49999999999999
  11
-77
+76
  21
-6.500000000000012
+19.49999999999999
+  0
+ENDBLK
+  5
+A4
+330
+A2
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+A6
+330
+A5
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D6
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D6
+  1
+
   0
 LINE
   5
@@ -7959,49 +8267,13 @@ ByBlock
 100
 AcDbLine
  10
-55.99999999999903
+43.00000000000003
  20
-9.000000000000025
+-6.999999999999999
  11
-77
+64.29999999999998
  21
-9.000000000000025
-  0
-ENDBLK
-  5
-9E
-330
-9C
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-A0
-330
-9F
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D33
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D33
-  1
-
+-7.000000000000001
   0
 LINE
   5
@@ -8019,13 +8291,13 @@ ByBlock
 100
 AcDbLine
  10
-122.8694195
+52.29289321881348
  20
-19.99999999999984
+-7.707106781186548
  11
-122.8694195
+53.70710678118657
  21
-41.49999999999971
+-6.292893218813452
   0
 LINE
   5
@@ -8043,41 +8315,17 @@ ByBlock
 100
 AcDbLine
  10
-123.5765262811866
+53.59289321881344
  20
-29.29289321881329
+-7.707106781186548
  11
-122.1623127188135
+55.00710678118653
  21
-30.70710678118639
-  0
-LINE
-  5
-143
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-123.5765262811866
- 20
-30.79289321881316
- 11
-122.1623127188135
- 21
-32.20710678118625
+-6.292893218813452
   0
 MTEXT
   5
-144
+143
 100
 AcDbEntity
   8
@@ -8091,21 +8339,21 @@ CONTINUOUS
 100
 AcDbMText
  10
-120.3694195
+56.80000000000005
  20
-30.74999999999978
+-4.5
  30
 0
  40
 3
  41
-1.333333333333519
+3.000000000000186
  71
     5
  72
     1
   1
-3
+13
   7
 standard
 210
@@ -8115,11 +8363,35 @@ standard
 230
 1
  50
-90
+0
  73
     2
  44
 1
+  0
+LINE
+  5
+144
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+53.00000000000003
+ 20
+18.49999999999999
+ 11
+53.00000000000003
+ 21
+-9
   0
 LINE
   5
@@ -8137,13 +8409,49 @@ ByBlock
 100
 AcDbLine
  10
-129.3694195
+54.29999999999998
  20
-29.99999999999984
+15.99999999999999
  11
-120.8694195
+54.29999999999998
  21
-29.99999999999984
+-9
+  0
+ENDBLK
+  5
+A7
+330
+A5
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+A9
+330
+A8
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D7
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D7
+  1
+
   0
 LINE
   5
@@ -8161,19 +8469,161 @@ ByBlock
 100
 AcDbLine
  10
-129.3694195
+-5.000000000000001
  20
-31.49999999999971
+37
  11
-120.8694195
+21.69999999999996
  21
-31.49999999999971
+37
+  0
+LINE
+  5
+147
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+4.292893218813451
+ 20
+36.29289321881345
+ 11
+5.707106781186547
+ 21
+37.70710678118655
+  0
+LINE
+  5
+148
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+10.99289321881341
+ 20
+36.29289321881345
+ 11
+12.40710678118651
+ 21
+37.70710678118655
+  0
+MTEXT
+  5
+149
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    0
+370
+   -2
+100
+AcDbMText
+ 10
+8.349999999999966
+ 20
+39.5
+ 30
+0
+ 40
+3
+ 41
+3.666666666666853
+ 71
+    5
+ 72
+    1
+  1
+67
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+14A
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+5
+ 20
+42.50000000000001
+ 11
+4.999999999999999
+ 21
+35
+  0
+LINE
+  5
+14B
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+11.69999999999996
+ 20
+32
+ 11
+11.69999999999996
+ 21
+39
   0
 ENDBLK
   5
-A1
+AA
 330
-9F
+A8
 100
 AcDbEntity
   8
@@ -8183,9 +8633,9 @@ AcDbBlockEnd
   0
 BLOCK
   5
-A3
+AC
 330
-A2
+AB
 100
 AcDbEntity
   8
@@ -8193,7 +8643,7 @@ AcDbEntity
 100
 AcDbBlockBegin
   2
-*D35
+*D18
  70
     1
  10
@@ -8201,13 +8651,619 @@ AcDbBlockBegin
  20
 0
   3
-*D35
+*D18
   1
 
   0
 LINE
   5
-147
+14C
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+-10
+ 20
+-51
+ 11
+-9.999999999999998
+ 21
+-30
+  0
+LINE
+  5
+14D
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+-9.292893218813452
+ 20
+-41.70710678118655
+ 11
+-10.70710678118655
+ 21
+-40.29289321881345
+  0
+LINE
+  5
+14E
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+-9.292893218813452
+ 20
+-40.70710678118655
+ 11
+-10.70710678118655
+ 21
+-39.29289321881345
+  0
+MTEXT
+  5
+14F
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    0
+370
+   -2
+100
+AcDbMText
+ 10
+-12.5
+ 20
+-37.5
+ 30
+0
+ 40
+3
+ 41
+3
+ 71
+    5
+ 72
+    1
+  1
+10
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+90
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+150
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+10.70000000000002
+ 20
+-41
+ 11
+-12
+ 21
+-41
+  0
+LINE
+  5
+151
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+4
+ 20
+-40
+ 11
+-12
+ 21
+-40
+  0
+ENDBLK
+  5
+AD
+330
+AB
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+AF
+330
+AE
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D19
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D19
+  1
+
+  0
+LINE
+  5
+152
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+-10
+ 20
+-68
+ 11
+-9.999999999999998
+ 21
+-47
+  0
+LINE
+  5
+153
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+-9.292893218813452
+ 20
+-58.70710678118655
+ 11
+-10.70710678118655
+ 21
+-57.29289321881346
+  0
+LINE
+  5
+154
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+-9.292893218813452
+ 20
+-57.70710678118655
+ 11
+-10.70710678118655
+ 21
+-56.29289321881345
+  0
+MTEXT
+  5
+155
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    0
+370
+   -2
+100
+AcDbMText
+ 10
+-12.5
+ 20
+-61
+ 30
+0
+ 40
+3
+ 41
+3
+ 71
+    5
+ 72
+    1
+  1
+10
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+90
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+156
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+10.70000000000002
+ 20
+-58.00000000000001
+ 11
+-12
+ 21
+-58.00000000000001
+  0
+LINE
+  5
+157
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+10.70000000000002
+ 20
+-57
+ 11
+-12
+ 21
+-57
+  0
+ENDBLK
+  5
+B0
+330
+AE
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+B2
+330
+B1
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D21
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D21
+  1
+
+  0
+LINE
+  5
+158
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+80
+ 20
+-37.5
+ 11
+80
+ 21
+-67
+  0
+LINE
+  5
+159
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+79.29289321881345
+ 20
+-46.79289321881345
+ 11
+80.70710678118655
+ 21
+-48.20710678118655
+  0
+LINE
+  5
+15A
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+79.29289321881345
+ 20
+-56.29289321881345
+ 11
+80.70710678118655
+ 21
+-57.70710678118655
+  0
+MTEXT
+  5
+15B
+100
+AcDbEntity
+  8
+dimensions
+  6
+CONTINUOUS
+ 62
+    0
+370
+   -2
+100
+AcDbMText
+ 10
+77.5
+ 20
+-52.25
+ 30
+0
+ 40
+3
+ 41
+3.666666666667039
+ 71
+    5
+ 72
+    1
+  1
+95
+  7
+standard
+210
+0
+220
+0
+230
+1
+ 50
+90
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+15C
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+40.29999999999998
+ 20
+-47.5
+ 11
+82
+ 21
+-47.5
+  0
+LINE
+  5
+15D
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByBlock
+ 62
+    0
+370
+   -2
+100
+AcDbLine
+ 10
+54
+ 20
+-57
+ 11
+82
+ 21
+-57
+  0
+ENDBLK
+  5
+B3
+330
+B1
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+B5
+330
+B4
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*D3
+ 70
+    1
+ 10
+0
+ 20
+0
+  3
+*D3
+  1
+
+  0
+LINE
+  5
+15E
 100
 AcDbEntity
   8
@@ -8231,7 +9287,7 @@ AcDbLine
   0
 LINE
   5
-148
+15F
 100
 AcDbEntity
   8
@@ -8255,7 +9311,7 @@ AcDbLine
   0
 LINE
   5
-149
+160
 100
 AcDbEntity
   8
@@ -8279,7 +9335,7 @@ AcDbLine
   0
 MTEXT
   5
-14A
+161
 100
 AcDbEntity
   8
@@ -8325,811 +9381,27 @@ standard
   0
 LINE
   5
-14B
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-141.8694195
- 20
-28.99999999999995
- 11
-136.8694195
- 21
-28.99999999999995
-  0
-LINE
-  5
-14C
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-141.8694195
- 20
-31.49999999999995
- 11
-136.8694195
- 21
-31.49999999999995
-  0
-ENDBLK
-  5
-A4
-330
-A2
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-A6
-330
-A5
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D25
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D25
-  1
-
-  0
-LINE
-  5
-14D
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-13
- 20
-40
- 11
-33.29999999999905
- 21
-40
-  0
-LINE
-  5
-14E
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-13.70710678118655
- 20
-40.70710678118655
- 11
-12.29289321881345
- 21
-39.29289321881345
-  0
-LINE
-  5
-14F
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-34.0071067811856
- 20
-40.70710678118655
- 11
-32.59289321881251
- 21
-39.29289321881345
-  0
-MTEXT
-  5
-150
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
-25
- 20
-42.5
- 30
-0
- 40
-3
- 41
-6.000000000000187
- 71
-    5
- 72
-    1
-  1
-203
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-151
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-13
- 20
-29
- 11
-13
- 21
-42
-  0
-LINE
-  5
-152
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-33.29999999999905
- 20
-29.00000000000002
- 11
-33.29999999999905
- 21
-42
-  0
-ENDBLK
-  5
-A7
-330
-A5
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-A9
-330
-A8
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D26
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D26
-  1
-
-  0
-LINE
-  5
-153
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-34.59999999999903
- 20
-40
- 11
-55
- 21
-40
-  0
-LINE
-  5
-154
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-35.30710678118557
- 20
-40.70710678118655
- 11
-33.89289321881248
- 21
-39.29289321881345
-  0
-LINE
-  5
-155
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-55.70710678118655
- 20
-40.70710678118655
- 11
-54.29289321881345
- 21
-39.29289321881345
-  0
-MTEXT
-  5
-156
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
-47
- 20
-42.5
- 30
-0
- 40
-3
- 41
-6.333333333333333
- 71
-    5
- 72
-    1
-  1
-204
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-157
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-34.59999999999903
- 20
-29.00000000000002
- 11
-34.59999999999903
- 21
-42
-  0
-LINE
-  5
-158
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-55
- 20
-29
- 11
-55
- 21
-42
-  0
-ENDBLK
-  5
-AA
-330
-A8
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-AC
-330
-AB
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D10
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D10
-  1
-
-  0
-LINE
-  5
-159
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-75
- 20
-9
- 11
-75
- 21
-28.00000000000002
-  0
-LINE
-  5
-15A
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-74.29289321881345
- 20
-9.707106781186548
- 11
-75.70710678118655
- 21
-8.292893218813452
-  0
-LINE
-  5
-15B
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-74.29289321881345
- 20
-28.70710678118657
- 11
-75.70710678118655
- 21
-27.29289321881348
-  0
-MTEXT
-  5
-15C
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
-72.5
- 20
-18.50000000000001
- 30
-0
- 40
-3
- 41
-5.333333333333332
- 71
-    5
- 72
-    1
-  1
-190
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-90
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-15D
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-56
- 20
-9
- 11
-77
- 21
-9
-  0
-LINE
-  5
-15E
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-55.99999999999903
- 20
-28.00000000000002
- 11
-77
- 21
-28.00000000000002
-  0
-ENDBLK
-  5
-AD
-330
-AB
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-AF
-330
-AE
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D8
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D8
-  1
-
-  0
-LINE
-  5
-15F
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-47.49999999999903
- 20
-50
- 11
-72.99999999999923
- 21
-50
-  0
-LINE
-  5
-160
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-56.79289321881248
- 20
-49.29289321881345
- 11
-58.20710678118557
- 21
-50.70710678118655
-  0
-LINE
-  5
-161
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-62.29289321881269
- 20
-49.29289321881345
- 11
-63.70710678118578
- 21
-50.70710678118655
-  0
-MTEXT
-  5
 162
 100
 AcDbEntity
   8
 dimensions
   6
-CONTINUOUS
+ByBlock
  62
     0
 370
    -2
 100
-AcDbMText
+AcDbLine
  10
-60.24999999999913
+141.8694195
  20
-52.5
- 30
-0
- 40
-3
- 41
-3.666666666667038
- 71
-    5
- 72
-    1
-  1
-55
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
+28.99999999999995
+ 11
+136.8694195
+ 21
+28.99999999999995
   0
 LINE
   5
@@ -9147,951 +9419,19 @@ ByBlock
 100
 AcDbLine
  10
-57.49999999999903
+141.8694195
  20
-31.50000000000001
+31.49999999999995
  11
-57.49999999999903
+136.8694195
  21
-52
-  0
-LINE
-  5
-164
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-62.99999999999923
- 20
-34.00000000000002
- 11
-62.99999999999923
- 21
-52
-  0
-ENDBLK
-  5
-B0
-330
-AE
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-B2
-330
-B1
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D3
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D3
-  1
-
-  0
-LINE
-  5
-165
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-22.99999999999904
- 20
-40
- 11
-0.4999999999990408
- 21
-40
-  0
-LINE
-  5
-166
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-13.70710678118559
- 20
-40.70710678118655
- 11
-12.29289321881249
- 21
-39.29289321881345
-  0
-LINE
-  5
-167
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-11.20710678118559
- 20
-40.70710678118655
- 11
-9.792893218812493
- 21
-39.29289321881345
-  0
-MTEXT
-  5
-168
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
-15.83333333333247
- 20
-42.5
- 30
-0
- 40
-3
- 41
-3.666666666666853
- 71
-    5
- 72
-    1
-  1
-25
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-360
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-169
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-12.99999999999904
- 20
-29.00000000000004
- 11
-12.99999999999904
- 21
-42
-  0
-LINE
-  5
-16A
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-10.49999999999904
- 20
-31.50000000000004
- 11
-10.49999999999904
- 21
-42
-  0
-ENDBLK
-  5
-B3
-330
-B1
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-B5
-330
-B4
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D11
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D11
-  1
-
-  0
-LINE
-  5
-16B
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-84
- 20
--5.999999999999975
- 11
-84
- 21
-16.50000000000001
-  0
-LINE
-  5
-16C
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-84.70710678118655
- 20
-3.292893218813477
- 11
-83.29289321881345
- 21
-4.707106781186573
-  0
-LINE
-  5
-16D
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-84.70710678118655
- 20
-5.792893218813463
- 11
-83.29289321881345
- 21
-7.207106781186559
-  0
-MTEXT
-  5
-16E
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
-81.5
- 20
-9.333333333333437
- 30
-0
- 40
-3
- 41
-3.666666666666853
- 71
-    5
- 72
-    1
-  1
-25
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-90
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-16F
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-63.99999999999923
- 20
-4.000000000000025
- 11
-86
- 21
-4.000000000000025
-  0
-LINE
-  5
-170
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-58.49999999999903
- 20
-6.500000000000011
- 11
-86
- 21
-6.500000000000011
+31.49999999999995
   0
 ENDBLK
   5
 B6
 330
 B4
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-B8
-330
-B7
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D19
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D19
-  1
-
-  0
-LINE
-  5
-171
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--18
- 20
--47
- 11
--18
- 21
--75
-  0
-LINE
-  5
-172
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--17.29289321881345
- 20
--47.70710678118655
- 11
--18.70710678118654
- 21
--46.29289321881345
-  0
-LINE
-  5
-173
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--17.29289321881345
- 20
--75.70710678118655
- 11
--18.70710678118655
- 21
--74.29289321881345
-  0
-MTEXT
-  5
-174
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
--20.5
- 20
--61
- 30
-0
- 40
-3
- 41
-6
- 71
-    5
- 72
-    1
-  1
-280
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-90
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-175
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--1
- 20
--47
- 11
--20
- 21
--47
-  0
-LINE
-  5
-176
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-9.5
- 20
--75
- 11
--20
- 21
--75
-  0
-ENDBLK
-  5
-B9
-330
-B7
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-BB
-330
-BA
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D31
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D31
-  1
-
-  0
-LINE
-  5
-177
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    7
-370
-    0
-100
-AcDbLine
- 10
-93
- 20
-19
- 11
-93
- 21
-10
-  0
-SOLID
-  5
-178
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    7
-370
-    0
-100
-AcDbTrace
- 10
-93
- 20
-19
- 30
-0
- 11
-93.83256931554568
- 21
-14
- 31
-0
- 12
-92.16743068445432
- 22
-14
- 32
-0
- 13
-92.16743068445432
- 23
-14
- 33
-0
-  0
-ENDBLK
-  5
-BC
-330
-BA
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockEnd
-  0
-BLOCK
-  5
-BE
-330
-BD
-100
-AcDbEntity
-  8
-0
-100
-AcDbBlockBegin
-  2
-*D15
- 70
-    1
- 10
-0
- 20
-0
-  3
-*D15
-  1
-
-  0
-LINE
-  5
-179
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--10
- 20
--85
- 11
--9.999999999999998
- 21
--64
-  0
-LINE
-  5
-17A
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--9.292893218813452
- 20
--75.70710678118655
- 11
--10.70710678118655
- 21
--74.29289321881345
-  0
-LINE
-  5
-17B
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
--9.292893218813452
- 20
--74.70710678118655
- 11
--10.70710678118655
- 21
--73.29289321881345
-  0
-MTEXT
-  5
-17C
-100
-AcDbEntity
-  8
-dimensions
-  6
-CONTINUOUS
- 62
-    0
-370
-   -2
-100
-AcDbMText
- 10
--12.5
- 20
--71.5
- 30
-0
- 40
-3
- 41
-3
- 71
-    5
- 72
-    1
-  1
-10
-  7
-standard
-210
-0
-220
-0
-230
-1
- 50
-90
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-17D
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-9.5
- 20
--75
- 11
--12
- 21
--75
-  0
-LINE
-  5
-17E
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByBlock
- 62
-    0
-370
-   -2
-100
-AcDbLine
- 10
-9.5
- 20
--74
- 11
--12
- 21
--74
-  0
-ENDBLK
-  5
-BF
-330
-BD
 100
 AcDbEntity
   8
@@ -10107,835 +9447,7 @@ ENTITIES
   0
 HATCH
   5
-17F
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-brick
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-126.3694195
- 20
-24.99999999999984
- 11
-132.8694195
- 21
-24.99999999999995
- 72
-    1
- 10
-132.8694195
- 20
-24.99999999999995
- 11
-132.8694195
- 21
-0
- 72
-    1
- 10
-132.8694195
- 20
-0
- 11
-126.3694195
- 21
-0
- 72
-    1
- 10
-126.3694195
- 20
-0
- 11
-126.3694195
- 21
-24.99999999999984
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-0.02
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-180
-100
-AcDbEntity
-  8
-screed
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-concrete
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    6
- 72
-    1
- 10
-107.8694195
- 20
-24.9999999999998
- 11
-107.8694195
- 21
-29.9999999999998
- 72
-    1
- 10
-107.8694195
- 20
-29.9999999999998
- 11
-130.3694195
- 21
-29.99999999999984
- 72
-    1
- 10
-130.3694195
- 20
-29.99999999999984
- 11
-130.3694195
- 21
-28.99999999999971
- 72
-    1
- 10
-130.3694195
- 20
-28.99999999999971
- 11
-132.8694195
- 21
-28.99999999999971
- 72
-    1
- 10
-132.8694195
- 20
-28.99999999999971
- 11
-132.8694195
- 21
-24.99999999999995
- 72
-    1
- 10
-132.8694195
- 20
-24.99999999999995
- 11
-107.8694195
- 21
-24.9999999999998
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-1
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-181
-100
-AcDbEntity
-  8
-sand
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-sand
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-126.3694195
- 20
-24.99999999999984
- 11
-126.3694195
- 21
-0
- 72
-    1
- 10
-126.3694195
- 20
-0
- 11
-112.8694195
- 21
-9.999999999999947
- 72
-    1
- 10
-112.8694195
- 20
-9.999999999999947
- 11
-107.8694195
- 21
-24.9999999999998
- 72
-    1
- 10
-107.8694195
- 20
-24.9999999999998
- 11
-126.3694195
- 21
-24.99999999999984
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-0.5
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-182
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-brick
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-118.7
- 20
--48.00000000000003
- 11
-120
- 21
--48.00000000000001
- 72
-    1
- 10
-120
- 20
--48.00000000000001
- 11
-120
- 21
--53
- 72
-    1
- 10
-120
- 20
--53
- 11
-118.7
- 21
--53
- 72
-    1
- 10
-118.7
- 20
--53
- 11
-118.7
- 21
--48.00000000000003
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-0.02
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-183
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-brick
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-132
- 20
--48.00000000000001
- 11
-133.3
- 21
--48.00000000000003
- 72
-    1
- 10
-133.3
- 20
--48.00000000000003
- 11
-133.3
- 21
--54.00000000000003
- 72
-    1
- 10
-133.3
- 20
--54.00000000000003
- 11
-132
- 21
--54.00000000000003
- 72
-    1
- 10
-132
- 20
--54.00000000000003
- 11
-132
- 21
--48.00000000000001
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-0.02
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-184
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-brick
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-134.5
- 20
--74
- 11
-132
- 21
--74
- 72
-    1
- 10
-132
- 20
--74
- 11
-132
- 21
--53.99999999999997
- 72
-    1
- 10
-132
- 20
--53.99999999999997
- 11
-134.5
- 21
--53.99999999999997
- 72
-    1
- 10
-134.5
- 20
--53.99999999999997
- 11
-134.5
- 21
--74
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-0.02
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-185
-100
-AcDbEntity
-  8
-screed
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-concrete
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    6
- 72
-    1
- 10
-137
- 20
--48.00000000000003
- 11
-137
- 21
--47.00000000000003
- 72
-    1
- 10
-137
- 20
--47.00000000000003
- 11
-132.5
- 21
--47.00000000000003
- 72
-    1
- 10
-132.5
- 20
--47.00000000000003
- 11
-132.5
- 21
--47.20000000000006
- 72
-    1
- 10
-132.5
- 20
--47.20000000000006
- 11
-132
- 21
--47.20000000000006
- 72
-    1
- 10
-132
- 20
--47.20000000000006
- 11
-132
- 21
--48.00000000000001
- 72
-    1
- 10
-132
- 20
--48.00000000000001
- 11
-137
- 21
--48.00000000000003
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-1
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-186
-100
-AcDbEntity
-  8
-screed
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-concrete
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    6
- 72
-    1
- 10
-120
- 20
--48.00000000000001
- 11
-108
- 21
--48.00000000000003
- 72
-    1
- 10
-108
- 20
--48.00000000000003
- 11
-108
- 21
--47.00000000000003
- 72
-    1
- 10
-108
- 20
--47.00000000000003
- 11
-119.5
- 21
--47.00000000000003
- 72
-    1
- 10
-119.5
- 20
--47.00000000000003
- 11
-119.5
- 21
--47.20000000000006
- 72
-    1
- 10
-119.5
- 20
--47.20000000000006
- 11
-120
- 21
--47.20000000000006
- 72
-    1
- 10
-120
- 20
--47.20000000000006
- 11
-120
- 21
--48.00000000000001
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-1
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-187
+164
 100
 AcDbEntity
   8
@@ -10975,43 +9487,467 @@ gost_concrete
  72
     1
  10
-137
+5
  20
--60
+-53
  11
-141
+0
  21
--60
+-53
  72
     1
  10
-141
+0
  20
--60
+-53
  11
-141
+0
  21
--47
+-40
  72
     1
  10
-141
+0
  20
--47
+-40
  11
-137
+5
  21
--47
+-40
  72
     1
  10
-137
+5
  20
--47
+-40
  11
-137
+5
  21
--60
+-53
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+0.5
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+165
+100
+AcDbEntity
+  8
+base
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+gost_concrete
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+63
+ 20
+-40
+ 11
+68
+ 21
+-40
+ 72
+    1
+ 10
+68
+ 20
+-40
+ 11
+68
+ 21
+-53
+ 72
+    1
+ 10
+68
+ 20
+-53
+ 11
+63
+ 21
+-53
+ 72
+    1
+ 10
+63
+ 20
+-53
+ 11
+63
+ 21
+-40
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+0.5
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+166
+100
+AcDbEntity
+  8
+screed
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+concrete
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    6
+ 72
+    1
+ 10
+53.50000000000003
+ 20
+-40.19999520000006
+ 11
+53.00000000000003
+ 21
+-40.19999520000006
+ 72
+    1
+ 10
+53.00000000000003
+ 20
+-40.19999520000006
+ 11
+53.00000000000003
+ 21
+-40.99999520000001
+ 72
+    1
+ 10
+53.00000000000003
+ 20
+-40.99999520000001
+ 11
+63
+ 21
+-40.99999520000003
+ 72
+    1
+ 10
+63
+ 20
+-40.99999520000003
+ 11
+63
+ 21
+-39.99999520000003
+ 72
+    1
+ 10
+63
+ 20
+-39.99999520000003
+ 11
+53.50000000000003
+ 21
+-39.99999520000003
+ 72
+    1
+ 10
+53.50000000000003
+ 20
+-39.99999520000003
+ 11
+53.50000000000003
+ 21
+-40.19999520000006
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+1
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+167
+100
+AcDbEntity
+  8
+screed
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+concrete
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    6
+ 72
+    1
+ 10
+13.00000000000003
+ 20
+-40.19999520000006
+ 11
+13.00000000000003
+ 21
+-40.99999520000001
+ 72
+    1
+ 10
+13.00000000000003
+ 20
+-40.99999520000001
+ 11
+5
+ 21
+-40.99999520000003
+ 72
+    1
+ 10
+5
+ 20
+-40.99999520000003
+ 11
+5
+ 21
+-39.99999520000003
+ 72
+    1
+ 10
+5
+ 20
+-39.99999520000003
+ 11
+12.50000000000003
+ 21
+-39.99999520000003
+ 72
+    1
+ 10
+12.50000000000003
+ 20
+-39.99999520000003
+ 11
+12.50000000000003
+ 21
+-40.19999520000006
+ 72
+    1
+ 10
+12.50000000000003
+ 20
+-40.19999520000006
+ 11
+13.00000000000003
+ 21
+-40.19999520000006
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+1
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+168
+100
+AcDbEntity
+  8
+base
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+gost_concrete
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+108
+ 20
+-40
+ 11
+108
+ 21
+-53
+ 72
+    1
+ 10
+108
+ 20
+-53
+ 11
+104
+ 21
+-53
+ 72
+    1
+ 10
+104
+ 20
+-53
+ 11
+104
+ 21
+-40
+ 72
+    1
+ 10
+104
+ 20
+-40
+ 11
+108
+ 21
+-40
  97
     0
  75
@@ -11031,7 +9967,431 @@ gost_concrete
   0
 HATCH
   5
-188
+169
+100
+AcDbEntity
+  8
+base
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+gost_concrete
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+146.5
+ 20
+-40
+ 11
+146.5
+ 21
+-53
+ 72
+    1
+ 10
+146.5
+ 20
+-53
+ 11
+151.5
+ 21
+-53
+ 72
+    1
+ 10
+151.5
+ 20
+-53
+ 11
+151.5
+ 21
+-40
+ 72
+    1
+ 10
+151.5
+ 20
+-40
+ 11
+146.5
+ 21
+-40
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+1.570796326794897
+ 41
+0.5
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+16A
+100
+AcDbEntity
+  8
+screed
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+concrete
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    6
+ 72
+    1
+ 10
+146.5
+ 20
+-40.00000000000003
+ 11
+132.5
+ 21
+-40.00000000000003
+ 72
+    1
+ 10
+132.5
+ 20
+-40.00000000000003
+ 11
+132.5
+ 21
+-40.20000000000006
+ 72
+    1
+ 10
+132.5
+ 20
+-40.20000000000006
+ 11
+132
+ 21
+-40.20000000000006
+ 72
+    1
+ 10
+132
+ 20
+-40.20000000000006
+ 11
+132
+ 21
+-41.00000000000001
+ 72
+    1
+ 10
+132
+ 20
+-41.00000000000001
+ 11
+146.5
+ 21
+-41.00000000000003
+ 72
+    1
+ 10
+146.5
+ 20
+-41.00000000000003
+ 11
+146.5
+ 21
+-40.00000000000003
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+1
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+16B
+100
+AcDbEntity
+  8
+screed
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+concrete
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    6
+ 72
+    1
+ 10
+108
+ 20
+-41.00000000000003
+ 11
+108
+ 21
+-40.00000000000003
+ 72
+    1
+ 10
+108
+ 20
+-40.00000000000003
+ 11
+122.5
+ 21
+-40.00000000000002
+ 72
+    1
+ 10
+122.5
+ 20
+-40.00000000000002
+ 11
+122.5
+ 21
+-40.20000000000005
+ 72
+    1
+ 10
+122.5
+ 20
+-40.20000000000005
+ 11
+123
+ 21
+-40.20000000000005
+ 72
+    1
+ 10
+123
+ 20
+-40.20000000000005
+ 11
+123
+ 21
+-41
+ 72
+    1
+ 10
+123
+ 20
+-41
+ 11
+108
+ 21
+-41.00000000000003
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+1
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+16C
+100
+AcDbEntity
+  8
+plate
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+concrete
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+120.5
+ 20
+-57.99999999999999
+ 11
+120.5
+ 21
+-56.99999999999999
+ 72
+    1
+ 10
+120.5
+ 20
+-56.99999999999999
+ 11
+134.5
+ 21
+-56.99999999999999
+ 72
+    1
+ 10
+134.5
+ 20
+-56.99999999999999
+ 11
+134.5
+ 21
+-57.99999999999999
+ 72
+    1
+ 10
+134.5
+ 20
+-57.99999999999999
+ 11
+120.5
+ 21
+-57.99999999999999
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+1.570796326794897
+ 41
+1
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+16D
 100
 AcDbEntity
   8
@@ -11071,43 +10431,43 @@ brick
  72
     1
  10
-113
+120.5
  20
--74
+-56.99999999999999
  11
-110.5
+120.5000000000001
  21
--74
+-47.50000000000001
  72
     1
  10
-110.5
+120.5000000000001
  20
--74
+-47.50000000000001
  11
-110.5
+123.0000000000001
  21
--53.99999999999994
+-47.50000000000001
  72
     1
  10
-110.5
+123.0000000000001
  20
--53.99999999999994
+-47.50000000000001
  11
-113
+123
  21
--53.99999999999994
+-56.99999999999999
  72
     1
  10
-113
+123
  20
--53.99999999999994
+-56.99999999999999
  11
-113
+120.5
  21
--74
+-56.99999999999999
  97
     0
  75
@@ -11127,199 +10487,7 @@ brick
   0
 HATCH
   5
-189
-100
-AcDbEntity
-  8
-plate
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-concrete
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-120
- 20
--53.99999999999997
- 11
-110.5
- 21
--54
- 72
-    1
- 10
-110.5
- 20
--54
- 11
-110.5
- 21
--53
- 72
-    1
- 10
-110.5
- 20
--53
- 11
-120
- 21
--53
- 72
-    1
- 10
-120
- 20
--53
- 11
-120
- 21
--53.99999999999997
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-1.570796326794897
- 41
-1
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-18A
-100
-AcDbEntity
-  8
-plate
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-concrete
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-134.5
- 20
--75
- 11
-110.5
- 21
--75
- 72
-    1
- 10
-110.5
- 20
--75
- 11
-110.5
- 21
--74
- 72
-    1
- 10
-110.5
- 20
--74
- 11
-134.5
- 21
--74
- 72
-    1
- 10
-134.5
- 20
--74
- 11
-134.5
- 21
--75
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-1.570796326794897
- 41
-1
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-18B
+16E
 100
 AcDbEntity
   8
@@ -11359,43 +10527,43 @@ sand
  72
     1
  10
-137
+11.70000000000002
  20
--48.00000000000003
+-45
  11
-137
+5.000000000000028
  21
--53
+-45
  72
     1
  10
-137
+5.000000000000028
  20
--53
+-45
  11
-133.3
+5.000000000000028
  21
--53
+-41
  72
     1
  10
-133.3
+5.000000000000028
  20
--53
+-41
  11
-133.3
+11.70000000000002
  21
--48.00000000000003
+-41
  72
     1
  10
-133.3
+11.70000000000002
  20
--48.00000000000003
+-41
  11
-137
+11.70000000000002
  21
--48.00000000000003
+-45
  97
     0
  75
@@ -11415,17 +10583,17 @@ sand
   0
 HATCH
   5
-18C
+16F
 100
 AcDbEntity
   8
-sand
+wall
   6
 ByLayer
  62
   256
 370
-   -1
+   -3
 100
 AcDbHatch
  10
@@ -11441,7 +10609,7 @@ AcDbHatch
 230
 1
   2
-sand
+brick
  70
     0
  71
@@ -11455,43 +10623,43 @@ sand
  72
     1
  10
-118.7
+13.00000000000003
  20
--48.00000000000003
+-57
  11
-118.7
+13.00000000000003
  21
--53
+-41
  72
     1
  10
-118.7
+13.00000000000003
  20
--53
+-41
  11
-108
+11.70000000000002
  21
--53
+-41
  72
     1
  10
-108
+11.70000000000002
  20
--53
+-41
  11
-108
+11.70000000000002
  21
--48.00000000000003
+-57
  72
     1
  10
-108
+11.70000000000002
  20
--48.00000000000003
+-57
  11
-118.7
+13.00000000000003
  21
--48.00000000000003
+-57
  97
     0
  75
@@ -11499,9 +10667,9 @@ sand
  76
     1
  52
-1.570796326794897
+0
  41
-0.1
+0.02
  77
     0
  78
@@ -11511,7 +10679,7 @@ sand
   0
 HATCH
   5
-18D
+170
 100
 AcDbEntity
   8
@@ -11551,7697 +10719,1313 @@ sacncr
  72
     1
  10
-141
- 20
--51
- 11
-146
- 21
--51
- 72
-    1
- 10
-146
- 20
--51
- 11
-146
- 21
--80
- 72
-    1
- 10
-146
- 20
--80
- 11
-100
- 21
--80
- 72
-    1
- 10
-100
- 20
--80
- 11
-100
- 21
--51
- 72
-    1
- 10
-100
- 20
--51
- 11
-104
- 21
--51
- 72
-    1
- 10
-104
- 20
--51
- 11
-104
- 21
--60
- 72
-    1
- 10
-104
- 20
--60
- 11
-108
- 21
--60
- 72
-    1
- 10
-108
- 20
--60
- 11
-108
- 21
--53
- 72
-    1
- 10
-108
- 20
--53
- 11
-110.5
- 21
--53
- 72
-    1
- 10
-110.5
- 20
--53
- 11
-110.5
- 21
--75
- 72
-    1
- 10
-110.5
- 20
--75
- 11
-134.5
- 21
--75
- 72
-    1
- 10
-134.5
- 20
--75
- 11
-134.5
- 21
--53
- 72
-    1
- 10
-134.5
- 20
--53
- 11
-137
- 21
--53
- 72
-    1
- 10
-137
- 20
--53
- 11
-137
- 21
--60
- 72
-    1
- 10
-137
- 20
--60
- 11
-141
- 21
--60
- 72
-    1
- 10
-141
- 20
--60
- 11
-141
- 21
--51
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-1.570796326794897
- 41
-0.1
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-18E
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-gost_concrete
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-108
- 20
--47
- 11
-108
- 21
--60
- 72
-    1
- 10
-108
- 20
--60
- 11
-104
- 21
--60
- 72
-    1
- 10
-104
- 20
--60
- 11
-104
- 21
--47
- 72
-    1
- 10
-104
- 20
--47
- 11
-108
- 21
--47
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-1.570796326794897
- 41
-0.5
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-18F
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-brick
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-11.7
- 20
--48
- 11
-13
- 21
--48
- 72
-    1
- 10
-13
- 20
--48
- 11
-13
- 21
--54
- 72
-    1
- 10
-13
- 20
--54
- 11
-11.7
- 21
--54
- 72
-    1
- 10
-11.7
- 20
--54
- 11
-11.7
- 21
--48
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-0.02
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-190
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-brick
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-21
- 20
--48.00000000000001
- 11
-22.3
- 21
--48.00000000000001
- 72
-    1
- 10
-22.3
- 20
--48.00000000000001
- 11
-22.3
- 21
--53
- 72
-    1
- 10
-22.3
- 20
--53
- 11
-21
- 21
--53
- 72
-    1
- 10
-21
- 20
--53
- 11
-21
- 21
--48.00000000000001
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-0.02
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-191
-100
-AcDbEntity
-  8
-screed
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-concrete
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    6
- 72
-    1
- 10
-21.5
- 20
--47
- 11
-21.5
- 21
--47.2
- 72
-    1
- 10
-21.5
- 20
--47.2
- 11
-21
- 21
--47.2
- 72
-    1
- 10
-21
- 20
--47.2
- 11
-21
- 21
--48.00000000000001
- 72
-    1
- 10
-21
- 20
--48.00000000000001
- 11
-63
- 21
--48
- 72
-    1
- 10
-63
- 20
--48
- 11
-63
- 21
--47
- 72
-    1
- 10
-63
- 20
--47
- 11
-21.5
- 21
--47
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-1
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-192
-100
-AcDbEntity
-  8
-screed
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-concrete
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    6
- 72
-    1
- 10
-5
- 20
--47
- 11
-12.5
- 21
--47
- 72
-    1
- 10
-12.5
- 20
--47
- 11
-12.5
- 21
--47.2
- 72
-    1
- 10
-12.5
- 20
--47.2
- 11
-13
- 21
--47.2
- 72
-    1
- 10
-13
- 20
--47.2
- 11
-13
- 21
--48
- 72
-    1
- 10
-13
- 20
--48
- 11
-5
- 21
--48
- 72
-    1
- 10
-5
- 20
--48
- 11
-5
- 21
--47
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-1
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-193
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-gost_concrete
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-5
- 20
--60
- 11
-0
- 21
--60
- 72
-    1
- 10
-0
- 20
--60
- 11
-0
- 21
--47
- 72
-    1
- 10
-0
- 20
--47
- 11
-5
- 21
--47
- 72
-    1
- 10
-5
- 20
--47
- 11
-5
- 21
--60
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-0.5
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-194
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-gost_concrete
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-63
- 20
--47
- 11
-68
- 21
--47
- 72
-    1
- 10
-68
- 20
--47
- 11
-68
- 21
--60
- 72
-    1
- 10
-68
- 20
--60
- 11
-63
- 21
--60
- 72
-    1
- 10
-63
- 20
--60
- 11
-63
- 21
--47
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-0.5
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-195
-100
-AcDbEntity
-  8
-plate
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-concrete
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-57.5
- 20
--74
- 11
-57.5
- 21
--75
- 72
-    1
- 10
-57.5
- 20
--75
- 11
-10.5
- 21
--75
- 72
-    1
- 10
-10.5
- 20
--75
- 11
-10.5
- 21
--74
- 72
-    1
- 10
-10.5
- 20
--74
- 11
-57.5
- 21
--74
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-1
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-196
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-brick
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-33.29999999999905
- 20
--54
- 11
-34.6
- 21
--54
- 72
-    1
- 10
-34.6
- 20
--54
- 11
-34.6
- 21
--56
- 72
-    1
- 10
-34.6
- 20
--56
- 11
-33.29999999999905
- 21
--56
- 72
-    1
- 10
-33.29999999999905
- 20
--56
- 11
-33.29999999999905
- 21
--54
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-0.02
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-197
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-brick
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-57.5
- 20
--54
- 11
-55
- 21
--54
- 72
-    1
- 10
-55
- 20
--54
- 11
-55
- 21
--74
- 72
-    1
- 10
-55
- 20
--74
- 11
-57.5
- 21
--74
- 72
-    1
- 10
-57.5
- 20
--74
- 11
-57.5
- 21
--54
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-0.02
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-198
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-brick
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-10.5
- 20
--74
- 11
-13
- 21
--74
- 72
-    1
- 10
-13
- 20
--74
- 11
-13
- 21
--54
- 72
-    1
- 10
-13
- 20
--54
- 11
-10.5
- 21
--54
- 72
-    1
- 10
-10.5
- 20
--54
- 11
-10.5
- 21
--74
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-0.02
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-199
-100
-AcDbEntity
-  8
-plate
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-concrete
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-57.5
- 20
--54
- 11
-21
- 21
--54
- 72
-    1
- 10
-21
- 20
--54
- 11
-21
- 21
--53
- 72
-    1
- 10
-21
- 20
--53
- 11
-57.5
- 21
--53
- 72
-    1
- 10
-57.5
- 20
--53
- 11
-57.5
- 21
--54
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-1
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-19A
-100
-AcDbEntity
-  8
-sand
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-sand
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-11.7
- 20
--53
- 11
-5
- 21
--53
- 72
-    1
- 10
-5
- 20
--53
- 11
-5
- 21
--48
- 72
-    1
- 10
-5
- 20
--48
- 11
-11.7
- 21
--48
- 72
-    1
- 10
-11.7
- 20
--48
- 11
-11.7
- 21
--53
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-0.1
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-19B
-100
-AcDbEntity
-  8
-sand
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-sand
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-    4
- 72
-    1
- 10
-63
- 20
--53
- 11
-22.3
- 21
--53
- 72
-    1
- 10
-22.3
- 20
--53
- 11
-22.3
- 21
--48
- 72
-    1
- 10
-22.3
- 20
--48
- 11
-63
- 21
--48
- 72
-    1
- 10
-63
- 20
--48
- 11
-63
- 21
--53
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-0.1
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-HATCH
-  5
-19C
-100
-AcDbEntity
-  8
-ground
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbHatch
- 10
-0
- 20
-0
- 30
-0
-210
-0
-220
-0
-230
-1
-  2
-sacncr
- 70
-    0
- 71
-    0
- 91
-    1
- 92
-    0
- 93
-   16
- 72
-    1
- 10
-0
- 20
--60
- 11
-5
- 21
--60
- 72
-    1
- 10
-5
- 20
--60
- 11
-5
- 21
--53
- 72
-    1
- 10
-5
- 20
--53
- 11
-10.5
- 21
--53
- 72
-    1
- 10
-10.5
- 20
--53
- 11
-10.5
- 21
--75
- 72
-    1
- 10
-10.5
- 20
--75
- 11
-57.5
- 21
--75
- 72
-    1
- 10
-57.5
- 20
--75
- 11
-57.5
- 21
--53
- 72
-    1
- 10
-57.5
- 20
--53
- 11
-63
- 21
--53
- 72
-    1
- 10
-63
- 20
--53
- 11
-63
- 21
--59.85786437626906
- 72
-    1
- 10
-63
- 20
--59.85786437626906
- 11
-68
- 21
--60
- 72
-    1
- 10
-68
- 20
--60
- 11
-68
- 21
--51
- 72
-    1
- 10
-68
- 20
--51
- 11
-73
- 21
--51
- 72
-    1
- 10
 73
  20
--51
- 11
-73
- 21
--80
- 72
-    1
- 10
-73
- 20
--80
+-65
  11
 -5
- 21
--80
- 72
-    1
- 10
--5
- 20
--80
- 11
--5
- 21
--51
- 72
-    1
- 10
--5
- 20
--51
- 11
-0
- 21
--51
- 72
-    1
- 10
-0
- 20
--51
- 11
-0
- 21
--60
- 97
-    0
- 75
-    0
- 76
-    1
- 52
-0
- 41
-0.1
- 77
-    0
- 78
-    0
- 98
-    0
-  0
-LWPOLYLINE
-  5
-19D
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-4.999999999999716
- 20
-4
- 10
-4.999999999999718
- 20
-33
- 10
-62.99999999999923
- 20
-33.00000000000002
- 10
-62.99999999999923
- 20
-4.000000000000025
-  0
-CIRCLE
-  5
-19E
-100
-AcDbEntity
-  8
-plastic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-35.69999999999902
- 20
-5.100000000000035
- 40
-0.6000000000000014
-  0
-CIRCLE
-  5
-19F
-100
-AcDbEntity
-  8
-plastic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-32.19999999999902
- 20
-5.100000000000035
- 40
-0.6000000000000014
-  0
-LWPOLYLINE
-  5
-1A0
-100
-AcDbEntity
-  8
-wall
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-11.69999999999902
- 20
-7.70000000000003
- 10
-11.69999999999902
- 20
-22.30000000000004
- 10
-22.29999999999905
- 20
-22.30000000000004
- 10
-22.29999999999905
- 20
-7.700000000000029
-  0
-LWPOLYLINE
-  5
-1A1
-100
-AcDbEntity
-  8
-wall
-  6
-DASHED2
- 62
-   56
-420
-8421376
-370
-   50
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-12.99999999999903
- 20
-9.000000000000043
- 10
-12.99999999999904
- 20
-28.00000000000004
- 10
-33.29999999999905
- 20
-28.00000000000002
- 10
-33.29999999999905
- 20
-9.000000000000027
-  0
-CIRCLE
-  5
-1A2
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-14.09999999999903
- 20
-26.90000000000003
- 40
-0.6000000000000014
-  0
-CIRCLE
-  5
-1A3
-100
-AcDbEntity
-  8
-plastic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-14.09999999999903
- 20
-31.90000000000003
- 40
-0.6000000000000014
-  0
-LINE
-  5
-1A4
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-13.49999999999904
- 20
-26.90000000000003
- 11
-13.49999999999904
- 21
-31.90000000000003
-  0
-LINE
-  5
-1A5
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-14.69999999999902
- 20
-26.90000000000003
- 11
-14.69999999999902
- 21
-31.90000000000003
-  0
-LWPOLYLINE
-  5
-1A6
-100
-AcDbEntity
-  8
-wall
-  6
-DASHED2
- 62
-   56
-420
-8421376
-370
-   50
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-34.59999999999903
- 20
-9.000000000000012
- 10
-34.59999999999903
- 20
-28.00000000000002
- 10
-54.99999999999903
- 20
-28.00000000000002
- 10
-54.99999999999903
- 20
-9.000000000000025
-  0
-CIRCLE
-  5
-1A7
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-53.89999999999904
- 20
-26.90000000000002
- 40
-0.6000000000000014
-  0
-CIRCLE
-  5
-1A8
-100
-AcDbEntity
-  8
-plastic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-53.89999999999904
- 20
-31.90000000000002
- 40
-0.6000000000000014
-  0
-LINE
-  5
-1A9
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-53.29999999999905
- 20
-26.90000000000002
- 11
-53.29999999999905
- 21
-31.90000000000002
-  0
-LINE
-  5
-1AA
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-54.49999999999903
- 20
-26.90000000000002
- 11
-54.49999999999903
- 21
-31.90000000000002
-  0
-LWPOLYLINE
-  5
-1AB
-100
-AcDbEntity
-  8
-wall
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-10.49999999999903
- 20
-6.500000000000042
- 10
-10.49999999999904
- 20
-30.50000000000004
- 10
-57.49999999999903
- 20
-30.50000000000001
- 10
-57.49999999999903
- 20
-6.500000000000011
-  0
-LWPOLYLINE
-  5
-1AC
-100
-AcDbEntity
-  8
-plate
-  6
-DASHED2
- 62
-  176
-420
-  128
-370
-   50
-100
-AcDbPolyline
- 90
-    6
- 70
-    1
- 43
-0
- 10
-20.99999999999903
- 20
-21.00000000000004
- 10
-20.99999999999903
- 20
-6.500000000000028
- 10
-57.49999999999903
- 20
-6.500000000000011
- 10
-57.49999999999903
- 20
-30.50000000000001
- 10
-10.49999999999904
- 20
-30.50000000000004
- 10
-10.49999999999904
- 20
-21.00000000000004
-  0
-LWPOLYLINE
-  5
-1AD
-100
-AcDbEntity
-  8
-metal
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-12.99999999999903
- 20
-9.000000000000043
- 10
-12.99999999999904
- 20
-21.00000000000004
- 10
-20.99999999999903
- 20
-21.00000000000004
- 10
-20.99999999999903
- 20
-9.000000000000041
-  0
-LWPOLYLINE
-  5
-1AE
-100
-AcDbEntity
-  8
-metal
-  6
-CONTINUOUS
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-12.49999999999903
- 20
-8.500000000000043
- 10
-12.49999999999904
- 20
-21.50000000000004
- 10
-21.49999999999903
- 20
-21.50000000000004
- 10
-21.49999999999903
- 20
-8.500000000000041
-  0
-LWPOLYLINE
-  5
-1AF
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    0
- 43
-0
- 10
-35.09999999999903
- 20
-5.100000000000035
- 10
-35.09999999999903
- 20
-9.500000000000027
- 10
-36.29999999999905
- 20
-9.500000000000027
- 10
-36.29999999999905
- 20
-5.100000000000034
-  0
-LWPOLYLINE
-  5
-1B0
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    0
- 43
-0
- 10
-31.59999999999903
- 20
-5.100000000000035
- 10
-31.59999999999903
- 20
-9.500000000000027
- 10
-32.79999999999905
- 20
-9.500000000000027
- 10
-32.79999999999905
- 20
-5.100000000000035
-  0
-LWPOLYLINE
-  5
-1B1
-100
-AcDbEntity
-  8
-wall
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-12.99999999999903
- 20
-9.000000000000057
- 10
-12.99999999999904
- 20
-21.00000000000004
- 10
-20.99999999999903
- 20
-21.00000000000004
- 10
-20.99999999999903
- 20
-9.000000000000055
-  0
-LWPOLYLINE
-  5
-1B2
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    0
- 43
-0
- 10
-4.999999999999034
- 20
--6.499999999999964
- 10
-4.999999999999716
- 20
--3.061616997868209e-16
- 10
-62.99999999999923
- 20
-2.456407201308989e-14
- 10
-62.9999999999992
- 20
--6.500000000000131
-  0
-LWPOLYLINE
-  5
-1B3
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    0
- 43
-0
- 10
-62.9999999999992
- 20
-43.49999999999986
- 10
-62.99999999999923
- 20
-37.00000000000002
- 10
-4.999999999999718
- 20
-37.00000000000003
- 10
-4.999999999999036
- 20
-43.50000000000003
-  0
-LINE
-  5
-1B4
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-67.99999999999903
- 20
-43.50000000000002
- 11
-67.99999999999903
- 21
--6.499999999999976
-  0
-LWPOLYLINE
-  5
-1B5
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    2
- 70
-    0
- 43
-0
- 10
--9.667361308434591e-13
- 20
--6.499999999999972
- 10
--9.636745138455907e-13
- 20
-43.50000000000003
-  0
-LEADER
-  5
-1B6
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLeader
-  3
-Standard
- 71
-    1
- 72
-    0
- 73
-    3
- 74
-    0
- 75
-    0
- 40
-1
- 41
-10
- 76
-2
- 76
-2
- 10
--8
- 20
-19
- 30
-0
- 10
--8
- 20
-10
- 30
-0
-  0
-LINE
-  5
-1B7
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-  100
-100
-AcDbLine
- 10
--5
- 20
-19
- 11
--10
- 21
-19
-  0
-MTEXT
-  5
-1B8
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
--12
- 20
-13
- 30
-0
- 40
-4
- 41
-2.666666666666667
- 71
-    5
- 72
-    1
-  1
-A
-  7
-unicode
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-1B9
-100
-AcDbEntity
-  8
-wall
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34.6
- 20
-22
- 11
-33.30000000000002
- 21
-22
-  0
-LINE
-  5
-1BA
-100
-AcDbEntity
-  8
-wall
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-33.30000000000002
- 20
-15
- 11
-34.6
- 21
-15
-  0
-LWPOLYLINE
-  5
-1BB
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-0
- 20
--47
- 10
-5
- 20
--47
- 10
-5
- 20
--60
- 10
-0
- 20
--60
-  0
-LWPOLYLINE
-  5
-1BC
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-63
- 20
--47
- 10
-68
- 20
--47
- 10
-68
- 20
--60
- 10
-63
- 20
--60
-  0
-LWPOLYLINE
-  5
-1BD
-100
-AcDbEntity
-  8
-plate
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-10.5
- 20
--74
- 10
-57.5
- 20
--74
- 10
-57.5
- 20
--75
- 10
-10.5
- 20
--75
-  0
-LWPOLYLINE
-  5
-1BE
-100
-AcDbEntity
-  8
-plate
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-21
- 20
--53
- 10
-57.5
- 20
--53
- 10
-57.5
- 20
--54
- 10
-21
- 20
--54
-  0
-LWPOLYLINE
-  5
-1BF
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-10.5
- 20
--74
- 10
-13
- 20
--74
- 10
-13
- 20
--54
- 10
-10.5
- 20
--54
-  0
-LWPOLYLINE
-  5
-1C0
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-55
- 20
--74
- 10
-57.5
- 20
--74
- 10
-57.5
- 20
--54
- 10
-55
- 20
--54
-  0
-LWPOLYLINE
-  5
-1C1
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-33.29999999999905
- 20
--54
- 10
-34.59999999999903
- 20
--54
- 10
-34.59999999999903
- 20
--74
- 10
-33.29999999999905
- 20
--74
-  0
-LWPOLYLINE
-  5
-1C2
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-33.29999999999905
- 20
--54
- 10
-34.6
- 20
--54
- 10
-34.6
- 20
--56
- 10
-33.29999999999905
- 20
--56
-  0
-LWPOLYLINE
-  5
-1C3
-100
-AcDbEntity
-  8
-plate
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-13
- 20
--53
- 10
-21
- 20
--53
- 10
-21
- 20
--54
- 10
-13
- 20
--54
-  0
-LWPOLYLINE
-  5
-1C4
-100
-AcDbEntity
-  8
-plate
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-10.5
- 20
--53
- 10
-11.7
- 20
--53
- 10
-11.7
- 20
--54
- 10
-10.5
- 20
--54
-  0
-ARC
-  5
-1C5
-100
-AcDbEntity
-  8
-plastic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-53.90000000000001
- 20
--55.1
- 40
-0.5999999999999943
-100
-AcDbArc
- 50
-360
- 51
-180
-  0
-ARC
-  5
-1C6
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-53.90000000000001
- 20
--55.1
- 40
-0.6
-100
-AcDbArc
- 50
-180
- 51
-0
-  0
-LWPOLYLINE
-  5
-1C7
-100
-AcDbEntity
-  8
-plastic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    0
- 43
-0
- 10
-53.30000000000002
- 20
--55.1
- 10
-53.30000000000002
- 20
--73.5
- 10
-54.50000000000001
- 20
--73.5
- 10
-54.50000000000001
- 20
--55.1
-  0
-LWPOLYLINE
-  5
-1C8
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    0
- 43
-0
- 10
-53.30000000000003
- 20
--55.09999908766675
- 10
-53.30000000000003
- 20
--46.7
- 10
-54.5
- 20
--46.7
- 10
-54.50000000000001
- 20
--55.10000102130331
-  0
-ARC
-  5
-1C9
-100
-AcDbEntity
-  8
-plastic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-14.09999999999999
- 20
--55.1
- 40
-0.5999999999999943
-100
-AcDbArc
- 50
-360
- 51
-180
-  0
-ARC
-  5
-1CA
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-14.09999999999998
- 20
--55.1
- 40
-0.6
-100
-AcDbArc
- 50
-180
- 51
-0
-  0
-LWPOLYLINE
-  5
-1CB
-100
-AcDbEntity
-  8
-plastic
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    0
- 43
-0
- 10
-13.49999999999999
- 20
--55.1
- 10
-13.49999999999999
- 20
--73.5
- 10
-14.69999999999998
- 20
--73.5
- 10
-14.69999999999998
- 20
--55.1
-  0
-LWPOLYLINE
-  5
-1CC
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    0
- 43
-0
- 10
-13.5
- 20
--55.09999908766675
- 10
-13.5
- 20
--46.7
- 10
-14.69999999999997
- 20
--46.7
- 10
-14.69999999999999
- 20
--55.10000102130331
-  0
-LWPOLYLINE
-  5
-1CD
-100
-AcDbEntity
-  8
-sand
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-5
- 20
--48
- 10
-11.7
- 20
--48
- 10
-11.7
- 20
--53
- 10
-5
- 20
--53
-  0
-LWPOLYLINE
-  5
-1CE
-100
-AcDbEntity
-  8
-sand
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-22.3
- 20
--48
- 10
-63
- 20
--48
- 10
-63
- 20
--53
- 10
-22.3
- 20
--53
-  0
-LINE
-  5
-1CF
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-  100
-100
-AcDbLine
- 10
-16.99999999999999
- 20
--90
- 11
-16.99999999999999
- 21
--85
-  0
-LEADER
-  5
-1D0
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLeader
-  3
-Standard
- 71
-    1
- 72
-    0
- 73
-    3
- 74
-    0
- 75
-    0
- 40
-1
- 41
-10
- 76
-2
- 76
-2
- 10
-16.99999999999999
- 20
--88
- 30
-0
- 10
-7.999999999999986
- 20
--88
- 30
-0
-  0
-MTEXT
-  5
-1D1
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-10.11111111111111
- 20
--92
- 30
-0
- 40
-4
- 41
-2.222222222222222
- 71
-    5
- 72
-    1
-  1
-B
-  7
-unicode
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-LWPOLYLINE
-  5
-1D2
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    7
- 70
-    0
- 43
-0
- 10
-4.999999999999034
- 20
--6.499999999999972
- 10
-4.499999999999034
- 20
--7.499999999999972
- 10
-3.399999999999034
- 20
--5.599999999999971
- 10
-2.399999999999034
- 20
--7.099999999999971
- 10
-1.399999999999034
- 20
--5.999999999999972
- 10
-0.4999999999990333
- 20
--7.799999999999971
- 10
--9.667361308434591e-13
- 20
--6.499999999999972
-  0
-LWPOLYLINE
-  5
-1D3
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    7
- 70
-    0
- 43
-0
- 10
-67.9999999999992
- 20
--6.500000000000131
- 10
-67.4999999999992
- 20
--7.500000000000131
- 10
-66.3999999999992
- 20
--5.600000000000131
- 10
-65.3999999999992
- 20
--7.100000000000131
- 10
-64.3999999999992
- 20
--6.000000000000131
- 10
-63.4999999999992
- 20
--7.80000000000013
- 10
-62.9999999999992
- 20
--6.500000000000131
-  0
-LWPOLYLINE
-  5
-1D4
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    7
- 70
-    0
- 43
-0
- 10
--9.636745138455907e-13
- 20
-43.50000000000003
- 10
-0.4999999999990363
- 20
-44.50000000000003
- 10
-1.599999999999036
- 20
-42.60000000000003
- 10
-2.599999999999036
- 20
-44.10000000000003
- 10
-3.599999999999036
- 20
-43.00000000000003
- 10
-4.499999999999036
- 20
-44.80000000000003
- 10
-4.999999999999036
- 20
-43.50000000000003
-  0
-LWPOLYLINE
-  5
-1D5
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    7
- 70
-    0
- 43
-0
- 10
-62.9999999999992
- 20
-43.49999999999986
- 10
-63.4999999999992
- 20
-44.49999999999986
- 10
-64.5999999999992
- 20
-42.59999999999986
- 10
-65.5999999999992
- 20
-44.09999999999986
- 10
-66.5999999999992
- 20
-42.99999999999986
- 10
-67.4999999999992
- 20
-44.79999999999986
- 10
-67.9999999999992
- 20
-43.49999999999986
-  0
-LWPOLYLINE
-  5
-1D6
-100
-AcDbEntity
-  8
-ground
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-   17
- 70
-    0
- 43
-0
- 10
--5
- 20
--51
- 10
-0
- 20
--51
- 10
-0
- 20
--60
- 10
-5
- 20
--60
- 10
-5
- 20
--53
- 10
-10.5
- 20
--53
- 10
-10.5
- 20
--75
- 10
-57.5
- 20
--75
- 10
-57.5
- 20
--53
- 10
-63
- 20
--53
- 10
-63
- 20
--60
- 10
-68
- 20
--60
- 10
-68
- 20
--51
- 10
-73
- 20
--51
- 10
-73
- 20
--80
- 10
--5
- 20
--80
- 10
--5
- 20
--51
-  0
-DIMENSION
-  5
-1D7
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D3
- 10
-10.49999999999904
- 20
-40
- 30
-0
- 11
-11.74999999999904
- 21
-42.5
- 31
-0
- 70
-   32
- 71
-    5
- 72
-    0
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-12.99999999999904
- 23
-28.00000000000004
- 33
-0
- 14
-10.49999999999904
- 24
-30.50000000000004
- 34
-0
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1D8
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D4
- 10
-57.49999999999903
- 20
-40
- 30
-0
- 11
-56.24999999999903
- 21
-42.5
- 31
-0
- 70
-   32
- 71
-    5
- 72
-    0
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-54.99999999999903
- 23
-28.00000000000002
- 33
-0
- 14
-57.49999999999903
- 24
-30.50000000000001
- 34
-0
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1D9
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D5
- 10
-34.59999999999903
- 20
-40
- 30
-0
- 11
-33.94999999999904
- 21
-42.5
- 31
-0
- 70
-   32
- 71
-    5
- 72
-    0
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-33.29999999999905
- 23
-28.00000000000002
- 33
-0
- 14
-34.59999999999903
- 24
-28.00000000000002
- 34
-0
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1DA
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D6
- 10
-10.49999999999904
- 20
-50
- 30
-0
- 11
-7.749999999999379
- 21
-52.5
- 31
-0
- 70
-   32
- 71
-    5
- 72
-    0
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-4.999999999999718
- 23
-33
- 33
-0
- 14
-10.49999999999904
- 24
-30.31578947368421
- 34
-0
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1DB
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D7
- 10
-57.49999999999903
- 20
-50
- 30
-0
- 11
-33.99999999999903
- 21
-52.5
- 31
-0
- 70
-   32
- 71
-    5
- 72
-    0
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-10.49999999999904
- 23
-30.31578947368421
- 33
-0
- 14
-57.49999999999903
- 24
-30.50000000000001
- 34
-0
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1DC
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D8
- 10
-62.99999999999923
- 20
-50
- 30
-0
- 11
-60.24999999999913
- 21
-52.5
- 31
-0
- 70
-   32
- 71
-    5
- 72
-    0
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-57.49999999999903
- 23
-30.50000000000001
- 33
-0
- 14
-62.99999999999923
- 24
-33.00000000000002
- 34
-0
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1DD
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D9
- 10
-75
- 20
-9.000000000000023
- 30
-0
- 11
-72.5
- 21
-7.750000000000019
- 31
-0
- 70
-   32
- 71
-    5
- 72
-    0
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-57.49999999999903
- 23
-6.500000000000012
- 33
-0
- 14
-54.99999999999903
- 24
-9.000000000000025
- 34
-0
- 50
-90
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1DE
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D10
- 10
-75
- 20
-28.00000000000002
- 30
-0
- 11
-72.5
- 21
-18.50000000000001
- 31
-0
- 70
-   32
- 71
-    5
- 72
-    0
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-55
- 23
-9
- 33
-0
- 14
-54.99999999999903
- 24
-28.00000000000002
- 34
-0
- 50
-90
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1DF
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D11
- 10
-84
- 20
-6.500000000000007
- 30
-0
- 11
-81.5
- 21
-5.250000000000018
- 31
-0
- 70
-   32
- 71
-    5
- 72
-    0
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-62.99999999999923
- 23
-4.000000000000025
- 33
-0
- 14
-57.49999999999903
- 24
-6.500000000000011
- 34
-0
- 50
-90
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1E0
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D12
- 10
-84
- 20
-30.50000000000001
- 30
-0
- 11
-81.5
- 21
-18.50000000000001
- 31
-0
- 70
-   32
- 71
-    5
- 72
-    0
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-57.49999999999903
- 23
-6.500000000000012
- 33
-0
- 14
-57.49999999999903
- 24
-30.50000000000001
- 34
-0
- 50
-90
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1E1
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D13
- 10
-84
- 20
-33
- 30
-0
- 11
-81.5
- 21
-31.75000000000001
- 31
-0
- 70
-   32
- 71
-    5
- 72
-    0
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-57.49999999999903
- 23
-30.50000000000001
- 33
-0
- 14
-63
- 24
-33
- 34
-0
- 50
-90
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1E2
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D14
- 10
-75
- 20
-30.50000000000001
- 30
-0
- 11
-72
- 21
-32
- 31
-0
- 70
-   32
- 71
-    5
- 72
-    0
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-55
- 23
-28
- 33
-0
- 14
-57.49999999999903
- 24
-30.50000000000001
- 34
-0
- 50
-90
-100
-AcDbRotatedDimension
-  0
-LWPOLYLINE
-  5
-1E3
-100
-AcDbEntity
-  8
-metal
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-12.5
- 20
--46.7
- 10
-21.5
- 20
--46.7
- 10
-21.5
- 20
--47.2
- 10
-12.5
- 20
--47.2
-  0
-LWPOLYLINE
-  5
-1E4
-100
-AcDbEntity
-  8
-metal
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    5
- 70
-    0
- 43
-0
- 10
-21.45
- 20
--46.7
- 10
-21.45
- 20
--47.10000000000001
- 10
-21.4
- 20
--47.15000000000001
- 10
-21
- 20
--47.15000000000001
- 10
-21
- 20
--47.2
-  0
-LWPOLYLINE
-  5
-1E5
-100
-AcDbEntity
-  8
-metal
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    5
- 70
-    0
- 43
-0
- 10
-12.55
- 20
--46.7
- 10
-12.55
- 20
--47.10000000000001
- 10
-12.6
- 20
--47.15000000000001
- 10
-13
- 20
--47.15000000000001
- 10
-13
- 20
--47.2
-  0
-LINE
-  5
-1E6
-100
-AcDbEntity
-  8
-metal
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-13
- 20
--47.15000000000001
- 11
-20.99999999999903
- 21
--47.15000000000001
-  0
-LWPOLYLINE
-  5
-1E7
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-11.7
- 20
--48
- 10
-13
- 20
--48
- 10
-13
- 20
--54
- 10
-11.7
- 20
--54
-  0
-LWPOLYLINE
-  5
-1E8
-100
-AcDbEntity
-  8
-screed
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    7
- 70
-    0
- 43
-0
- 10
-5
- 20
--47
- 10
-12.5
- 20
--47
- 10
-12.5
- 20
--47.2
- 10
-13
- 20
--47.2
- 10
-13
- 20
--48
- 10
-5
- 20
--48
- 10
-5
- 20
--47
-  0
-LWPOLYLINE
-  5
-1E9
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-21
- 20
--48.00000000000001
- 10
-22.3
- 20
--48.00000000000001
- 10
-22.3
- 20
--53
- 10
-21
- 20
--53
-  0
-LWPOLYLINE
-  5
-1EA
-100
-AcDbEntity
-  8
-screed
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    7
- 70
-    0
- 43
-0
- 10
-21.5
- 20
--47
- 10
-21.5
- 20
--47.2
- 10
-21
- 20
--47.2
- 10
-21
- 20
--48.00000000000001
- 10
-63
- 20
--48
- 10
-63
- 20
--47
- 10
-21.5
- 20
--47
-  0
-DIMENSION
-  5
-1EB
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D15
- 10
--10
- 20
--74
- 30
-0
- 11
--12.5
- 21
--74.5
- 31
-0
- 70
-   32
- 71
-    5
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-10.5
- 23
--75
- 33
-0
- 14
-10.5
- 24
--74
- 34
-0
- 50
-90
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1EC
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D16
- 10
--10
- 20
--54
- 30
-0
- 11
--12.5
- 21
--64
- 31
-0
- 70
-   32
- 71
-    5
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-10.5
- 23
--74
- 33
-0
- 14
-10.5
- 24
--54
- 34
-0
- 50
-90
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1ED
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D17
- 10
--9.999999999999998
- 20
--48
- 30
-0
- 11
--12.5
- 21
--51
- 31
-0
- 70
-   32
- 71
-    5
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-11.7
- 23
--54
- 33
-0
- 14
-11.7
- 24
--48
- 34
-0
- 50
-90
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1EE
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D18
- 10
--10
- 20
--48
- 30
-0
- 11
--12.5
- 21
--47.5
- 31
-0
- 70
-   32
- 71
-    5
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-5
- 23
--47
- 33
-0
- 14
-5
- 24
--48
- 34
-0
- 50
-90
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1EF
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D19
- 10
--18
- 20
--75
- 30
-0
- 11
--20.5
- 21
--61
- 31
-0
- 70
-   32
- 71
-    5
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-0
- 23
--47
- 33
-0
- 14
-10.5
- 24
--75
- 34
-0
- 50
-90
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1F0
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D20
- 10
-80
- 20
--48
- 30
-0
- 11
-77.5
- 21
--50.5
- 31
-0
- 70
-   32
- 71
-    5
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-57.5
- 23
--53.00000000000001
- 33
-0
- 14
-63
- 24
--48
- 34
-0
- 50
-90
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1F1
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D21
- 10
-80
- 20
--53.00000000000001
- 30
-0
- 11
-77
- 21
--60
- 31
-0
- 70
-   32
- 71
-    5
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-57.5
- 23
--54
- 33
-0
- 14
-57.5
- 24
--53.00000000000001
- 34
-0
- 50
-90
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1F2
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D22
- 10
-21
- 20
--60
- 30
-0
- 11
-17
- 21
--57.5
- 31
-0
- 70
-   32
- 71
-    5
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-13
- 23
--54.0000054
- 33
-0
- 14
-21
- 24
--54
- 34
-0
-100
-AcDbRotatedDimension
-  0
-LEADER
-  5
-1F3
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLeader
-  3
-Standard
- 71
-    1
- 72
-    0
- 73
-    3
- 74
-    0
- 75
-    0
- 40
-1
- 41
-10
- 76
-2
- 76
-2
- 10
-17
- 20
--30
- 30
-0
- 10
-8
- 20
--30
- 30
-0
-  0
-LINE
-  5
-1F4
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-  100
-100
-AcDbLine
- 10
-17
- 20
--33
- 11
-17
- 21
--28
-  0
-MTEXT
-  5
-1F5
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-10
- 20
--26
- 30
-0
- 40
-4
- 41
-2.222222222222222
- 71
-    5
- 72
-    1
-  1
-B
-  7
-unicode
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-DIMENSION
-  5
-1F6
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D24
- 10
-22.3
- 20
--42
- 30
-0
- 11
-17
- 21
--39.5
- 31
-0
- 70
-   32
- 71
-    5
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-11.7
- 23
--48
- 33
-0
- 14
-22.3
- 24
--48
- 34
-0
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1F7
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D25
- 10
-33.29999999999905
- 20
-40
- 30
-0
- 11
-25
- 21
-42.5
- 31
-0
- 70
-   32
- 71
-    5
- 72
-    0
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-13
- 23
-28
- 33
-0
- 14
-33.29999999999905
- 24
-28.00000000000002
- 34
-0
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-1F8
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D26
- 10
-55
- 20
-40
- 30
-0
- 11
-47
- 21
-42.5
- 31
-0
- 70
-   32
- 71
-    5
- 72
-    0
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-34.59999999999903
- 23
-28.00000000000002
- 33
-0
- 14
-55
- 24
-28
- 34
-0
-100
-AcDbRotatedDimension
-  0
-LWPOLYLINE
-  5
-1F9
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-141
- 20
--60
- 10
-141
- 20
--47
- 10
-137
- 20
--47
- 10
-137
- 20
--60
-  0
-LWPOLYLINE
-  5
-1FA
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-104
- 20
--60
- 10
-104
- 20
--47
- 10
-108
- 20
--47
- 10
-108
- 20
--60
-  0
-LWPOLYLINE
-  5
-1FB
-100
-AcDbEntity
-  8
-plate
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-110.5
- 20
--54
- 10
-110.5
- 20
--53
- 10
-120
- 20
--53
- 10
-120
- 20
--53.99999999999997
-  0
-LWPOLYLINE
-  5
-1FC
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-110.5
- 20
--53.99999999999994
- 10
-113
- 20
--53.99999999999994
- 10
-113
- 20
--74
- 10
-110.5
- 20
--74
-  0
-LWPOLYLINE
-  5
-1FD
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-132
- 20
--53.99999999999997
- 10
-134.5
- 20
--53.99999999999997
- 10
-134.5
- 20
--74
- 10
-132
- 20
--74
-  0
-LWPOLYLINE
-  5
-1FE
-100
-AcDbEntity
-  8
-plate
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-133.3
- 20
--54.00000000000003
- 10
-133.3
- 20
--53
- 10
-134.5
- 20
--53
- 10
-134.5
- 20
--54.00000000000003
-  0
-LWPOLYLINE
-  5
-1FF
-100
-AcDbEntity
-  8
-plate
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-120
- 20
--53.99999999999997
- 10
-120
- 20
--53
- 10
-132
- 20
--53
- 10
-132
- 20
--53.99999999999997
-  0
-LWPOLYLINE
-  5
-200
-100
-AcDbEntity
-  8
-plate
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-110.5
- 20
--75
- 10
-110.5
- 20
--74
- 10
-134.5
- 20
--74
- 10
-134.5
- 20
--75
-  0
-LWPOLYLINE
-  5
-201
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-119
- 20
--74
- 10
-119
- 20
--56
- 10
-126
- 20
--56
- 10
-126
- 20
--74
-  0
-LWPOLYLINE
-  5
-202
-100
-AcDbEntity
-  8
-sand
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-133.3
- 20
--53
- 10
-133.3
- 20
--48.00000000000003
- 10
-137
- 20
--48.00000000000003
- 10
-137
- 20
--53
-  0
-LWPOLYLINE
-  5
-203
-100
-AcDbEntity
-  8
-sand
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-108
- 20
--53
- 10
-108
- 20
--48.00000000000003
- 10
-118.7
- 20
--48.00000000000003
- 10
-118.7
- 20
--53
-  0
-LWPOLYLINE
-  5
-204
-100
-AcDbEntity
-  8
-ground
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-   17
- 70
-    0
- 43
-0
- 10
-100
- 20
--51
- 10
-104
- 20
--51
- 10
-104
- 20
--60
- 10
-108
- 20
--60
- 10
-108
- 20
--53
- 10
-110.5
- 20
--53
- 10
-110.5
- 20
--75
- 10
-134.5
- 20
--75
- 10
-134.5
- 20
--53
- 10
-137
- 20
--53
- 10
-137
- 20
--60
- 10
-141
- 20
--60
- 10
-141
- 20
--51
- 10
-146
- 20
--51
- 10
-146
- 20
--80
- 10
-100
- 20
--80
- 10
-100
- 20
--51
-  0
-ARC
-  5
-205
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-134.8
- 20
--54
- 40
-0.5
-100
-AcDbArc
- 50
-270
- 51
-360
-  0
-ARC
-  5
-206
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-134.8
- 20
--54
- 40
-1.700000000000003
-100
-AcDbArc
- 50
-270.0000000000001
- 51
-360
-  0
-LWPOLYLINE
-  5
-207
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    0
- 43
-0
- 10
-134.8
- 20
--55.69999999999999
- 10
-131.5
- 20
--55.69999999999999
- 10
-131.5
- 20
--54.49999999999997
- 10
-134.8
- 20
--54.5
-  0
-LWPOLYLINE
-  5
-208
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    0
- 43
-0
- 10
-135.3
- 20
--54
- 10
-135.3
- 20
--46.5
- 10
-136.5
- 20
--46.5
- 10
-136.5
- 20
--54
-  0
-ARC
-  5
-209
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-110.2
- 20
--54
- 40
-0.5
-100
-AcDbArc
- 50
-180
- 51
-270
-  0
-ARC
-  5
-20A
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-110.2
- 20
--54
- 40
-1.700000000000003
-100
-AcDbArc
- 50
-180
- 51
-269.9999999999999
-  0
-ARC
-  5
-20B
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-113
- 20
--56.19999999999999
- 40
-0.5
-100
-AcDbArc
- 50
-360
- 51
-90
-  0
-ARC
-  5
-20C
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-113
- 20
--56.19999999999999
- 40
-1.700000000000003
-100
-AcDbArc
- 50
-360
- 51
-89.99999999999994
-  0
-LWPOLYLINE
-  5
-20D
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    0
- 43
-0
- 10
-113.5
- 20
--56.20000064326956
- 10
-113.5
- 20
--73.5
- 10
-114.7
- 20
--73.5
- 10
-114.7
- 20
--56.19999944077989
-  0
-LINE
-  5
-20E
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-110.1
- 20
--55.69999999999999
- 11
-113
- 21
--55.69999999999999
-  0
-LINE
-  5
-20F
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-113
- 20
--54.5
- 11
-110.2
- 21
--54.5
-  0
-LWPOLYLINE
-  5
-210
-100
-AcDbEntity
-  8
-plastic
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    0
- 43
-0
- 10
-109.7
- 20
--54
- 10
-109.7
- 20
--46.69999999999999
- 10
-108.5
- 20
--46.69999999999999
- 10
-108.5
- 20
--54
-  0
-LWPOLYLINE
-  5
-211
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    3
- 70
-    0
- 43
-0
- 10
-100
- 20
--51
- 10
-100
- 20
--47
- 10
-104
- 20
--47
-  0
-LWPOLYLINE
-  5
-212
-100
-AcDbEntity
-  8
-base
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    3
- 70
-    0
- 43
-0
- 10
-104
- 20
--60
- 10
-100
- 20
--60
- 10
-100
- 20
--51
-  0
-LWPOLYLINE
-  5
-213
-100
-AcDbEntity
-  8
-base
-  6
-DASHED2
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    3
- 70
-    0
- 43
-0
- 10
-141
- 20
--60
- 10
-146
- 20
--60
- 10
-146
- 20
--51
-  0
-LWPOLYLINE
-  5
-214
-100
-AcDbEntity
-  8
-base
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    3
- 70
-    0
- 43
-0
- 10
-141
- 20
--47
- 10
-146
- 20
--47
- 10
-146
- 20
--51
-  0
-LWPOLYLINE
-  5
-215
-100
-AcDbEntity
-  8
-metal
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    5
- 70
-    0
- 43
-0
- 10
-132.45
- 20
--46.70000000000006
- 10
-132.45
- 20
--47.10000000000003
- 10
-132.4
- 20
--47.15000000000006
- 10
-132
- 20
--47.15000000000006
- 10
-132
- 20
--47.20000000000006
-  0
-LWPOLYLINE
-  5
-216
-100
-AcDbEntity
-  8
-metal
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-119.5
- 20
--46.70000000000006
- 10
-132.5
- 20
--46.70000000000006
- 10
-132.5
- 20
--47.20000000000006
- 10
-119.5
- 20
--47.20000000000006
-  0
-LWPOLYLINE
-  5
-217
-100
-AcDbEntity
-  8
-metal
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    5
- 70
-    0
- 43
-0
- 10
-119.55
- 20
--46.70000000000006
- 10
-119.55
- 20
--47.10000000000003
- 10
-119.6
- 20
--47.15000000000006
- 10
-120
- 20
--47.15000000000006
- 10
-120
- 20
--47.20000000000006
-  0
-LINE
-  5
-218
-100
-AcDbEntity
-  8
-metal
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-120
- 20
--47.15000000000006
- 11
-131.999999999999
- 21
--47.15000000000006
-  0
-LWPOLYLINE
-  5
-219
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-132
- 20
--48.00000000000001
- 10
-133.3
- 20
--48.00000000000003
- 10
-133.3
- 20
--54.00000000000003
- 10
-132
- 20
--54.00000000000003
-  0
-LWPOLYLINE
-  5
-21A
-100
-AcDbEntity
-  8
-screed
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    7
- 70
-    0
- 43
-0
- 10
-132.5
- 20
--47.00000000000003
- 10
-132.5
- 20
--47.20000000000006
- 10
-132
- 20
--47.20000000000006
- 10
-132
- 20
--48.00000000000001
- 10
-137
- 20
--48.00000000000003
- 10
-137
- 20
--47.00000000000003
- 10
-132.5
- 20
--47.00000000000003
-  0
-LWPOLYLINE
-  5
-21B
-100
-AcDbEntity
-  8
-wall
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    4
- 70
-    1
- 43
-0
- 10
-118.7
- 20
--48.00000000000003
- 10
-120
- 20
--48.00000000000001
- 10
-120
- 20
--53
- 10
-118.7
- 20
--53
-  0
-LWPOLYLINE
-  5
-21C
-100
-AcDbEntity
-  8
-screed
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbPolyline
- 90
-    7
- 70
-    0
- 43
-0
- 10
-108
- 20
--47.00000000000003
- 10
-119.5
- 20
--47.00000000000003
- 10
-119.5
- 20
--47.20000000000006
- 10
-120
- 20
--47.20000000000006
- 10
-120
- 20
--48.00000000000001
- 10
-108
- 20
--48.00000000000003
- 10
-108
- 20
--47.00000000000003
-  0
-DIMENSION
-  5
-21D
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D27
- 10
-131.999999999999
- 20
--42
- 30
-0
- 11
-125.9999999999995
- 21
--39.5
- 31
-0
- 70
-   32
- 71
-    5
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-120
- 23
--47.20000000000006
- 33
-0
- 14
-131.999999999999
- 24
--47.15000000000006
- 34
-0
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-21E
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D28
- 10
-133.3
- 20
--35
- 30
-0
- 11
-126
- 21
--32.5
- 31
-0
- 70
-   32
- 71
-    5
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-118.7
- 23
--48.00000000000003
- 33
-0
- 14
-133.3
- 24
--48.00000000000003
- 34
-0
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-21F
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D29
- 10
-126
- 20
--70
- 30
-0
- 11
-122.5
- 21
--67.5
- 31
-0
- 70
-   32
- 71
-    5
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-119
- 23
--74
- 33
-0
- 14
-126
- 24
--74
- 34
-0
-100
-AcDbRotatedDimension
-  0
-DIMENSION
-  5
-220
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbDimension
-  2
-*D30
- 10
-131
- 20
--56
- 30
-0
- 11
-128.5
  21
 -65
- 31
-0
- 70
-   32
- 71
-    5
-  3
-Standard
- 53
-0
-210
-0
-220
-0
-230
-1
-100
-AcDbAlignedDimension
- 13
-126
- 23
--74
- 33
-0
- 14
-126
- 24
--56
- 34
-0
- 50
-90
-100
-AcDbRotatedDimension
-  0
-CIRCLE
-  5
-221
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
+ 72
+    1
  10
-120
+-5
  20
--47.20000000000006
- 40
-4.20000000000006
-  0
-LINE
-  5
-222
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-  100
-100
-AcDbLine
- 10
-95
- 20
-19
+-65
  11
-90
+-5
  21
-19
-  0
-LEADER
-  5
-223
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLeader
-  3
-Standard
- 71
-    1
- 72
-    0
- 73
-    3
- 74
-    0
- 75
-    0
- 40
-1
- 41
-10
- 76
-2
- 76
-2
- 10
-93
- 20
-19
- 30
-0
- 10
-93
- 20
-10
- 30
-0
-  0
-MTEXT
-  5
-224
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-97.3333333333333
- 20
-13
- 30
-0
- 40
-4
- 41
-2.666666666666667
- 71
-    5
+-44
  72
     1
-  1
-A
-  7
-unicode
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-225
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
  10
-40
- 20
--20
- 30
-0
- 40
-4
- 41
-9.777777777777777
- 71
-    5
- 72
-    1
-  1
-A-A
-  7
-unicode
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-226
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-34
- 20
--23
- 11
-46
- 21
--23
-  0
-LEADER
-  5
-227
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLeader
-  3
-Standard
- 71
-    1
- 72
-    0
- 73
-    3
- 74
-    0
- 75
-    0
- 40
-1
- 41
-10
- 76
-3
- 76
-3
- 10
-117
+-5
  20
 -44
- 30
-0
- 10
-112
- 20
--37
- 30
-0
- 10
-100
- 20
--37
- 30
-0
-  0
-MTEXT
-  5
-228
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-103
- 20
--34
- 30
-0
- 40
-4
- 41
-1.777777777777778
- 71
-    5
- 72
-    1
-  1
-C
-  7
-unicode
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-229
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-120
- 20
--20
- 30
-0
- 40
-4
- 41
-8.888888888888889
- 71
-    5
- 72
-    1
-  1
-B-B
-  7
-unicode
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-22A
-100
-AcDbEntity
-  8
-dimensions
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-115
- 20
--23
  11
-125
+0
  21
--23
+-44
+ 72
+    1
+ 10
+0
+ 20
+-44
+ 11
+0
+ 21
+-53
+ 72
+    1
+ 10
+0
+ 20
+-53
+ 11
+5
+ 21
+-53
+ 72
+    1
+ 10
+5
+ 20
+-53
+ 11
+5
+ 21
+-45.00000000000003
+ 72
+    1
+ 10
+5
+ 20
+-45.00000000000003
+ 11
+11.70000000000002
+ 21
+-45.00000000000003
+ 72
+    1
+ 10
+11.70000000000002
+ 20
+-45.00000000000003
+ 11
+11.70000000000002
+ 21
+-58.00000000000001
+ 72
+    1
+ 10
+11.70000000000002
+ 20
+-58.00000000000001
+ 11
+54.29999999999998
+ 21
+-58.00000000000001
+ 72
+    1
+ 10
+54.29999999999998
+ 20
+-58.00000000000001
+ 11
+54.29999999999998
+ 21
+-45.00000000000001
+ 72
+    1
+ 10
+54.29999999999998
+ 20
+-45.00000000000001
+ 11
+63
+ 21
+-45.00000000000001
+ 72
+    1
+ 10
+63
+ 20
+-45.00000000000001
+ 11
+63
+ 21
+-52.85786437626906
+ 72
+    1
+ 10
+63
+ 20
+-52.85786437626906
+ 11
+68
+ 21
+-53
+ 72
+    1
+ 10
+68
+ 20
+-53
+ 11
+68
+ 21
+-44
+ 72
+    1
+ 10
+68
+ 20
+-44
+ 11
+73
+ 21
+-44
+ 72
+    1
+ 10
+73
+ 20
+-44
+ 11
+73
+ 21
+-65
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+0.1
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+171
+100
+AcDbEntity
+  8
+sand
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+sand
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+54.29999999999998
+ 20
+-45.00000407999998
+ 11
+54.29999999999998
+ 21
+-41.00000408
+ 72
+    1
+ 10
+54.29999999999998
+ 20
+-41.00000408
+ 11
+63
+ 21
+-41.00000000000003
+ 72
+    1
+ 10
+63
+ 20
+-41.00000000000003
+ 11
+63
+ 21
+-45.00000000000001
+ 72
+    1
+ 10
+63
+ 20
+-45.00000000000001
+ 11
+54.29999999999998
+ 21
+-45.00000407999998
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+1.570796326794897
+ 41
+0.1
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+172
+100
+AcDbEntity
+  8
+wall
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+brick
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+53.00000000000003
+ 20
+-41
+ 11
+53.00000000000003
+ 21
+-57
+ 72
+    1
+ 10
+53.00000000000003
+ 20
+-57
+ 11
+54.29999999999998
+ 21
+-57
+ 72
+    1
+ 10
+54.29999999999998
+ 20
+-57
+ 11
+54.29999999999998
+ 21
+-41
+ 72
+    1
+ 10
+54.29999999999998
+ 20
+-41
+ 11
+53.00000000000003
+ 21
+-41
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+0.02
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+173
+100
+AcDbEntity
+  8
+sand
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+sand
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+108.0000000000001
+ 20
+-44.99999999999998
+ 11
+108
+ 21
+-41.00000000000003
+ 72
+    1
+ 10
+108
+ 20
+-41.00000000000003
+ 11
+116.7
+ 21
+-41.00000000000006
+ 72
+    1
+ 10
+116.7
+ 20
+-41.00000000000006
+ 11
+116.7
+ 21
+-45.00000000000001
+ 72
+    1
+ 10
+116.7
+ 20
+-45.00000000000001
+ 11
+108.0000000000001
+ 21
+-44.99999999999998
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+1.570796326794897
+ 41
+0.1
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+174
+100
+AcDbEntity
+  8
+wall
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+brick
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+116.7
+ 20
+-47
+ 11
+118
+ 21
+-47
+ 72
+    1
+ 10
+118
+ 20
+-47
+ 11
+118
+ 21
+-41.00000000000001
+ 72
+    1
+ 10
+118
+ 20
+-41.00000000000001
+ 11
+116.7
+ 21
+-41.00000000000001
+ 72
+    1
+ 10
+116.7
+ 20
+-41.00000000000001
+ 11
+116.7
+ 21
+-47
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+0.02
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+175
+100
+AcDbEntity
+  8
+ground
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+sacncr
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+   19
+ 72
+    1
+ 10
+120.5000000000001
+ 20
+-47.50000000000001
+ 11
+120.5
+ 21
+-57.99999999999999
+ 72
+    1
+ 10
+120.5
+ 20
+-57.99999999999999
+ 11
+134.5
+ 21
+-57.99999999999999
+ 72
+    1
+ 10
+134.5
+ 20
+-57.99999999999999
+ 11
+134.5
+ 21
+-45
+ 72
+    1
+ 10
+134.5
+ 20
+-45
+ 11
+146.5
+ 21
+-45
+ 72
+    1
+ 10
+146.5
+ 20
+-45
+ 11
+146.5
+ 21
+-53
+ 72
+    1
+ 10
+146.5
+ 20
+-53
+ 11
+151.5
+ 21
+-53
+ 72
+    1
+ 10
+151.5
+ 20
+-53
+ 11
+151.5
+ 21
+-44
+ 72
+    1
+ 10
+151.5
+ 20
+-44
+ 11
+155.5
+ 21
+-44
+ 72
+    1
+ 10
+155.5
+ 20
+-44
+ 11
+155.5
+ 21
+-65
+ 72
+    1
+ 10
+155.5
+ 20
+-65
+ 11
+100
+ 21
+-65
+ 72
+    1
+ 10
+100
+ 20
+-65
+ 11
+100
+ 21
+-44
+ 72
+    1
+ 10
+100
+ 20
+-44
+ 11
+104
+ 21
+-44
+ 72
+    1
+ 10
+104
+ 20
+-44
+ 11
+104
+ 21
+-53
+ 72
+    1
+ 10
+104
+ 20
+-53
+ 11
+108
+ 21
+-53
+ 72
+    1
+ 10
+108
+ 20
+-53
+ 11
+108.0000000000001
+ 21
+-44.99999999999998
+ 72
+    1
+ 10
+108.0000000000001
+ 20
+-44.99999999999998
+ 11
+108.0000000000001
+ 21
+-44.99999999999998
+ 72
+    1
+ 10
+108.0000000000001
+ 20
+-44.99999999999998
+ 11
+116.7000000000001
+ 21
+-44.99999999999998
+ 72
+    1
+ 10
+116.7000000000001
+ 20
+-44.99999999999998
+ 11
+116.7
+ 21
+-47.5
+ 72
+    1
+ 10
+116.7
+ 20
+-47.5
+ 11
+120.5000000000001
+ 21
+-47.50000000000001
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+0.1
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+176
+100
+AcDbEntity
+  8
+sand
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+sand
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+134.5
+ 20
+-41.00000000000001
+ 11
+146.5
+ 21
+-41.00000000000004
+ 72
+    1
+ 10
+146.5
+ 20
+-41.00000000000004
+ 11
+146.5
+ 21
+-45.00000000000001
+ 72
+    1
+ 10
+146.5
+ 20
+-45.00000000000001
+ 11
+134.5
+ 21
+-44.99999999999999
+ 72
+    1
+ 10
+134.5
+ 20
+-44.99999999999999
+ 11
+134.5
+ 21
+-41.00000000000001
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+1.570796326794897
+ 41
+0.1
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+177
+100
+AcDbEntity
+  8
+wall
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+brick
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+132
+ 20
+-41
+ 11
+134.5
+ 21
+-41
+ 72
+    1
+ 10
+134.5
+ 20
+-41
+ 11
+134.5
+ 21
+-56.99999999999996
+ 72
+    1
+ 10
+134.5
+ 20
+-56.99999999999996
+ 11
+132
+ 21
+-56.99999999999996
+ 72
+    1
+ 10
+132
+ 20
+-56.99999999999996
+ 11
+132
+ 21
+-41
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+0.02
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+178
+100
+AcDbEntity
+  8
+wall
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+brick
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+126.3694195
+ 20
+24.99999999999984
+ 11
+132.8694195
+ 21
+24.99999999999995
+ 72
+    1
+ 10
+132.8694195
+ 20
+24.99999999999995
+ 11
+132.8694195
+ 21
+0
+ 72
+    1
+ 10
+132.8694195
+ 20
+0
+ 11
+126.3694195
+ 21
+0
+ 72
+    1
+ 10
+126.3694195
+ 20
+0
+ 11
+126.3694195
+ 21
+24.99999999999984
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+0.02
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+179
+100
+AcDbEntity
+  8
+screed
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+concrete
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    6
+ 72
+    1
+ 10
+107.8694195
+ 20
+24.9999999999998
+ 11
+107.8694195
+ 21
+29.9999999999998
+ 72
+    1
+ 10
+107.8694195
+ 20
+29.9999999999998
+ 11
+130.3694195
+ 21
+29.99999999999984
+ 72
+    1
+ 10
+130.3694195
+ 20
+29.99999999999984
+ 11
+130.3694195
+ 21
+28.99999999999971
+ 72
+    1
+ 10
+130.3694195
+ 20
+28.99999999999971
+ 11
+132.8694195
+ 21
+28.99999999999971
+ 72
+    1
+ 10
+132.8694195
+ 20
+28.99999999999971
+ 11
+132.8694195
+ 21
+24.99999999999995
+ 72
+    1
+ 10
+132.8694195
+ 20
+24.99999999999995
+ 11
+107.8694195
+ 21
+24.9999999999998
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+1
+ 77
+    0
+ 78
+    0
+ 98
+    0
+  0
+HATCH
+  5
+17A
+100
+AcDbEntity
+  8
+sand
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbHatch
+ 10
+0
+ 20
+0
+ 30
+0
+210
+0
+220
+0
+230
+1
+  2
+sand
+ 70
+    0
+ 71
+    0
+ 91
+    1
+ 92
+    0
+ 93
+    4
+ 72
+    1
+ 10
+126.3694195
+ 20
+24.99999999999984
+ 11
+126.3694195
+ 21
+0
+ 72
+    1
+ 10
+126.3694195
+ 20
+0
+ 11
+112.8694195
+ 21
+9.999999999999947
+ 72
+    1
+ 10
+112.8694195
+ 20
+9.999999999999947
+ 11
+107.8694195
+ 21
+24.9999999999998
+ 72
+    1
+ 10
+107.8694195
+ 20
+24.9999999999998
+ 11
+126.3694195
+ 21
+24.99999999999984
+ 97
+    0
+ 75
+    0
+ 76
+    1
+ 52
+0
+ 41
+0.5
+ 77
+    0
+ 78
+    0
+ 98
+    0
   0
 LWPOLYLINE
   5
-22B
+17B
 100
 AcDbEntity
   8
@@ -19283,7 +12067,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-22C
+17C
 100
 AcDbEntity
   8
@@ -19321,7 +12105,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-22D
+17D
 100
 AcDbEntity
   8
@@ -19371,7 +12155,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-22E
+17E
 100
 AcDbEntity
   8
@@ -19409,7 +12193,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-22F
+17F
 100
 AcDbEntity
   8
@@ -19447,7 +12231,7 @@ AcDbPolyline
   0
 LINE
   5
-230
+180
 100
 AcDbEntity
   8
@@ -19471,7 +12255,7 @@ AcDbLine
   0
 LWPOLYLINE
   5
-231
+181
 100
 AcDbEntity
   8
@@ -19525,7 +12309,7 @@ AcDbPolyline
   0
 DIMENSION
   5
-232
+182
 100
 AcDbEntity
   8
@@ -19539,7 +12323,7 @@ ByLayer
 100
 AcDbDimension
   2
-*D33
+*D1
  10
 122.8694195
  20
@@ -19549,7 +12333,7 @@ AcDbDimension
  11
 120.3694195
  21
-30.74999999999978
+30.74999999999977
  31
 0
  70
@@ -19591,7 +12375,7 @@ AcDbRotatedDimension
   0
 DIMENSION
   5
-233
+183
 100
 AcDbEntity
   8
@@ -19605,7 +12389,7 @@ ByLayer
 100
 AcDbDimension
   2
-*D34
+*D2
  10
 132.8694195
  20
@@ -19655,7 +12439,7 @@ AcDbRotatedDimension
   0
 DIMENSION
   5
-234
+184
 100
 AcDbEntity
   8
@@ -19669,7 +12453,7 @@ ByLayer
 100
 AcDbDimension
   2
-*D35
+*D3
  10
 138.8694195
  20
@@ -19721,7 +12505,7 @@ AcDbRotatedDimension
   0
 MTEXT
   5
-235
+185
 100
 AcDbEntity
   8
@@ -19767,7 +12551,7 @@ unicode
   0
 LINE
   5
-236
+186
 100
 AcDbEntity
   8
@@ -19789,13 +12573,13 @@ AcDbLine
  21
 47.59604499999995
   0
-LINE
+LWPOLYLINE
   5
-237
+187
 100
 AcDbEntity
   8
-screed
+base
   6
 ByLayer
  62
@@ -19803,19 +12587,1749 @@ ByLayer
 370
    -1
 100
-AcDbLine
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
  10
-13
+0
  20
--48
- 11
-21
- 21
--48
+-40
+ 10
+5
+ 20
+-40
+ 10
+5
+ 20
+-53
+ 10
+0
+ 20
+-53
+  0
+LWPOLYLINE
+  5
+188
+100
+AcDbEntity
+  8
+base
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+63
+ 20
+-40
+ 10
+68
+ 20
+-40
+ 10
+68
+ 20
+-53
+ 10
+63
+ 20
+-53
+  0
+LWPOLYLINE
+  5
+189
+100
+AcDbEntity
+  8
+base
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+62.99999999999932
+ 20
+43.49999999999999
+ 10
+62.99999999999932
+ 20
+4.999999999999992
+ 10
+4.999999999999773
+ 20
+4.999999999999999
+ 10
+4.999999999999773
+ 20
+43.5
+  0
+LWPOLYLINE
+  5
+18A
+100
+AcDbEntity
+  8
+wall
+  6
+DASHED2
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+13.00000000000003
+ 20
+28.5
+ 10
+13.00000000000003
+ 20
+19.5
+ 10
+53.00000000000003
+ 20
+19.49999999999999
+ 10
+53.00000000000003
+ 20
+28.49999999999999
+  0
+LWPOLYLINE
+  5
+18B
+100
+AcDbEntity
+  8
+metal
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+13.00000000000003
+ 20
+28.5
+ 10
+13.00000000000003
+ 20
+19.5
+ 10
+53.00000000000003
+ 20
+19.49999999999999
+ 10
+53.00000000000003
+ 20
+28.49999999999999
+  0
+LWPOLYLINE
+  5
+18C
+100
+AcDbEntity
+  8
+metal
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+12.50000000000003
+ 20
+29
+ 10
+12.50000000000003
+ 20
+19
+ 10
+53.50000000000003
+ 20
+18.99999999999999
+ 10
+53.50000000000003
+ 20
+28.99999999999999
   0
 LINE
   5
-238
+18D
+100
+AcDbEntity
+  8
+wall
+  6
+DASHED2
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+30.00000000000003
+ 20
+31
+ 11
+30.00000000000003
+ 21
+28.5
+  0
+LWPOLYLINE
+  5
+18E
+100
+AcDbEntity
+  8
+wall
+  6
+DASHED2
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+54.29999999999998
+ 20
+30.99999999999999
+ 10
+54.29999999999998
+ 20
+16.99999999999999
+ 10
+11.69999999999996
+ 20
+17
+ 10
+11.69999999999996
+ 20
+31
+  0
+LWPOLYLINE
+  5
+18F
+100
+AcDbEntity
+  8
+base
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbPolyline
+ 90
+   19
+ 70
+    1
+ 43
+0
+ 10
+5
+ 20
+47.5
+ 10
+62.99999999999932
+ 20
+47.49999999999999
+ 10
+62.99999999999932
+ 20
+52.49999999999999
+ 10
+63.49999999999932
+ 20
+53.49999999999999
+ 10
+64.59999999999934
+ 20
+51.59999999999999
+ 10
+65.59999999999934
+ 20
+53.09999999999999
+ 10
+66.59999999999934
+ 20
+51.99999999999999
+ 10
+67.49999999999932
+ 20
+53.79999999999999
+ 10
+67.99999999999932
+ 20
+52.49999999999999
+ 10
+68
+ 20
+-8.327598234202001e-15
+ 10
+0
+ 20
+0
+ 10
+-8.526512829121202e-13
+ 20
+52.50000000000016
+ 10
+0.4999999999991473
+ 20
+53.50000000000016
+ 10
+1.59999999999917
+ 20
+51.60000000000016
+ 10
+2.59999999999917
+ 20
+53.10000000000016
+ 10
+3.59999999999917
+ 20
+52.00000000000016
+ 10
+4.499999999999147
+ 20
+53.80000000000016
+ 10
+4.999999999999318
+ 20
+52.5
+ 10
+4.999999999999318
+ 20
+52.5
+  0
+DIMENSION
+  5
+190
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D4
+ 10
+13.00000000000003
+ 20
+-7
+ 30
+0
+ 11
+12.34999999999999
+ 21
+-4.5
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+11.69999999999996
+ 23
+17
+ 33
+0
+ 14
+13.00000000000003
+ 24
+19.5
+ 34
+0
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+191
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D5
+ 10
+53.00000000000003
+ 20
+-6.999999999999996
+ 30
+0
+ 11
+33.00000000000003
+ 21
+-4.499999999999996
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+13.00000000000003
+ 23
+19.5
+ 33
+0
+ 14
+53.00000000000003
+ 24
+19.49999999999999
+ 34
+0
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+192
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D6
+ 10
+54.29999999999998
+ 20
+-7
+ 30
+0
+ 11
+53.64999999999998
+ 21
+-4.5
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+53.00000000000003
+ 23
+19.49999999999999
+ 33
+0
+ 14
+54.29999999999998
+ 24
+16.99999999999999
+ 34
+0
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+193
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D7
+ 10
+11.69999999999996
+ 20
+37
+ 30
+0
+ 11
+8.349999999999966
+ 21
+39.5
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+5
+ 23
+43.50000000000001
+ 33
+0
+ 14
+11.69999999999996
+ 24
+31
+ 34
+0
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+194
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D8
+ 10
+54.29999999999998
+ 20
+37
+ 30
+0
+ 11
+32.99999999999997
+ 21
+39.5
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+11.69999999999996
+ 23
+31
+ 33
+0
+ 14
+54.29999999999998
+ 24
+30.99999999999999
+ 34
+0
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+195
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D9
+ 10
+62.99999999999932
+ 20
+37
+ 30
+0
+ 11
+58.64999999999964
+ 21
+39.5
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+54.29999999999998
+ 23
+30.99999999999999
+ 33
+0
+ 14
+62.99999999999932
+ 24
+43.49999999999999
+ 34
+0
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+196
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D10
+ 10
+-5
+ 20
+17
+ 30
+0
+ 11
+-7.5
+ 21
+11
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+4.999999999999773
+ 23
+4.999999999999999
+ 33
+0
+ 14
+11.69999999999996
+ 24
+17
+ 34
+0
+ 50
+90
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+197
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D11
+ 10
+-5
+ 20
+31
+ 30
+0
+ 11
+-7.5
+ 21
+24
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+11.69999999999996
+ 23
+17
+ 33
+0
+ 14
+11.69999999999996
+ 24
+31
+ 34
+0
+ 50
+90
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+198
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D12
+ 10
+-5
+ 20
+43.5
+ 30
+0
+ 11
+-7.5
+ 21
+37.25
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+11.69999999999996
+ 23
+31
+ 33
+0
+ 14
+4.999999999999773
+ 24
+43.5
+ 34
+0
+ 50
+90
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+199
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D13
+ 10
+74
+ 20
+28.49999999999999
+ 30
+0
+ 11
+71.5
+ 21
+23.99999999999999
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+53.00000000000003
+ 23
+19.49999999999999
+ 33
+0
+ 14
+53.00000000000003
+ 24
+28.49999999999999
+ 34
+0
+ 50
+90
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+19A
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D14
+ 10
+74
+ 20
+30.99999999999999
+ 30
+0
+ 11
+71.5
+ 21
+29.74999999999999
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+53.00000000000003
+ 23
+28.49999999999999
+ 33
+0
+ 14
+54.29999999999998
+ 24
+30.99999999999999
+ 34
+0
+ 50
+90
+100
+AcDbRotatedDimension
+  0
+LINE
+  5
+19B
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+  100
+100
+AcDbLine
+ 10
+78
+ 20
+24
+ 11
+83
+ 21
+24
+  0
+LEADER
+  5
+19C
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLeader
+  3
+Standard
+ 71
+    1
+ 72
+    0
+ 73
+    3
+ 74
+    0
+ 75
+    0
+ 40
+1
+ 41
+10
+ 76
+2
+ 76
+2
+ 10
+81
+ 20
+24
+ 30
+0
+ 10
+81
+ 20
+15
+ 30
+0
+  0
+MTEXT
+  5
+19D
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+85.66666666666663
+ 20
+18
+ 30
+0
+ 40
+4
+ 41
+2.666666666666667
+ 71
+    5
+ 72
+    1
+  1
+A
+  7
+unicode
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+19E
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+  100
+100
+AcDbLine
+ 10
+-17
+ 20
+24
+ 11
+-12
+ 21
+24
+  0
+LEADER
+  5
+19F
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLeader
+  3
+Standard
+ 71
+    1
+ 72
+    0
+ 73
+    3
+ 74
+    0
+ 75
+    0
+ 40
+1
+ 41
+10
+ 76
+2
+ 76
+2
+ 10
+-15
+ 20
+24
+ 30
+0
+ 10
+-15
+ 20
+15
+ 30
+0
+  0
+LWPOLYLINE
+  5
+1A0
+100
+AcDbEntity
+  8
+wall
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+13.00000000000003
+ 20
+-41
+ 10
+11.70000000000002
+ 20
+-41
+ 10
+11.70000000000002
+ 20
+-57
+ 10
+13.00000000000003
+ 20
+-57
+  0
+LWPOLYLINE
+  5
+1A1
+100
+AcDbEntity
+  8
+wall
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+54.29999999999998
+ 20
+-41
+ 10
+53.00000000000003
+ 20
+-41
+ 10
+53.00000000000003
+ 20
+-57
+ 10
+54.29999999999998
+ 20
+-57
+  0
+LWPOLYLINE
+  5
+1A2
+100
+AcDbEntity
+  8
+plate
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+11.70000000000002
+ 20
+-57
+ 10
+54.29999999999998
+ 20
+-57
+ 10
+54.29999999999998
+ 20
+-58.00000000000001
+ 10
+11.70000000000002
+ 20
+-58.00000000000001
+  0
+LWPOLYLINE
+  5
+1A3
+100
+AcDbEntity
+  8
+metal
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    5
+ 70
+    0
+ 43
+0
+ 10
+12.54999999999998
+ 20
+-39.69999520000006
+ 10
+12.54999999999998
+ 20
+-40.09999520000003
+ 10
+12.60000000000005
+ 20
+-40.14999520000006
+ 10
+13.00000000000003
+ 20
+-40.14999520000006
+ 10
+13.00000000000003
+ 20
+-40.19999520000006
+  0
+LWPOLYLINE
+  5
+1A4
+100
+AcDbEntity
+  8
+metal
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    5
+ 70
+    0
+ 43
+0
+ 10
+53.44999999999996
+ 20
+-39.69999520000006
+ 10
+53.44999999999996
+ 20
+-40.09999520000003
+ 10
+53.40000000000001
+ 20
+-40.14999520000006
+ 10
+53.00000000000003
+ 20
+-40.14999520000006
+ 10
+53.00000000000003
+ 20
+-40.19999520000006
+  0
+LWPOLYLINE
+  5
+1A5
+100
+AcDbEntity
+  8
+metal
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+12.50000000000003
+ 20
+-39.69999520000006
+ 10
+53.50000000000003
+ 20
+-39.69999520000006
+ 10
+53.50000000000003
+ 20
+-40.19999520000006
+ 10
+12.50000000000003
+ 20
+-40.19999520000006
+  0
+LINE
+  5
+1A6
+100
+AcDbEntity
+  8
+metal
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+13.00000000000003
+ 20
+-40.14999520000006
+ 11
+52.99999999999901
+ 21
+-40.14999520000006
+  0
+LWPOLYLINE
+  5
+1A7
+100
+AcDbEntity
+  8
+screed
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    7
+ 70
+    0
+ 43
+0
+ 10
+53.50000000000003
+ 20
+-39.99999520000003
+ 10
+53.50000000000003
+ 20
+-40.19999520000006
+ 10
+53.00000000000003
+ 20
+-40.19999520000006
+ 10
+53.00000000000003
+ 20
+-40.99999520000001
+ 10
+63
+ 20
+-40.99999520000003
+ 10
+63
+ 20
+-39.99999520000003
+ 10
+53.50000000000003
+ 20
+-39.99999520000003
+  0
+LWPOLYLINE
+  5
+1A8
+100
+AcDbEntity
+  8
+screed
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    7
+ 70
+    0
+ 43
+0
+ 10
+5
+ 20
+-39.99999520000003
+ 10
+12.50000000000003
+ 20
+-39.99999520000003
+ 10
+12.50000000000003
+ 20
+-40.19999520000006
+ 10
+13.00000000000003
+ 20
+-40.19999520000006
+ 10
+13.00000000000003
+ 20
+-40.99999520000001
+ 10
+5
+ 20
+-40.99999520000003
+ 10
+5
+ 20
+-39.99999520000003
+  0
+LINE
+  5
+1A9
+100
+AcDbEntity
+  8
+wall
+  6
+DASHED2
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+38.00000000000003
+ 20
+31
+ 11
+38.00000000000003
+ 21
+28.5
+  0
+LWPOLYLINE
+  5
+1AA
+100
+AcDbEntity
+  8
+wall
+  6
+DASHED2
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    0
+ 43
+0
+ 10
+38.00000000000003
+ 20
+31
+ 10
+38.00000000000003
+ 20
+33.49999999999999
+ 10
+30.00000000000003
+ 20
+33.49999999999999
+ 10
+30.00000000000003
+ 20
+31
+  0
+LWPOLYLINE
+  5
+1AB
+100
+AcDbEntity
+  8
+wall
+  6
+DASHED2
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    0
+ 43
+0
+ 10
+39.30000000000004
+ 20
+31
+ 10
+39.30000000000004
+ 20
+34.8
+ 10
+28.69999999999996
+ 20
+34.80000000000001
+ 10
+28.69999999999996
+ 20
+31
+  0
+LWPOLYLINE
+  5
+1AC
+100
+AcDbEntity
+  8
+plate
+  6
+DASHED2
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    6
+ 70
+    1
+ 43
+0
+ 10
+28.69999999999996
+ 20
+34.80000000000001
+ 10
+39.30000000000004
+ 20
+34.80000000000001
+ 10
+39.30000000000004
+ 20
+28.5
+ 10
+28.69999999999996
+ 20
+28.5
+ 10
+28.69999999999996
+ 20
+28.5
+ 10
+28.69999999999996
+ 20
+28.5
+  0
+LINE
+  5
+1AD
 100
 AcDbEntity
   8
@@ -19829,13 +14343,2425 @@ ByLayer
 100
 AcDbLine
  10
-120
+13.00000000000003
  20
--48.00000000000001
+-40.9999952
+ 11
+53.00000000000003
+ 21
+-41
+  0
+LWPOLYLINE
+  5
+1AE
+100
+AcDbEntity
+  8
+wall
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+30.00000000000003
+ 20
+-41
+ 10
+38.00000000000003
+ 20
+-41
+ 10
+38.00000000000003
+ 20
+-47
+ 10
+30.00000000000003
+ 20
+-47
+  0
+LWPOLYLINE
+  5
+1AF
+100
+AcDbEntity
+  8
+wall
+  6
+DASHED2
+ 62
+  256
+370
+   -3
+100
+AcDbPolyline
+ 90
+    3
+ 70
+    0
+ 43
+0
+ 10
+28.70000000000002
+ 20
+-41.00000000000001
+ 10
+28.70000000000002
+ 20
+-47.00000000000001
+ 10
+30.00000000000003
+ 20
+-47.00000000000001
+  0
+LWPOLYLINE
+  5
+1B0
+100
+AcDbEntity
+  8
+wall
+  6
+DASHED2
+ 62
+  256
+370
+   -3
+100
+AcDbPolyline
+ 90
+    3
+ 70
+    0
+ 43
+0
+ 10
+39.29999999999998
+ 20
+-41
+ 10
+39.29999999999998
+ 20
+-47
+ 10
+38.00000000000003
+ 20
+-47
+  0
+LWPOLYLINE
+  5
+1B1
+100
+AcDbEntity
+  8
+plate
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+28.70000000000002
+ 20
+-47.00000000000001
+ 10
+39.29999999999998
+ 20
+-47.00000000000001
+ 10
+39.29999999999998
+ 20
+-47.5
+ 10
+28.70000000000002
+ 20
+-47.5
+  0
+LWPOLYLINE
+  5
+1B2
+100
+AcDbEntity
+  8
+base
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+104
+ 20
+-53
+ 10
+104
+ 20
+-40
+ 10
+108
+ 20
+-40
+ 10
+108
+ 20
+-53
+  0
+LWPOLYLINE
+  5
+1B3
+100
+AcDbEntity
+  8
+base
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    3
+ 70
+    0
+ 43
+0
+ 10
+100
+ 20
+-44
+ 10
+100
+ 20
+-40
+ 10
+104
+ 20
+-40
+  0
+LWPOLYLINE
+  5
+1B4
+100
+AcDbEntity
+  8
+base
+  6
+DASHED2
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    3
+ 70
+    0
+ 43
+0
+ 10
+104
+ 20
+-53
+ 10
+100
+ 20
+-53
+ 10
+100
+ 20
+-44
+  0
+LWPOLYLINE
+  5
+1B5
+100
+AcDbEntity
+  8
+metal
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    5
+ 70
+    0
+ 43
+0
+ 10
+132.45
+ 20
+-39.70000000000006
+ 10
+132.45
+ 20
+-40.10000000000003
+ 10
+132.4
+ 20
+-40.15000000000006
+ 10
+132
+ 20
+-40.15000000000006
+ 10
+132
+ 20
+-40.20000000000006
+  0
+LWPOLYLINE
+  5
+1B6
+100
+AcDbEntity
+  8
+screed
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    7
+ 70
+    0
+ 43
+0
+ 10
+132.5
+ 20
+-40.00000000000003
+ 10
+132.5
+ 20
+-40.20000000000006
+ 10
+132
+ 20
+-40.20000000000006
+ 10
+132
+ 20
+-41.00000000000001
+ 10
+146.5
+ 20
+-41.00000000000003
+ 10
+146.5
+ 20
+-40.00000000000003
+ 10
+132.5
+ 20
+-40.00000000000003
+  0
+LWPOLYLINE
+  5
+1B7
+100
+AcDbEntity
+  8
+base
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+151.5
+ 20
+-53
+ 10
+151.5
+ 20
+-40
+ 10
+146.5
+ 20
+-40
+ 10
+146.5
+ 20
+-53
+  0
+LWPOLYLINE
+  5
+1B8
+100
+AcDbEntity
+  8
+metal
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+122.5
+ 20
+-39.70000000000005
+ 10
+132.5
+ 20
+-39.70000000000006
+ 10
+132.5
+ 20
+-40.20000000000006
+ 10
+122.5
+ 20
+-40.20000000000005
+  0
+LWPOLYLINE
+  5
+1B9
+100
+AcDbEntity
+  8
+metal
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    5
+ 70
+    0
+ 43
+0
+ 10
+122.55
+ 20
+-39.70000000000005
+ 10
+122.55
+ 20
+-40.10000000000002
+ 10
+122.6
+ 20
+-40.15000000000006
+ 10
+123
+ 20
+-40.15000000000006
+ 10
+123
+ 20
+-40.20000000000005
+  0
+LINE
+  5
+1BA
+100
+AcDbEntity
+  8
+metal
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+123
+ 20
+-40.15000000000006
+ 11
+131.999999999999
+ 21
+-40.15000000000006
+  0
+LWPOLYLINE
+  5
+1BB
+100
+AcDbEntity
+  8
+screed
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    7
+ 70
+    0
+ 43
+0
+ 10
+108
+ 20
+-40.00000000000003
+ 10
+122.5
+ 20
+-40.00000000000002
+ 10
+122.5
+ 20
+-40.20000000000005
+ 10
+123
+ 20
+-40.20000000000005
+ 10
+123
+ 20
+-41
+ 10
+108
+ 20
+-41.00000000000003
+ 10
+108
+ 20
+-40.00000000000003
+  0
+LINE
+  5
+1BC
+100
+AcDbEntity
+  8
+screed
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+123
+ 20
+-40.99999999999999
  11
 132
  21
--48
+-41
+  0
+LWPOLYLINE
+  5
+1BD
+100
+AcDbEntity
+  8
+wall
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+132
+ 20
+-41
+ 10
+134.5
+ 20
+-41
+ 10
+134.5
+ 20
+-56.99999999999996
+ 10
+132
+ 20
+-56.99999999999996
+  0
+LWPOLYLINE
+  5
+1BE
+100
+AcDbEntity
+  8
+plate
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+120.5
+ 20
+-57.99999999999999
+ 10
+120.5
+ 20
+-56.99999999999999
+ 10
+134.5
+ 20
+-56.99999999999999
+ 10
+134.5
+ 20
+-57.99999999999999
+  0
+LWPOLYLINE
+  5
+1BF
+100
+AcDbEntity
+  8
+wall
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+120.5000000000001
+ 20
+-47.50000000000001
+ 10
+123.0000000000001
+ 20
+-47.50000000000001
+ 10
+123
+ 20
+-56.99999999999999
+ 10
+120.5
+ 20
+-56.99999999999999
+  0
+LWPOLYLINE
+  5
+1C0
+100
+AcDbEntity
+  8
+wall
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+118
+ 20
+-41.00000000000001
+ 10
+116.7
+ 20
+-41.00000000000001
+ 10
+116.7
+ 20
+-47
+ 10
+118
+ 20
+-47
+  0
+LWPOLYLINE
+  5
+1C1
+100
+AcDbEntity
+  8
+plate
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+116.7
+ 20
+-47
+ 10
+123.0000000000001
+ 20
+-47
+ 10
+123.0000000000001
+ 20
+-47.50000000000001
+ 10
+116.7
+ 20
+-47.50000000000001
+  0
+LINE
+  5
+1C2
+100
+AcDbEntity
+  8
+wall
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbLine
+ 10
+123
+ 20
+-41
+ 11
+123.0000000000001
+ 21
+-47
+  0
+DIMENSION
+  5
+1C3
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D17
+ 10
+-10
+ 20
+-41
+ 30
+0
+ 11
+-12.5
+ 21
+-49
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+11.70000000000002
+ 23
+-57
+ 33
+0
+ 14
+11.70000000000002
+ 24
+-41
+ 34
+0
+ 50
+90
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+1C4
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D18
+ 10
+-10
+ 20
+-40
+ 30
+0
+ 11
+-12.5
+ 21
+-40.5
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+11.70000000000002
+ 23
+-41
+ 33
+0
+ 14
+5
+ 24
+-40
+ 34
+0
+ 50
+90
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+1C5
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D19
+ 10
+-10
+ 20
+-57
+ 30
+0
+ 11
+-12.5
+ 21
+-64
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+11.70000000000002
+ 23
+-58.00000000000001
+ 33
+0
+ 14
+11.70000000000002
+ 24
+-57
+ 34
+0
+ 50
+90
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+1C6
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D20
+ 10
+-16
+ 20
+-39.99999520000003
+ 30
+0
+ 11
+-18.5
+ 21
+-48.99999760000001
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+11.70000000000002
+ 23
+-58.00000000000001
+ 33
+0
+ 14
+5
+ 24
+-39.99999520000003
+ 34
+0
+ 50
+90
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+1C7
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D21
+ 10
+80
+ 20
+-57.00000000000001
+ 30
+0
+ 11
+77.5
+ 21
+-52.25
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+39.29999999999998
+ 23
+-47.5
+ 33
+0
+ 14
+53
+ 24
+-57
+ 34
+0
+ 50
+90
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+1C8
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D22
+ 10
+74
+ 20
+19.49999999999999
+ 30
+0
+ 11
+71.5
+ 21
+8
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+54.29999999999998
+ 23
+16.99999999999999
+ 33
+0
+ 14
+53.00000000000003
+ 24
+19.49999999999999
+ 34
+0
+ 50
+90
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+1C9
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D23
+ 10
+38
+ 20
+-54
+ 30
+0
+ 11
+34
+ 21
+-51.5
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+30
+ 23
+-47
+ 33
+0
+ 14
+38
+ 24
+-47
+ 34
+0
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+1CA
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D24
+ 10
+39.29999999999998
+ 20
+-54
+ 30
+0
+ 11
+38.64999999999998
+ 21
+-51.5
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+38
+ 23
+-47
+ 33
+0
+ 14
+39.29999999999998
+ 24
+-47.00000000000001
+ 34
+0
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+1CB
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D25
+ 10
+30
+ 20
+-54
+ 30
+0
+ 11
+22
+ 21
+-51.5
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+28.70000000000002
+ 23
+-47.00000000000001
+ 33
+0
+ 14
+30
+ 24
+-47
+ 34
+0
+100
+AcDbRotatedDimension
+  0
+LWPOLYLINE
+  5
+1CC
+100
+AcDbEntity
+  8
+sand
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+5.000000000000028
+ 20
+-45
+ 10
+5.000000000000028
+ 20
+-41
+ 10
+11.70000000000002
+ 20
+-41
+ 10
+11.70000000000002
+ 20
+-45
+  0
+LWPOLYLINE
+  5
+1CD
+100
+AcDbEntity
+  8
+sand
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+54.29999999999998
+ 20
+-45.00000407999998
+ 10
+54.29999999999998
+ 20
+-41.00000408
+ 10
+63
+ 20
+-41.00000000000003
+ 10
+63
+ 20
+-45.00000000000001
+  0
+DIMENSION
+  5
+1CE
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D26
+ 10
+80
+ 20
+-41.00000000000003
+ 30
+0
+ 11
+77.5
+ 21
+-43.00000000000001
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+63
+ 23
+-45.00000000000001
+ 33
+0
+ 14
+63
+ 24
+-41.00000000000003
+ 34
+0
+ 50
+90
+100
+AcDbRotatedDimension
+  0
+LWPOLYLINE
+  5
+1CF
+100
+AcDbEntity
+  8
+ground
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+   17
+ 70
+    0
+ 43
+0
+ 10
+-5
+ 20
+-44
+ 10
+0
+ 20
+-44
+ 10
+0
+ 20
+-53
+ 10
+5
+ 20
+-53
+ 10
+5
+ 20
+-45.00000000000003
+ 10
+11.70000000000002
+ 20
+-45.00000000000003
+ 10
+11.70000000000002
+ 20
+-58.00000000000001
+ 10
+54.29999999999998
+ 20
+-58.00000000000001
+ 10
+54.29999999999998
+ 20
+-45.00000000000001
+ 10
+63
+ 20
+-45.00000000000001
+ 10
+63
+ 20
+-53
+ 10
+68
+ 20
+-53
+ 10
+68
+ 20
+-44
+ 10
+73
+ 20
+-44
+ 10
+73
+ 20
+-65
+ 10
+-5
+ 20
+-65
+ 10
+-5
+ 20
+-44
+  0
+LWPOLYLINE
+  5
+1D0
+100
+AcDbEntity
+  8
+sand
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+108.0000000000001
+ 20
+-44.99999999999998
+ 10
+108
+ 20
+-41.00000000000003
+ 10
+116.7
+ 20
+-41.00000000000006
+ 10
+116.7
+ 20
+-45.00000000000001
+  0
+LWPOLYLINE
+  5
+1D1
+100
+AcDbEntity
+  8
+sand
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbPolyline
+ 90
+    4
+ 70
+    1
+ 43
+0
+ 10
+134.5
+ 20
+-44.99999999999999
+ 10
+134.5
+ 20
+-41.00000000000001
+ 10
+146.5
+ 20
+-41.00000000000004
+ 10
+146.5
+ 20
+-45.00000000000001
+  0
+LWPOLYLINE
+  5
+1D2
+100
+AcDbEntity
+  8
+ground
+  6
+CONTINUOUS
+ 62
+   35
+420
+9857866
+370
+   50
+100
+AcDbPolyline
+ 90
+   20
+ 70
+    0
+ 43
+0
+ 10
+100
+ 20
+-44
+ 10
+104
+ 20
+-44
+ 10
+104
+ 20
+-53
+ 10
+108
+ 20
+-53
+ 10
+108.0000000000001
+ 20
+-44.99999999999998
+ 10
+108.0000000000001
+ 20
+-44.99999999999998
+ 10
+116.7000000000001
+ 20
+-44.99999999999998
+ 10
+116.7
+ 20
+-47.5
+ 10
+120.5000000000001
+ 20
+-47.50000000000001
+ 10
+120.5
+ 20
+-57.99999999999999
+ 10
+134.5
+ 20
+-57.99999999999999
+ 10
+134.5
+ 20
+-45
+ 10
+146.5
+ 20
+-45
+ 10
+146.5
+ 20
+-53
+ 10
+151.5
+ 20
+-53
+ 10
+151.5
+ 20
+-44
+ 10
+155.5
+ 20
+-44
+ 10
+155.5
+ 20
+-65
+ 10
+100
+ 20
+-65
+ 10
+100
+ 20
+-44
+  0
+DIMENSION
+  5
+1D3
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D27
+ 10
+123
+ 20
+-37
+ 30
+0
+ 11
+120.5
+ 21
+-34.5
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+118
+ 23
+-41
+ 33
+0
+ 14
+123
+ 24
+-40.99999999999999
+ 34
+0
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+1D4
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D28
+ 10
+118
+ 20
+-37
+ 30
+0
+ 11
+110
+ 21
+-34.5
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+116.7
+ 23
+-41.00000000000001
+ 33
+0
+ 14
+118
+ 24
+-41
+ 34
+0
+100
+AcDbRotatedDimension
+  0
+DIMENSION
+  5
+1D5
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -3
+100
+AcDbDimension
+  2
+*D29
+ 10
+129
+ 20
+-47
+ 30
+0
+ 11
+126.5
+ 21
+-47.25
+ 31
+0
+ 70
+   32
+ 71
+    5
+  3
+Standard
+ 53
+0
+210
+0
+220
+0
+230
+1
+100
+AcDbAlignedDimension
+ 13
+123.0000000000001
+ 23
+-47.50000000000001
+ 33
+0
+ 14
+123.0000000000002
+ 24
+-47
+ 34
+0
+ 50
+90
+100
+AcDbRotatedDimension
+  0
+CIRCLE
+  5
+1D6
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+13.00000000000006
+ 20
+-40.19999520000006
+ 40
+4.20000000000006
+  0
+LEADER
+  5
+1D7
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLeader
+  3
+Standard
+ 71
+    1
+ 72
+    0
+ 73
+    3
+ 74
+    0
+ 75
+    0
+ 40
+1
+ 41
+10
+ 76
+3
+ 76
+3
+ 10
+10.00000000000006
+ 20
+-36.9999952
+ 30
+0
+ 10
+5.000000000000057
+ 20
+-29.9999952
+ 30
+0
+ 10
+-6.999999999999943
+ 20
+-29.9999952
+ 30
+0
+  0
+MTEXT
+  5
+1D8
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+-3.999999999999943
+ 20
+-26.9999952
+ 30
+0
+ 40
+4
+ 41
+1.777777777777778
+ 71
+    5
+ 72
+    1
+  1
+C
+  7
+unicode
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+LEADER
+  5
+1D9
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLeader
+  3
+Standard
+ 71
+    1
+ 72
+    0
+ 73
+    3
+ 74
+    0
+ 75
+    0
+ 40
+1
+ 41
+10
+ 76
+2
+ 76
+2
+ 10
+34
+ 20
+-32
+ 30
+0
+ 10
+25
+ 20
+-32
+ 30
+0
+  0
+LINE
+  5
+1DA
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+  100
+100
+AcDbLine
+ 10
+34
+ 20
+-35
+ 11
+34
+ 21
+-30
+  0
+MTEXT
+  5
+1DB
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+27
+ 20
+-28
+ 30
+0
+ 40
+4
+ 41
+2.222222222222222
+ 71
+    5
+ 72
+    1
+  1
+B
+  7
+unicode
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+1DC
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+  100
+100
+AcDbLine
+ 10
+34
+ 20
+-75
+ 11
+34
+ 21
+-70
+  0
+LEADER
+  5
+1DD
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLeader
+  3
+Standard
+ 71
+    1
+ 72
+    0
+ 73
+    3
+ 74
+    0
+ 75
+    0
+ 40
+1
+ 41
+10
+ 76
+2
+ 76
+2
+ 10
+34
+ 20
+-73
+ 30
+0
+ 10
+25
+ 20
+-73
+ 30
+0
+  0
+MTEXT
+  5
+1DE
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+27.11111111111111
+ 20
+-77
+ 30
+0
+ 40
+4
+ 41
+2.222222222222222
+ 71
+    5
+ 72
+    1
+  1
+B
+  7
+unicode
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+MTEXT
+  5
+1DF
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+43
+ 20
+-22
+ 30
+0
+ 40
+4
+ 41
+9.777777777777777
+ 71
+    5
+ 72
+    1
+  1
+A-A
+  7
+unicode
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+1E0
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+37
+ 20
+-25
+ 11
+49
+ 21
+-25
+  0
+MTEXT
+  5
+1E1
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+126
+ 20
+-22
+ 30
+0
+ 40
+4
+ 41
+8.888888888888889
+ 71
+    5
+ 72
+    1
+  1
+B-B
+  7
+unicode
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+1E2
+100
+AcDbEntity
+  8
+dimensions
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+121
+ 20
+-25
+ 11
+131
+ 21
+-25
   0
 ENDSEC
   0
