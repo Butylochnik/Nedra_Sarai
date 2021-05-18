@@ -1,3 +1,5 @@
 *.dxf~
+[#]*.*
+*.png
 /Doc/
 /Sarai/sarai_v1_dah.dxf
