@@ -2,4 +2,5 @@
 [#]*.*
 *.png
 /Doc/
+/Examples/
 /Sarai/sarai_v1_dah.dxf
