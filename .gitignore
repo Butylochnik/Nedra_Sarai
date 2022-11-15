@@ -1,6 +1,7 @@
 *.dxf~
 [#]*.*
 *.png
+/Budynok1/
 /Doc/
 /Examples/
 /Sarai/sarai_v1_dah.dxf
