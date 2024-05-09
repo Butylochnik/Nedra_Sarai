@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
-10000000000
+-77
  20
-10000000000
+-24
  30
 0
   9
 $EXTMAX
  10
--10000000000
+237
  20
--10000000000
+226.6666666666667
  30
 0
   9
@@ -775,9 +775,9 @@ $MAXACTVP
   9
 $PINSBASE
  10
-4.875242326332796
+74.25709651414432
  20
-3.68578352180937
+28.97837700352638
  30
 0
   9
@@ -913,7 +913,7 @@ $EXTNAMES
   9
 $PSVPSCALE
  40
-0.07471719541535289
+1
   9
 $OLESTARTUP
 290
@@ -1121,9 +1121,9 @@ AcDbViewportTableRecord
  21
 1
  12
-127.6160749466228
+168.0369344413666
  22
-78.25713025652409
+115.0914127423823
  13
 0
  23
@@ -1149,7 +1149,7 @@ AcDbViewportTableRecord
  37
 0
  40
-156.5142605130482
+257.6103416435827
  41
 1.987870619946092
  42
@@ -2803,125 +2803,9 @@ SECTION
   2
 ENTITIES
   0
-MTEXT
-  5
-53
-100
-AcDbEntity
-  8
-tekst
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-110
- 20
-240
- 30
-0
- 40
-15
- 41
-224.583333333334
- 71
-    8
- 72
-    1
-  1
-Кронштейн верхнього \Pкріплення 4 шт
-  7
-cyrillic_ii
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-MTEXT
-  5
-54
-100
-AcDbEntity
-  8
-tekst
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbMText
- 10
-300
- 20
-300
- 30
-0
- 40
-20
- 41
-310.5555555555575
- 71
-    8
- 72
-    1
-  1
-Вентиляційна решітка
-  7
-cyrillic_ii
-210
-0
-220
-0
-230
-1
- 50
-0
- 73
-    2
- 44
-1
-  0
-LINE
-  5
-55
-100
-AcDbEntity
-  8
-tekst
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-143
- 20
-303
- 11
-457
- 21
-303
-  0
 LWPOLYLINE
   5
-56
+53
 100
 AcDbEntity
   8
@@ -2959,7 +2843,7 @@ AcDbPolyline
   0
 CIRCLE
   5
-57
+54
 100
 AcDbEntity
   8
@@ -2974,6 +2858,76 @@ ByLayer
 AcDbCircle
  10
 143
+ 20
+143
+ 40
+2
+  0
+LINE
+  5
+55
+100
+AcDbEntity
+  8
+rozmir
+  6
+DASHDOT2
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+143
+ 20
+148
+ 11
+143
+ 21
+138
+  0
+LINE
+  5
+56
+100
+AcDbEntity
+  8
+rozmir
+  6
+DASHDOT2
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+138
+ 20
+143
+ 11
+148
+ 21
+143
+  0
+CIRCLE
+  5
+57
+100
+AcDbEntity
+  8
+reshitka
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+7
  20
 143
  40
@@ -2995,87 +2949,17 @@ DASHDOT2
 100
 AcDbLine
  10
-143
+7
  20
 148
  11
-143
+7
  21
 138
   0
 LINE
   5
 59
-100
-AcDbEntity
-  8
-rozmir
-  6
-DASHDOT2
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-138
- 20
-143
- 11
-148
- 21
-143
-  0
-CIRCLE
-  5
-5A
-100
-AcDbEntity
-  8
-reshitka
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-7
- 20
-143
- 40
-2
-  0
-LINE
-  5
-5B
-100
-AcDbEntity
-  8
-rozmir
-  6
-DASHDOT2
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-7
- 20
-148
- 11
-7
- 21
-138
-  0
-LINE
-  5
-5C
 100
 AcDbEntity
   8
@@ -3099,7 +2983,7 @@ AcDbLine
   0
 CIRCLE
   5
-5D
+5A
 100
 AcDbEntity
   8
@@ -3114,6 +2998,76 @@ ByLayer
 AcDbCircle
  10
 143
+ 20
+7
+ 40
+2
+  0
+LINE
+  5
+5B
+100
+AcDbEntity
+  8
+rozmir
+  6
+DASHDOT2
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+143
+ 20
+12
+ 11
+143
+ 21
+2
+  0
+LINE
+  5
+5C
+100
+AcDbEntity
+  8
+rozmir
+  6
+DASHDOT2
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+138
+ 20
+7
+ 11
+148
+ 21
+7
+  0
+CIRCLE
+  5
+5D
+100
+AcDbEntity
+  8
+reshitka
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+7
  20
 7
  40
@@ -3135,87 +3089,17 @@ DASHDOT2
 100
 AcDbLine
  10
-143
+7
  20
 12
  11
-143
+7
  21
 2
   0
 LINE
   5
 5F
-100
-AcDbEntity
-  8
-rozmir
-  6
-DASHDOT2
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-138
- 20
-7
- 11
-148
- 21
-7
-  0
-CIRCLE
-  5
-60
-100
-AcDbEntity
-  8
-reshitka
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-7
- 20
-7
- 40
-2
-  0
-LINE
-  5
-61
-100
-AcDbEntity
-  8
-rozmir
-  6
-DASHDOT2
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-7
- 20
-12
- 11
-7
- 21
-2
-  0
-LINE
-  5
-62
 100
 AcDbEntity
   8
@@ -3239,7 +3123,7 @@ AcDbLine
   0
 LWPOLYLINE
   5
-63
+60
 100
 AcDbEntity
   8
@@ -3301,7 +3185,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-64
+61
 100
 AcDbEntity
   8
@@ -3363,7 +3247,7 @@ AcDbPolyline
   0
 LWPOLYLINE
   5
-65
+62
 100
 AcDbEntity
   8
@@ -3479,7 +3363,7 @@ AcDbPolyline
   0
 CIRCLE
   5
-66
+63
 100
 AcDbEntity
   8
@@ -3501,7 +3385,7 @@ AcDbCircle
   0
 CIRCLE
   5
-67
+64
 100
 AcDbEntity
   8
@@ -3516,6 +3400,72 @@ ByLayer
 AcDbCircle
  10
 37.5
+ 20
+114
+ 40
+5
+  0
+CIRCLE
+  5
+65
+100
+AcDbEntity
+  8
+lyst
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+30
+ 20
+127
+ 40
+5
+  0
+CIRCLE
+  5
+66
+100
+AcDbEntity
+  8
+lyst
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+45
+ 20
+127
+ 40
+5
+  0
+CIRCLE
+  5
+67
+100
+AcDbEntity
+  8
+lyst
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+52.5
  20
 114
  40
@@ -3537,9 +3487,9 @@ ByLayer
 100
 AcDbCircle
  10
-30
+67.5
  20
-127
+114
  40
 5
   0
@@ -3559,7 +3509,7 @@ ByLayer
 100
 AcDbCircle
  10
-45
+60
  20
 127
  40
@@ -3581,9 +3531,9 @@ ByLayer
 100
 AcDbCircle
  10
-52.5
+75
  20
-114
+127
  40
 5
   0
@@ -3603,7 +3553,7 @@ ByLayer
 100
 AcDbCircle
  10
-67.5
+82.5
  20
 114
  40
@@ -3625,9 +3575,9 @@ ByLayer
 100
 AcDbCircle
  10
-60
+97.5
  20
-127
+114
  40
 5
   0
@@ -3647,7 +3597,7 @@ ByLayer
 100
 AcDbCircle
  10
-75
+90
  20
 127
  40
@@ -3669,9 +3619,9 @@ ByLayer
 100
 AcDbCircle
  10
-82.5
+105
  20
-114
+127
  40
 5
   0
@@ -3691,7 +3641,7 @@ ByLayer
 100
 AcDbCircle
  10
-97.5
+112.5
  20
 114
  40
@@ -3713,9 +3663,9 @@ ByLayer
 100
 AcDbCircle
  10
-90
+127.5
  20
-127
+114
  40
 5
   0
@@ -3735,7 +3685,7 @@ ByLayer
 100
 AcDbCircle
  10
-105
+120
  20
 127
  40
@@ -3757,9 +3707,9 @@ ByLayer
 100
 AcDbCircle
  10
-112.5
+22.5
  20
-114
+87.99999999999999
  40
 5
   0
@@ -3779,9 +3729,9 @@ ByLayer
 100
 AcDbCircle
  10
-127.5
+37.5
  20
-114
+87.99999999999999
  40
 5
   0
@@ -3801,9 +3751,9 @@ ByLayer
 100
 AcDbCircle
  10
-120
+30
  20
-127
+101
  40
 5
   0
@@ -3823,9 +3773,9 @@ ByLayer
 100
 AcDbCircle
  10
-22.5
+45
  20
-87.99999999999999
+101
  40
 5
   0
@@ -3845,7 +3795,7 @@ ByLayer
 100
 AcDbCircle
  10
-37.5
+52.5
  20
 87.99999999999999
  40
@@ -3867,9 +3817,9 @@ ByLayer
 100
 AcDbCircle
  10
-30
+67.5
  20
-101
+87.99999999999999
  40
 5
   0
@@ -3889,7 +3839,7 @@ ByLayer
 100
 AcDbCircle
  10
-45
+60
  20
 101
  40
@@ -3911,9 +3861,9 @@ ByLayer
 100
 AcDbCircle
  10
-52.5
+75
  20
-87.99999999999999
+101
  40
 5
   0
@@ -3933,7 +3883,7 @@ ByLayer
 100
 AcDbCircle
  10
-67.5
+82.5
  20
 87.99999999999999
  40
@@ -3955,9 +3905,9 @@ ByLayer
 100
 AcDbCircle
  10
-60
+97.5
  20
-101
+87.99999999999999
  40
 5
   0
@@ -3977,7 +3927,7 @@ ByLayer
 100
 AcDbCircle
  10
-75
+90
  20
 101
  40
@@ -3999,9 +3949,9 @@ ByLayer
 100
 AcDbCircle
  10
-82.5
+105
  20
-87.99999999999999
+101
  40
 5
   0
@@ -4021,7 +3971,7 @@ ByLayer
 100
 AcDbCircle
  10
-97.5
+112.5
  20
 87.99999999999999
  40
@@ -4043,9 +3993,9 @@ ByLayer
 100
 AcDbCircle
  10
-90
+127.5
  20
-101
+87.99999999999999
  40
 5
   0
@@ -4065,7 +4015,7 @@ ByLayer
 100
 AcDbCircle
  10
-105
+120
  20
 101
  40
@@ -4087,72 +4037,6 @@ ByLayer
 100
 AcDbCircle
  10
-112.5
- 20
-87.99999999999999
- 40
-5
-  0
-CIRCLE
-  5
-82
-100
-AcDbEntity
-  8
-lyst
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-127.5
- 20
-87.99999999999999
- 40
-5
-  0
-CIRCLE
-  5
-83
-100
-AcDbEntity
-  8
-lyst
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-120
- 20
-101
- 40
-5
-  0
-CIRCLE
-  5
-84
-100
-AcDbEntity
-  8
-lyst
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
 22.5
  20
 61.99999999999999
@@ -4161,7 +4045,7 @@ AcDbCircle
   0
 CIRCLE
   5
-85
+82
 100
 AcDbEntity
   8
@@ -4183,7 +4067,7 @@ AcDbCircle
   0
 CIRCLE
   5
-86
+83
 100
 AcDbEntity
   8
@@ -4205,7 +4089,7 @@ AcDbCircle
   0
 CIRCLE
   5
-87
+84
 100
 AcDbEntity
   8
@@ -4227,7 +4111,7 @@ AcDbCircle
   0
 CIRCLE
   5
-88
+85
 100
 AcDbEntity
   8
@@ -4249,7 +4133,7 @@ AcDbCircle
   0
 CIRCLE
   5
-89
+86
 100
 AcDbEntity
   8
@@ -4264,6 +4148,72 @@ ByLayer
 AcDbCircle
  10
 67.5
+ 20
+61.99999999999999
+ 40
+5
+  0
+CIRCLE
+  5
+87
+100
+AcDbEntity
+  8
+lyst
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+60
+ 20
+75
+ 40
+5
+  0
+CIRCLE
+  5
+88
+100
+AcDbEntity
+  8
+lyst
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+75
+ 20
+75
+ 40
+5
+  0
+CIRCLE
+  5
+89
+100
+AcDbEntity
+  8
+lyst
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+82.5
  20
 61.99999999999999
  40
@@ -4285,9 +4235,9 @@ ByLayer
 100
 AcDbCircle
  10
-60
+97.5
  20
-75
+61.99999999999999
  40
 5
   0
@@ -4307,7 +4257,7 @@ ByLayer
 100
 AcDbCircle
  10
-75
+90
  20
 75
  40
@@ -4329,9 +4279,9 @@ ByLayer
 100
 AcDbCircle
  10
-82.5
+105
  20
-61.99999999999999
+75
  40
 5
   0
@@ -4351,7 +4301,7 @@ ByLayer
 100
 AcDbCircle
  10
-97.5
+112.5
  20
 61.99999999999999
  40
@@ -4373,72 +4323,6 @@ ByLayer
 100
 AcDbCircle
  10
-90
- 20
-75
- 40
-5
-  0
-CIRCLE
-  5
-8F
-100
-AcDbEntity
-  8
-lyst
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-105
- 20
-75
- 40
-5
-  0
-CIRCLE
-  5
-90
-100
-AcDbEntity
-  8
-lyst
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-112.5
- 20
-61.99999999999999
- 40
-5
-  0
-CIRCLE
-  5
-91
-100
-AcDbEntity
-  8
-lyst
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
 127.5
  20
 61.99999999999999
@@ -4447,7 +4331,7 @@ AcDbCircle
   0
 CIRCLE
   5
-92
+8F
 100
 AcDbEntity
   8
@@ -4469,7 +4353,7 @@ AcDbCircle
   0
 CIRCLE
   5
-93
+90
 100
 AcDbEntity
   8
@@ -4491,7 +4375,7 @@ AcDbCircle
   0
 CIRCLE
   5
-94
+91
 100
 AcDbEntity
   8
@@ -4506,6 +4390,72 @@ ByLayer
 AcDbCircle
  10
 37.5
+ 20
+35.99999999999999
+ 40
+5
+  0
+CIRCLE
+  5
+92
+100
+AcDbEntity
+  8
+lyst
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+30
+ 20
+49
+ 40
+5
+  0
+CIRCLE
+  5
+93
+100
+AcDbEntity
+  8
+lyst
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+45
+ 20
+49
+ 40
+5
+  0
+CIRCLE
+  5
+94
+100
+AcDbEntity
+  8
+lyst
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+52.5
  20
 35.99999999999999
  40
@@ -4527,9 +4477,9 @@ ByLayer
 100
 AcDbCircle
  10
-30
+67.5
  20
-49
+35.99999999999999
  40
 5
   0
@@ -4549,7 +4499,7 @@ ByLayer
 100
 AcDbCircle
  10
-45
+60
  20
 49
  40
@@ -4571,9 +4521,9 @@ ByLayer
 100
 AcDbCircle
  10
-52.5
+75
  20
-35.99999999999999
+49
  40
 5
   0
@@ -4593,7 +4543,7 @@ ByLayer
 100
 AcDbCircle
  10
-67.5
+82.5
  20
 35.99999999999999
  40
@@ -4615,9 +4565,9 @@ ByLayer
 100
 AcDbCircle
  10
-60
+97.5
  20
-49
+35.99999999999999
  40
 5
   0
@@ -4637,7 +4587,7 @@ ByLayer
 100
 AcDbCircle
  10
-75
+90
  20
 49
  40
@@ -4659,9 +4609,9 @@ ByLayer
 100
 AcDbCircle
  10
-82.5
+105
  20
-35.99999999999999
+49
  40
 5
   0
@@ -4681,7 +4631,7 @@ ByLayer
 100
 AcDbCircle
  10
-97.5
+112.5
  20
 35.99999999999999
  40
@@ -4703,9 +4653,9 @@ ByLayer
 100
 AcDbCircle
  10
-90
+127.5
  20
-49
+35.99999999999999
  40
 5
   0
@@ -4725,7 +4675,7 @@ ByLayer
 100
 AcDbCircle
  10
-105
+120
  20
 49
  40
@@ -4747,9 +4697,9 @@ ByLayer
 100
 AcDbCircle
  10
-112.5
+30
  20
-35.99999999999999
+23
  40
 5
   0
@@ -4769,9 +4719,9 @@ ByLayer
 100
 AcDbCircle
  10
-127.5
+45
  20
-35.99999999999999
+23
  40
 5
   0
@@ -4791,9 +4741,9 @@ ByLayer
 100
 AcDbCircle
  10
-120
+60
  20
-49
+23
  40
 5
   0
@@ -4813,7 +4763,7 @@ ByLayer
 100
 AcDbCircle
  10
-30
+75
  20
 23
  40
@@ -4835,7 +4785,7 @@ ByLayer
 100
 AcDbCircle
  10
-45
+90
  20
 23
  40
@@ -4857,7 +4807,7 @@ ByLayer
 100
 AcDbCircle
  10
-60
+105
  20
 23
  40
@@ -4879,77 +4829,83 @@ ByLayer
 100
 AcDbCircle
  10
-75
- 20
-23
- 40
-5
-  0
-CIRCLE
-  5
-A6
-100
-AcDbEntity
-  8
-lyst
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-90
- 20
-23
- 40
-5
-  0
-CIRCLE
-  5
-A7
-100
-AcDbEntity
-  8
-lyst
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
-105
- 20
-23
- 40
-5
-  0
-CIRCLE
-  5
-A8
-100
-AcDbEntity
-  8
-lyst
-  6
-ByLayer
- 62
-  256
-370
-   -1
-100
-AcDbCircle
- 10
 120
  20
 23
  40
 5
+  0
+LINE
+  5
+A6
+100
+AcDbEntity
+  8
+rozmir
+  6
+DASHDOT2
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+30
+ 20
+131
+ 11
+30
+ 21
+123
+  0
+LINE
+  5
+A7
+100
+AcDbEntity
+  8
+rozmir
+  6
+DASHDOT2
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+26
+ 20
+127
+ 11
+34
+ 21
+127
+  0
+LINE
+  5
+A8
+100
+AcDbEntity
+  8
+rozmir
+  6
+DASHDOT2
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+45
+ 20
+131
+ 11
+45
+ 21
+123
   0
 LINE
   5
@@ -4967,13 +4923,13 @@ DASHDOT2
 100
 AcDbLine
  10
-30
+41
  20
-131
+127
  11
-30
+49
  21
-123
+127
   0
 LINE
   5
@@ -4991,13 +4947,13 @@ DASHDOT2
 100
 AcDbLine
  10
-26
+60
  20
-127
+131
  11
-34
+60
  21
-127
+123
   0
 LINE
   5
@@ -5015,13 +4971,13 @@ DASHDOT2
 100
 AcDbLine
  10
-45
+56
  20
-131
+127
  11
-45
+64
  21
-123
+127
   0
 LINE
   5
@@ -5039,13 +4995,13 @@ DASHDOT2
 100
 AcDbLine
  10
-41
+75
  20
-127
+131
  11
-49
+75
  21
-127
+123
   0
 LINE
   5
@@ -5063,13 +5019,13 @@ DASHDOT2
 100
 AcDbLine
  10
-60
+71
  20
-131
+127
  11
-60
+79
  21
-123
+127
   0
 LINE
   5
@@ -5087,13 +5043,13 @@ DASHDOT2
 100
 AcDbLine
  10
-56
+90
  20
-127
+131
  11
-64
+90
  21
-127
+123
   0
 LINE
   5
@@ -5111,13 +5067,13 @@ DASHDOT2
 100
 AcDbLine
  10
-75
+86
  20
-131
+127
  11
-75
+94
  21
-123
+127
   0
 LINE
   5
@@ -5135,13 +5091,13 @@ DASHDOT2
 100
 AcDbLine
  10
-71
+105
  20
-127
+131
  11
-79
+105
  21
-127
+123
   0
 LINE
   5
@@ -5159,13 +5115,13 @@ DASHDOT2
 100
 AcDbLine
  10
-90
+101
  20
-131
+127
  11
-90
+109
  21
-123
+127
   0
 LINE
   5
@@ -5183,13 +5139,13 @@ DASHDOT2
 100
 AcDbLine
  10
-86
+120
  20
-127
+131
  11
-94
+120
  21
-127
+123
   0
 LINE
   5
@@ -5207,13 +5163,13 @@ DASHDOT2
 100
 AcDbLine
  10
-105
+116
  20
-131
+127
  11
-105
+124
  21
-123
+127
   0
 LINE
   5
@@ -5231,13 +5187,13 @@ DASHDOT2
 100
 AcDbLine
  10
-101
+22.5
  20
-127
+118
  11
-109
+22.5
  21
-127
+110
   0
 LINE
   5
@@ -5255,13 +5211,13 @@ DASHDOT2
 100
 AcDbLine
  10
-120
+18.5
  20
-131
+114
  11
-120
+26.5
  21
-123
+114
   0
 LINE
   5
@@ -5279,13 +5235,13 @@ DASHDOT2
 100
 AcDbLine
  10
-116
+37.5
  20
-127
+118
  11
-124
+37.5
  21
-127
+110
   0
 LINE
   5
@@ -5303,13 +5259,13 @@ DASHDOT2
 100
 AcDbLine
  10
-22.5
+33.5
  20
-118
+114
  11
-22.5
+41.5
  21
-110
+114
   0
 LINE
   5
@@ -5327,13 +5283,13 @@ DASHDOT2
 100
 AcDbLine
  10
-18.5
+52.5
  20
-114
+118
  11
-26.5
+52.5
  21
-114
+110
   0
 LINE
   5
@@ -5351,13 +5307,13 @@ DASHDOT2
 100
 AcDbLine
  10
-37.5
+48.5
  20
-118
+114
  11
-37.5
+56.5
  21
-110
+114
   0
 LINE
   5
@@ -5375,13 +5331,13 @@ DASHDOT2
 100
 AcDbLine
  10
-33.5
+67.5
  20
-114
+118
  11
-41.5
+67.5
  21
-114
+110
   0
 LINE
   5
@@ -5399,13 +5355,13 @@ DASHDOT2
 100
 AcDbLine
  10
-52.5
+63.5
  20
-118
+114
  11
-52.5
+71.5
  21
-110
+114
   0
 LINE
   5
@@ -5423,13 +5379,13 @@ DASHDOT2
 100
 AcDbLine
  10
-48.5
+82.5
  20
-114
+118
  11
-56.5
+82.5
  21
-114
+110
   0
 LINE
   5
@@ -5447,13 +5403,13 @@ DASHDOT2
 100
 AcDbLine
  10
-67.5
+78.5
  20
-118
+114
  11
-67.5
+86.5
  21
-110
+114
   0
 LINE
   5
@@ -5471,13 +5427,13 @@ DASHDOT2
 100
 AcDbLine
  10
-63.5
+97.5
  20
-114
+118
  11
-71.5
+97.5
  21
-114
+110
   0
 LINE
   5
@@ -5495,13 +5451,13 @@ DASHDOT2
 100
 AcDbLine
  10
-82.5
+93.5
  20
-118
+114
  11
-82.5
+101.5
  21
-110
+114
   0
 LINE
   5
@@ -5519,13 +5475,13 @@ DASHDOT2
 100
 AcDbLine
  10
-78.5
+112.5
  20
-114
+118
  11
-86.5
+112.5
  21
-114
+110
   0
 LINE
   5
@@ -5543,13 +5499,13 @@ DASHDOT2
 100
 AcDbLine
  10
-97.5
+108.5
  20
-118
+114
  11
-97.5
+116.5
  21
-110
+114
   0
 LINE
   5
@@ -5567,13 +5523,13 @@ DASHDOT2
 100
 AcDbLine
  10
-93.5
+127.5
  20
-114
+118
  11
-101.5
+127.5
  21
-114
+110
   0
 LINE
   5
@@ -5591,13 +5547,13 @@ DASHDOT2
 100
 AcDbLine
  10
-112.5
+123.5
  20
-118
+114
  11
-112.5
+131.5
  21
-110
+114
   0
 LINE
   5
@@ -5615,13 +5571,13 @@ DASHDOT2
 100
 AcDbLine
  10
-108.5
+30
  20
-114
+105
  11
-116.5
+30
  21
-114
+97
   0
 LINE
   5
@@ -5639,13 +5595,13 @@ DASHDOT2
 100
 AcDbLine
  10
-127.5
+26
  20
-118
+101
  11
-127.5
+34
  21
-110
+101
   0
 LINE
   5
@@ -5663,13 +5619,13 @@ DASHDOT2
 100
 AcDbLine
  10
-123.5
+45
  20
-114
+105
  11
-131.5
+45
  21
-114
+97
   0
 LINE
   5
@@ -5687,13 +5643,13 @@ DASHDOT2
 100
 AcDbLine
  10
-30
+41
  20
-105
+101
  11
-30
+49
  21
-97
+101
   0
 LINE
   5
@@ -5711,13 +5667,13 @@ DASHDOT2
 100
 AcDbLine
  10
-26
+60
  20
-101
+105
  11
-34
+60
  21
-101
+97
   0
 LINE
   5
@@ -5735,13 +5691,13 @@ DASHDOT2
 100
 AcDbLine
  10
-45
+56
  20
-105
+101
  11
-45
+64
  21
-97
+101
   0
 LINE
   5
@@ -5759,13 +5715,13 @@ DASHDOT2
 100
 AcDbLine
  10
-41
+75
  20
-101
+105
  11
-49
+75
  21
-101
+97
   0
 LINE
   5
@@ -5783,13 +5739,13 @@ DASHDOT2
 100
 AcDbLine
  10
-60
+71
  20
-105
+101
  11
-60
+79
  21
-97
+101
   0
 LINE
   5
@@ -5807,13 +5763,13 @@ DASHDOT2
 100
 AcDbLine
  10
-56
+90
  20
-101
+105
  11
-64
+90
  21
-101
+97
   0
 LINE
   5
@@ -5831,13 +5787,13 @@ DASHDOT2
 100
 AcDbLine
  10
-75
+86
  20
-105
+101
  11
-75
+94
  21
-97
+101
   0
 LINE
   5
@@ -5855,13 +5811,13 @@ DASHDOT2
 100
 AcDbLine
  10
-71
+105
  20
-101
+105
  11
-79
+105
  21
-101
+97
   0
 LINE
   5
@@ -5879,13 +5835,13 @@ DASHDOT2
 100
 AcDbLine
  10
-90
+101
  20
-105
+101
  11
-90
+109
  21
-97
+101
   0
 LINE
   5
@@ -5903,13 +5859,13 @@ DASHDOT2
 100
 AcDbLine
  10
-86
+120
  20
-101
+105
  11
-94
+120
  21
-101
+97
   0
 LINE
   5
@@ -5927,13 +5883,13 @@ DASHDOT2
 100
 AcDbLine
  10
-105
+116
  20
-105
+101
  11
-105
+124
  21
-97
+101
   0
 LINE
   5
@@ -5951,13 +5907,13 @@ DASHDOT2
 100
 AcDbLine
  10
-101
+22.5
  20
-101
+92
  11
-109
+22.5
  21
-101
+84
   0
 LINE
   5
@@ -5975,13 +5931,13 @@ DASHDOT2
 100
 AcDbLine
  10
-120
+18.5
  20
-105
+88
  11
-120
+26.5
  21
-97
+88
   0
 LINE
   5
@@ -5999,13 +5955,13 @@ DASHDOT2
 100
 AcDbLine
  10
-116
+37.5
  20
-101
+92
  11
-124
+37.5
  21
-101
+84
   0
 LINE
   5
@@ -6023,13 +5979,13 @@ DASHDOT2
 100
 AcDbLine
  10
-22.5
+33.5
  20
-92
+88
  11
-22.5
+41.5
  21
-84
+88
   0
 LINE
   5
@@ -6047,13 +6003,13 @@ DASHDOT2
 100
 AcDbLine
  10
-18.5
+52.5
  20
-88
+92
  11
-26.5
+52.5
  21
-88
+84
   0
 LINE
   5
@@ -6071,13 +6027,13 @@ DASHDOT2
 100
 AcDbLine
  10
-37.5
+48.5
  20
-92
+88
  11
-37.5
+56.5
  21
-84
+88
   0
 LINE
   5
@@ -6095,13 +6051,13 @@ DASHDOT2
 100
 AcDbLine
  10
-33.5
+67.5
  20
-88
+92
  11
-41.5
+67.5
  21
-88
+84
   0
 LINE
   5
@@ -6119,13 +6075,13 @@ DASHDOT2
 100
 AcDbLine
  10
-52.5
+63.5
  20
-92
+88
  11
-52.5
+71.5
  21
-84
+88
   0
 LINE
   5
@@ -6143,13 +6099,13 @@ DASHDOT2
 100
 AcDbLine
  10
-48.5
+82.5
  20
-88
+92
  11
-56.5
+82.5
  21
-88
+84
   0
 LINE
   5
@@ -6167,13 +6123,13 @@ DASHDOT2
 100
 AcDbLine
  10
-67.5
+78.5
  20
-92
+88
  11
-67.5
+86.5
  21
-84
+88
   0
 LINE
   5
@@ -6191,13 +6147,13 @@ DASHDOT2
 100
 AcDbLine
  10
-63.5
+97.5
  20
-88
+92
  11
-71.5
+97.5
  21
-88
+84
   0
 LINE
   5
@@ -6215,13 +6171,13 @@ DASHDOT2
 100
 AcDbLine
  10
-82.5
+93.5
  20
-92
+88
  11
-82.5
+101.5
  21
-84
+88
   0
 LINE
   5
@@ -6239,13 +6195,13 @@ DASHDOT2
 100
 AcDbLine
  10
-78.5
+112.5
  20
-88
+92
  11
-86.5
+112.5
  21
-88
+84
   0
 LINE
   5
@@ -6263,13 +6219,13 @@ DASHDOT2
 100
 AcDbLine
  10
-97.5
+108.5
  20
-92
+88
  11
-97.5
+116.5
  21
-84
+88
   0
 LINE
   5
@@ -6287,13 +6243,13 @@ DASHDOT2
 100
 AcDbLine
  10
-93.5
+127.5
  20
-88
+92
  11
-101.5
+127.5
  21
-88
+84
   0
 LINE
   5
@@ -6311,13 +6267,13 @@ DASHDOT2
 100
 AcDbLine
  10
-112.5
+123.5
  20
-92
+88
  11
-112.5
+131.5
  21
-84
+88
   0
 LINE
   5
@@ -6335,13 +6291,13 @@ DASHDOT2
 100
 AcDbLine
  10
-108.5
+30
  20
-88
+79
  11
-116.5
+30
  21
-88
+71
   0
 LINE
   5
@@ -6359,13 +6315,13 @@ DASHDOT2
 100
 AcDbLine
  10
-127.5
+26
  20
-92
+75
  11
-127.5
+34
  21
-84
+75
   0
 LINE
   5
@@ -6383,13 +6339,13 @@ DASHDOT2
 100
 AcDbLine
  10
-123.5
+45
  20
-88
+79
  11
-131.5
+45
  21
-88
+71
   0
 LINE
   5
@@ -6407,13 +6363,13 @@ DASHDOT2
 100
 AcDbLine
  10
-30
+41
  20
-79
+75
  11
-30
+49
  21
-71
+75
   0
 LINE
   5
@@ -6431,13 +6387,13 @@ DASHDOT2
 100
 AcDbLine
  10
-26
+60
  20
-75
+79
  11
-34
+60
  21
-75
+71
   0
 LINE
   5
@@ -6455,13 +6411,13 @@ DASHDOT2
 100
 AcDbLine
  10
-45
+56
  20
-79
+75
  11
-45
+64
  21
-71
+75
   0
 LINE
   5
@@ -6479,13 +6435,13 @@ DASHDOT2
 100
 AcDbLine
  10
-41
+75
  20
-75
+79
  11
-49
- 21
 75
+ 21
+71
   0
 LINE
   5
@@ -6503,13 +6459,13 @@ DASHDOT2
 100
 AcDbLine
  10
-60
- 20
-79
- 11
-60
- 21
 71
+ 20
+75
+ 11
+79
+ 21
+75
   0
 LINE
   5
@@ -6527,13 +6483,13 @@ DASHDOT2
 100
 AcDbLine
  10
-56
+90
  20
-75
+79
  11
-64
+90
  21
-75
+71
   0
 LINE
   5
@@ -6551,13 +6507,13 @@ DASHDOT2
 100
 AcDbLine
  10
-75
+86
  20
-79
- 11
 75
+ 11
+94
  21
-71
+75
   0
 LINE
   5
@@ -6575,13 +6531,13 @@ DASHDOT2
 100
 AcDbLine
  10
-71
+105
  20
-75
- 11
 79
+ 11
+105
  21
-75
+71
   0
 LINE
   5
@@ -6599,13 +6555,13 @@ DASHDOT2
 100
 AcDbLine
  10
-90
+101
  20
-79
+75
  11
-90
+109
  21
-71
+75
   0
 LINE
   5
@@ -6623,13 +6579,13 @@ DASHDOT2
 100
 AcDbLine
  10
-86
+120
  20
-75
+79
  11
-94
+120
  21
-75
+71
   0
 LINE
   5
@@ -6647,13 +6603,13 @@ DASHDOT2
 100
 AcDbLine
  10
-105
+116
  20
-79
+75
  11
-105
+124
  21
-71
+75
   0
 LINE
   5
@@ -6671,13 +6627,13 @@ DASHDOT2
 100
 AcDbLine
  10
-101
+22.5
  20
-75
+66
  11
-109
+22.5
  21
-75
+58
   0
 LINE
   5
@@ -6695,13 +6651,13 @@ DASHDOT2
 100
 AcDbLine
  10
-120
+18.5
  20
-79
+62
  11
-120
+26.5
  21
-71
+62
   0
 LINE
   5
@@ -6719,13 +6675,13 @@ DASHDOT2
 100
 AcDbLine
  10
-116
+37.5
  20
-75
+66
  11
-124
+37.5
  21
-75
+58
   0
 LINE
   5
@@ -6743,13 +6699,13 @@ DASHDOT2
 100
 AcDbLine
  10
-22.5
+33.5
  20
-66
+62
  11
-22.5
+41.5
  21
-58
+62
   0
 LINE
   5
@@ -6767,13 +6723,13 @@ DASHDOT2
 100
 AcDbLine
  10
-18.5
+52.5
  20
-62
+66
  11
-26.5
+52.5
  21
-62
+58
   0
 LINE
   5
@@ -6791,13 +6747,13 @@ DASHDOT2
 100
 AcDbLine
  10
-37.5
+48.5
  20
-66
+62
  11
-37.5
+56.5
  21
-58
+62
   0
 LINE
   5
@@ -6815,89 +6771,17 @@ DASHDOT2
 100
 AcDbLine
  10
-33.5
+67.5
  20
-62
+66
  11
-41.5
+67.5
  21
-62
+58
   0
 LINE
   5
 F7
-100
-AcDbEntity
-  8
-rozmir
-  6
-DASHDOT2
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-52.5
- 20
-66
- 11
-52.5
- 21
-58
-  0
-LINE
-  5
-F8
-100
-AcDbEntity
-  8
-rozmir
-  6
-DASHDOT2
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-48.5
- 20
-62
- 11
-56.5
- 21
-62
-  0
-LINE
-  5
-F9
-100
-AcDbEntity
-  8
-rozmir
-  6
-DASHDOT2
- 62
-  256
-370
-   -1
-100
-AcDbLine
- 10
-67.5
- 20
-66
- 11
-67.5
- 21
-58
-  0
-LINE
-  5
-FA
 100
 AcDbEntity
   8
@@ -6921,7 +6805,7 @@ AcDbLine
   0
 LINE
   5
-FB
+F8
 100
 AcDbEntity
   8
@@ -6945,7 +6829,7 @@ AcDbLine
   0
 LINE
   5
-FC
+F9
 100
 AcDbEntity
   8
@@ -6969,7 +6853,7 @@ AcDbLine
   0
 LINE
   5
-FD
+FA
 100
 AcDbEntity
   8
@@ -6993,7 +6877,7 @@ AcDbLine
   0
 LINE
   5
-FE
+FB
 100
 AcDbEntity
   8
@@ -7017,7 +6901,7 @@ AcDbLine
   0
 LINE
   5
-FF
+FC
 100
 AcDbEntity
   8
@@ -7041,7 +6925,7 @@ AcDbLine
   0
 LINE
   5
-100
+FD
 100
 AcDbEntity
   8
@@ -7065,7 +6949,7 @@ AcDbLine
   0
 LINE
   5
-101
+FE
 100
 AcDbEntity
   8
@@ -7089,7 +6973,7 @@ AcDbLine
   0
 LINE
   5
-102
+FF
 100
 AcDbEntity
   8
@@ -7113,7 +6997,7 @@ AcDbLine
   0
 LINE
   5
-103
+100
 100
 AcDbEntity
   8
@@ -7137,7 +7021,7 @@ AcDbLine
   0
 LINE
   5
-104
+101
 100
 AcDbEntity
   8
@@ -7161,7 +7045,7 @@ AcDbLine
   0
 LINE
   5
-105
+102
 100
 AcDbEntity
   8
@@ -7185,7 +7069,7 @@ AcDbLine
   0
 LINE
   5
-106
+103
 100
 AcDbEntity
   8
@@ -7209,7 +7093,7 @@ AcDbLine
   0
 LINE
   5
-107
+104
 100
 AcDbEntity
   8
@@ -7233,7 +7117,7 @@ AcDbLine
   0
 LINE
   5
-108
+105
 100
 AcDbEntity
   8
@@ -7257,7 +7141,7 @@ AcDbLine
   0
 LINE
   5
-109
+106
 100
 AcDbEntity
   8
@@ -7281,7 +7165,7 @@ AcDbLine
   0
 LINE
   5
-10A
+107
 100
 AcDbEntity
   8
@@ -7305,7 +7189,7 @@ AcDbLine
   0
 LINE
   5
-10B
+108
 100
 AcDbEntity
   8
@@ -7329,7 +7213,7 @@ AcDbLine
   0
 LINE
   5
-10C
+109
 100
 AcDbEntity
   8
@@ -7353,7 +7237,7 @@ AcDbLine
   0
 LINE
   5
-10D
+10A
 100
 AcDbEntity
   8
@@ -7377,7 +7261,7 @@ AcDbLine
   0
 LINE
   5
-10E
+10B
 100
 AcDbEntity
   8
@@ -7401,7 +7285,7 @@ AcDbLine
   0
 LINE
   5
-10F
+10C
 100
 AcDbEntity
   8
@@ -7425,7 +7309,7 @@ AcDbLine
   0
 LINE
   5
-110
+10D
 100
 AcDbEntity
   8
@@ -7449,7 +7333,7 @@ AcDbLine
   0
 LINE
   5
-111
+10E
 100
 AcDbEntity
   8
@@ -7473,7 +7357,7 @@ AcDbLine
   0
 LINE
   5
-112
+10F
 100
 AcDbEntity
   8
@@ -7497,7 +7381,7 @@ AcDbLine
   0
 LINE
   5
-113
+110
 100
 AcDbEntity
   8
@@ -7521,7 +7405,7 @@ AcDbLine
   0
 LINE
   5
-114
+111
 100
 AcDbEntity
   8
@@ -7545,7 +7429,7 @@ AcDbLine
   0
 LINE
   5
-115
+112
 100
 AcDbEntity
   8
@@ -7569,7 +7453,7 @@ AcDbLine
   0
 LINE
   5
-116
+113
 100
 AcDbEntity
   8
@@ -7593,7 +7477,7 @@ AcDbLine
   0
 LINE
   5
-117
+114
 100
 AcDbEntity
   8
@@ -7617,7 +7501,7 @@ AcDbLine
   0
 LINE
   5
-118
+115
 100
 AcDbEntity
   8
@@ -7641,7 +7525,7 @@ AcDbLine
   0
 LINE
   5
-119
+116
 100
 AcDbEntity
   8
@@ -7665,7 +7549,7 @@ AcDbLine
   0
 LINE
   5
-11A
+117
 100
 AcDbEntity
   8
@@ -7689,7 +7573,7 @@ AcDbLine
   0
 LINE
   5
-11B
+118
 100
 AcDbEntity
   8
@@ -7713,7 +7597,7 @@ AcDbLine
   0
 LINE
   5
-11C
+119
 100
 AcDbEntity
   8
@@ -7737,7 +7621,7 @@ AcDbLine
   0
 LINE
   5
-11D
+11A
 100
 AcDbEntity
   8
@@ -7761,7 +7645,7 @@ AcDbLine
   0
 LINE
   5
-11E
+11B
 100
 AcDbEntity
   8
@@ -7785,7 +7669,7 @@ AcDbLine
   0
 LINE
   5
-11F
+11C
 100
 AcDbEntity
   8
@@ -7809,7 +7693,7 @@ AcDbLine
   0
 LINE
   5
-120
+11D
 100
 AcDbEntity
   8
@@ -7833,7 +7717,7 @@ AcDbLine
   0
 LINE
   5
-121
+11E
 100
 AcDbEntity
   8
@@ -7857,7 +7741,7 @@ AcDbLine
   0
 LINE
   5
-122
+11F
 100
 AcDbEntity
   8
@@ -7881,7 +7765,7 @@ AcDbLine
   0
 LINE
   5
-123
+120
 100
 AcDbEntity
   8
@@ -7905,7 +7789,7 @@ AcDbLine
   0
 LINE
   5
-124
+121
 100
 AcDbEntity
   8
@@ -7929,7 +7813,7 @@ AcDbLine
   0
 LINE
   5
-125
+122
 100
 AcDbEntity
   8
@@ -7953,7 +7837,7 @@ AcDbLine
   0
 LINE
   5
-126
+123
 100
 AcDbEntity
   8
@@ -7977,7 +7861,7 @@ AcDbLine
   0
 LINE
   5
-127
+124
 100
 AcDbEntity
   8
@@ -8001,7 +7885,7 @@ AcDbLine
   0
 LINE
   5
-128
+125
 100
 AcDbEntity
   8
@@ -8025,7 +7909,7 @@ AcDbLine
   0
 LINE
   5
-129
+126
 100
 AcDbEntity
   8
@@ -8049,7 +7933,7 @@ AcDbLine
   0
 LINE
   5
-12A
+127
 100
 AcDbEntity
   8
@@ -8073,7 +7957,7 @@ AcDbLine
   0
 LINE
   5
-12B
+128
 100
 AcDbEntity
   8
@@ -8097,7 +7981,7 @@ AcDbLine
   0
 LINE
   5
-12C
+129
 100
 AcDbEntity
   8
@@ -8121,7 +8005,7 @@ AcDbLine
   0
 LINE
   5
-12D
+12A
 100
 AcDbEntity
   8
@@ -8145,7 +8029,7 @@ AcDbLine
   0
 LINE
   5
-12E
+12B
 100
 AcDbEntity
   8
@@ -8166,6 +8050,76 @@ AcDbLine
 124
  21
 23
+  0
+MTEXT
+  5
+12C
+100
+AcDbEntity
+  8
+tekst
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbMText
+ 10
+80
+ 20
+200
+ 30
+0
+ 40
+20
+ 41
+310.5555555555575
+ 71
+    8
+ 72
+    1
+  1
+Вентиляційна решітка
+  7
+cyrillic_ii
+210
+0
+220
+0
+230
+1
+ 50
+0
+ 73
+    2
+ 44
+1
+  0
+LINE
+  5
+12D
+100
+AcDbEntity
+  8
+tekst
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbLine
+ 10
+-77
+ 20
+203
+ 11
+237
+ 21
+203
   0
 ENDSEC
   0
